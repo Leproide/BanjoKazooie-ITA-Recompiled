@@ -60,7 +60,7 @@ I testi provengono dalla traduzione amatoriale [Banjo-Kazooie Traduzione Italian
 
 La cartella `quiz/` contiene le 200 domande tradotte, pronte per quando DialogLoader supporterà i quiz:
 
-- `quiz/quiz_it.yaml`: tutte le domande in formato leggibile, raggruppate per ID asset NTSC-U (hex). Le lettere accentate usano i segnaposto del font PAL (`_`=À, `b`=É, `c`=È, `f`=Ì, `h`=Ò, `k`=Ù); `\xFD` indica un codice di controllo del gioco.
+- `quiz/quiz_it.yaml`: tutte le domande in formato leggibile, raggruppate per ID asset NTSC-U (hex). Le lettere accentate sono scritte con l'apostrofo (`E'`, `PIU'`, `PUO'`), come nella variante `apostrofi`; `\xFD` indica un codice di controllo del gioco.
 - `quiz/bin/XXXX.bin`: ogni domanda come asset binario decompresso nel formato NTSC-U, utilizzabile direttamente con `bk_recomp_aep_register_replacement`.
 
 Quando il loader supporterà i quiz basterà convertirli nel formato richiesto; per ora **non vanno copiati** nella cartella mods.
