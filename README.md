@@ -6,6 +6,8 @@ I testi provengono dalla traduzione amatoriale [Banjo-Kazooie Traduzione Italian
 
 *English summary below.*
 
+<img width="1920" height="1032" alt="immagine" src="https://github.com/user-attachments/assets/b2e4e862-acf7-46c7-acdd-2b24cd0efd12" />
+
 ## Contenuto
 
 - 706 dialoghi tradotti
