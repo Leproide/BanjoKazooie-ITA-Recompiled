@@ -1,0 +1,1184 @@
+# Domande quiz Grunty's Furnace Fun (ID asset NTSC-U, hex)
+# Accenti nel formato del font PAL: _=À b=É c=È f=Ì h=Ò k=Ù
+
+1213:
+  - { cmd: 0x80, string: "NE HAI TROVATE ABBASTANZA, IL PUNTEGGIO LO SAI," }
+  - { cmd: 0x80, string: "IL NUMERO DI NOTE PER LA PRIMA PORTA NOTA LO RICORDERAI?" }
+  - { cmd: 0x81, string: "\xFDl50" }
+  - { cmd: 0x82, string: "\xFDl100" }
+  - { cmd: 0x83, string: "\xFDl75" }
+1214:
+  - { cmd: 0x80, string: "LE TUE MOSSE SONO LENTE, NON TI METTONO IN RISALTO," }
+  - { cmd: 0x80, string: "COME SI CHIAMA IL TUO ATTACCO SALTO?" }
+  - { cmd: 0x81, string: "\xFDlBECCATA AERODINAMICA" }
+  - { cmd: 0x82, string: "\xFDlBECCATA PICCHIARELLA" }
+  - { cmd: 0x83, string: "\xFDlSALTO COLLOLUNGO" }
+1215:
+  - { cmd: 0x80, string: "IO E LEI CI ASSOMIGLIAMO ECCOME," }
+  - { cmd: 0x80, string: "DELLA SORELLA DI GRUNTY SAI IL NOME?" }
+  - { cmd: 0x81, string: "\xFDlBRENTILDA" }
+  - { cmd: 0x82, string: "\xFDlBRUNTELLA" }
+  - { cmd: 0x83, string: "\xFDlBOGHANDLE" }
+1216:
+  - { cmd: 0x80, string: "AL TESCHIO DI MUMBO CI SEI ANDATO PRIMA," }
+  - { cmd: 0x80, string: "QUANTE PIUME CI SONO IN CIMA?" }
+  - { cmd: 0x81, string: "\xFDl3" }
+  - { cmd: 0x82, string: "\xFDl2" }
+  - { cmd: 0x83, string: "\xFDl4" }
+1217:
+  - { cmd: 0x80, string: "SBAGLIA QUESTO, FAI UN ERRORE," }
+  - { cmd: 0x80, string: "UNO DI QUESTI GINGI NON ESISTE, PUOI DIRMI IL COLORE?" }
+  - { cmd: 0x81, string: "\xFDlMARRONE" }
+  - { cmd: 0x82, string: "\xFDlVERDE" }
+  - { cmd: 0x83, string: "\xFDlGIALLO" }
+1218:
+  - { cmd: 0x80, string: "QUANDO IL MISURATORE DI OSSIGENO APPARE," }
+  - { cmd: 0x80, string: "QUANTI SPICCHI PUOI NOTARE?" }
+  - { cmd: 0x81, string: "\xFDl6" }
+  - { cmd: 0x82, string: "\xFDl5" }
+  - { cmd: 0x83, string: "\xFDl7" }
+1219:
+  - { cmd: 0x80, string: "PRESTO SAR_ GRASSA E ZOPPA COME UNA GALLINA," }
+  - { cmd: 0x80, string: "COME SI CHIAMA LA TUA SORELLINA?" }
+  - { cmd: 0x81, string: "\xFDlTOOTY" }
+  - { cmd: 0x82, string: "\xFDlLOOTY" }
+  - { cmd: 0x83, string: "\xFDlBOOTY" }
+121A:
+  - { cmd: 0x80, string: "I PRATI SON VERDI DAL MONTE SPIRALE," }
+  - { cmd: 0x80, string: "QUALE DI QUESTE VERDURE c IRREALE?" }
+  - { cmd: 0x81, string: "\xFDlSPUDDY LA PATATA" }
+  - { cmd: 0x82, string: "\xFDlTOPPER LA CAROTA" }
+  - { cmd: 0x83, string: "\xFDlCOLLYWOBBLE IL CAVOLFIORE" }
+121B:
+  - { cmd: 0x80, string: "CONOSCO IL MONTE SPIRALE A MENTE," }
+  - { cmd: 0x80, string: "QUANTE TANE CI SONO IN QUESTO AMBIENTE?" }
+  - { cmd: 0x81, string: "\xFDl8" }
+  - { cmd: 0x82, string: "\xFDl7" }
+  - { cmd: 0x83, string: "\xFDl9" }
+121C:
+  - { cmd: 0x80, string: "NON PUOI VINCERE, NE HO LA CONVINZIONE," }
+  - { cmd: 0x80, string: "QUANTE CASELLE CI SONO SU QUESTO TABELLONE?" }
+  - { cmd: 0x81, string: "\xFDl94" }
+  - { cmd: 0x82, string: "\xFDl78" }
+  - { cmd: 0x83, string: "\xFDl113" }
+121D:
+  - { cmd: 0x80, string: "LA MONTAGNA DI MUMBO c FACILE, PUOI CONTARCI," }
+  - { cmd: 0x80, string: "QUANTI PEZZI DI PUZZLE TI SERVONO PER ENTRARCI?" }
+  - { cmd: 0x81, string: "\xFDl1" }
+  - { cmd: 0x82, string: "\xFDl2" }
+  - { cmd: 0x83, string: "\xFDl3" }
+121E:
+  - { cmd: 0x80, string: "NEL MEZZO DEL VILLAGGIO DI MUMBO," }
+  - { cmd: 0x80, string: "COME SI CHIAMA L'OGGETTO ALTO E STRAMBO?" }
+  - { cmd: 0x81, string: "\xFDlJUJU IL TOTEM" }
+  - { cmd: 0x82, string: "\xFDlLU-BE-LU IL TOTEM" }
+  - { cmd: 0x83, string: "\xFDlTOJO IL TOTEM" }
+121F:
+  - { cmd: 0x80, string: "SULLA MONTAGNA DI MUMBO, SONO TRANQUILLA," }
+  - { cmd: 0x80, string: "CHE COSA LANCIA QUEL GRANDE GORILLA?" }
+  - { cmd: 0x81, string: "\xFDlARANCE" }
+  - { cmd: 0x82, string: "\xFDlBARILI" }
+  - { cmd: 0x83, string: "\xFDlCIOCCOLATINI" }
+1220:
+  - { cmd: 0x80, string: "SI NASCONDONO NELLA LORO TORRE," }
+  - { cmd: 0x80, string: "SULLA MONTAGNA DI MUMBO CHI CI CORRE?" }
+  - { cmd: 0x81, string: "\xFDlTICKER LA TERMITE" }
+  - { cmd: 0x82, string: "\xFDlBONGO L'APE" }
+  - { cmd: 0x83, string: "\xFDlFATTY IL PIPISTRELLO" }
+1221:
+  - { cmd: 0x80, string: "LA MONTAGNA DI MUMBO HA UN SUO PERCHb," }
+  - { cmd: 0x80, string: "NELL'OCCHIO DEL TESCHIO DI MUMBO COSA C'c?" }
+  - { cmd: 0x81, string: "\xFDlQUALCOS'ALTRO" }
+  - { cmd: 0x82, string: "\xFDlUN SIMBOLO DI MUMBO" }
+  - { cmd: 0x83, string: "\xFDlDELLE NOTE MUSICALI" }
+1222:
+  - { cmd: 0x80, string: "SULLA MONTAGNA DI MUMBO, CIRCONDATA DAL MARE," }
+  - { cmd: 0x80, string: "C'c UN GINGIO, IL SUO COLORE MI PUOI CONFERMARE?" }
+  - { cmd: 0x81, string: "\xFDlBLU" }
+  - { cmd: 0x82, string: "\xFDlNERO" }
+  - { cmd: 0x83, string: "\xFDlVERDE" }
+1223:
+  - { cmd: 0x80, string: "SULLA MONTAGNA DI MUMBO, NEL LAGO," }
+  - { cmd: 0x80, string: "CHI CI VIVE? NON CI VUOLE UN MAGO!" }
+  - { cmd: 0x81, string: "\xFDlUN BANCO DI PESCI" }
+  - { cmd: 0x82, string: "\xFDlUNO SQUALO AFFAMATO" }
+  - { cmd: 0x83, string: "\xFDlUN IPPOPOTAMO SPORCO" }
+1224:
+  - { cmd: 0x80, string: "SULLA MONTAGNA DI MUMBO, FANNO INORRIDIRE," }
+  - { cmd: 0x80, string: "QUANTE CAPANNE C'ERANO DA DEMOLIRE?" }
+  - { cmd: 0x81, string: "\xFDl6" }
+  - { cmd: 0x82, string: "\xFDl5" }
+  - { cmd: 0x83, string: "\xFDl8" }
+1225:
+  - { cmd: 0x80, string: "LA MONTAGNA DI MUMBO c STRANA ECCOME," }
+  - { cmd: 0x80, string: "DEL GORILLA MI SAI DIRE IL NOME?" }
+  - { cmd: 0x81, string: "\xFDlCONGA" }
+  - { cmd: 0x82, string: "\xFDlBONGA" }
+  - { cmd: 0x83, string: "\xFDlWONGA" }
+1226:
+  - { cmd: 0x80, string: "ANCHE SULLA MONTAGNA DI MUMBO BOTTLES SI TROVA," }
+  - { cmd: 0x80, string: "QUALE DI QUESTE c LA MOSSA NUOVA?" }
+  - { cmd: 0x81, string: "\xFDlRAPIDO RAPACE" }
+  - { cmd: 0x82, string: "\xFDlINVULNERABILIT_ CON ALI D'ORO" }
+  - { cmd: 0x83, string: "\xFDlSALTO SHOCK" }
+1227:
+  - { cmd: 0x80, string: "L'ISOLA DEL TESORO c VARIEGATA," }
+  - { cmd: 0x80, string: "COS'ERA LA GRANDE CREATURA CORAZZATA?" }
+  - { cmd: 0x81, string: "\xFDlUN PAGURO GIGANTE" }
+  - { cmd: 0x82, string: "\xFDlUNA PESANTE BALENA DI METALLO" }
+  - { cmd: 0x83, string: "\xFDlUN POSSENTE CARRO ARMATO" }
+1228:
+  - { cmd: 0x80, string: "I GINGI SONO MOLTO ASTUTI," }
+  - { cmd: 0x80, string: "SULL'ISOLA DEL TESORO DOVE NON SI SONO MAI TRATTENUTI?" }
+  - { cmd: 0x81, string: "\xFDlDENTRO UN'ENORME SCRIGNO DEL TESORO" }
+  - { cmd: 0x82, string: "\xFDlSOTTO IL PONTILE ALL'INIZIO" }
+  - { cmd: 0x83, string: "\xFDlIN CIMA A UN ALBERO" }
+1229:
+  - { cmd: 0x80, string: "SULL'ISOLA DEL TESORO CAPITAN BLUBBER c PRESENTE," }
+  - { cmd: 0x80, string: "COSA C'c CHE NON ANDAVA CON QUEL MARINAIO PIANGENTE?" }
+  - { cmd: 0x81, string: "\xFDlAVEVA PERSO IL SUO ORO" }
+  - { cmd: 0x82, string: "\xFDlVOLEVA QUALCOSA DA BERE" }
+  - { cmd: 0x83, string: "\xFDlNON RIUSCIVA A RICORDARE IL SUO NOME" }
+122A:
+  - { cmd: 0x80, string: "SULL'ISOLA DEL TESORO DEVI METTERTI ALLA PROVA," }
+  - { cmd: 0x80, string: "QUALE DEI MIEI SCAGNOZZI MANGIA LE TUE UOVA?" }
+  - { cmd: 0x81, string: "\xFDlYUM-YUM LA VONGOLA" }
+  - { cmd: 0x82, string: "\xFDlLOCKUP LO SCRIGNO DEL TESORO" }
+  - { cmd: 0x83, string: "\xFDlSNIPPET IL GRANCHIO" }
+122B:
+  - { cmd: 0x80, string: "SULL'ISOLA DEL TESORO ORA TI CONDUCO," }
+  - { cmd: 0x80, string: "COME SI CHIAMA IL SECCHIELLO DI SABBIA CON IL BUCO?" }
+  - { cmd: 0x81, string: "\xFDlLEAKY" }
+  - { cmd: 0x82, string: "\xFDlMR. SIEVE" }
+  - { cmd: 0x83, string: "\xFDlHOLEY" }
+122C:
+  - { cmd: 0x80, string: "SUGLI OGGETTI PER TERRA ORA MI ESPRIMO," }
+  - { cmd: 0x80, string: "SULL'ISOLA DEL TESORO QUALE TROVI PER PRIMO?" }
+  - { cmd: 0x81, string: "\xFDlPIUME ROSSE" }
+  - { cmd: 0x82, string: "\xFDlPIUME D'ORO" }
+  - { cmd: 0x83, string: "\xFDlPIUMINI" }
+122D:
+  - { cmd: 0x80, string: "SULL'ISOLA DEL TESORO UN BATTELLO c PRESENTE," }
+  - { cmd: 0x80, string: "QUAL c IL SUO NOME, NON c EMERGENTE?" }
+  - { cmd: 0x81, string: "\xFDlL'IPPOPOTAMO SALATO" }
+  - { cmd: 0x82, string: "\xFDlIL RINOCERONTE SUDATO" }
+  - { cmd: 0x83, string: "\xFDlLA BALENA BARCOLLANTE" }
+122E:
+  - { cmd: 0x80, string: "IL MIO SQUALO AFFAMATO DEL CIBO RECLAMA," }
+  - { cmd: 0x80, string: "SULL'ISOLA DEL TESORO COME SI CHIAMA?" }
+  - { cmd: 0x81, string: "\xFDlSNACKER" }
+  - { cmd: 0x82, string: "\xFDlSLACKER" }
+  - { cmd: 0x83, string: "\xFDlSTACKER" }
+122F:
+  - { cmd: 0x80, string: "L'ISOLA DEL TESORO AL TESORO HA UNA CACCIA," }
+  - { cmd: 0x80, string: "QUANTE X CI SONO, PICCOLA BESTIACCIA?" }
+  - { cmd: 0x81, string: "\xFDl6" }
+  - { cmd: 0x82, string: "\xFDl5" }
+  - { cmd: 0x83, string: "\xFDlDI PIk" }
+1230:
+  - { cmd: 0x80, string: "SULL'ISOLA, IL PAVIMENTO DEL CASTELLO DI SABBIA," }
+  - { cmd: 0x80, string: "HA UNA LETTERA MANCANTE, SAI QUALE ABBIA?" }
+  - { cmd: 0x81, string: "\xFDlQ" }
+  - { cmd: 0x82, string: "\xFDlNESSUNA DI QUESTE" }
+  - { cmd: 0x83, string: "\xFDlX" }
+1231:
+  - { cmd: 0x80, string: "LA CAVERNA DI CLANKER MOLTA PUZZA FA," }
+  - { cmd: 0x80, string: "QUEL CONCATENAMENTO MASSIVO, QUANTI COLLEGAMENTI HA?" }
+  - { cmd: 0x81, string: "\xFDl8" }
+  - { cmd: 0x82, string: "\xFDl6" }
+  - { cmd: 0x83, string: "\xFDl10" }
+1232:
+  - { cmd: 0x80, string: "CLANKER LA BALENA c BLOCCATO GIk NELL'OSCENIT_," }
+  - { cmd: 0x80, string: "NELLA CAVERNA DI CLANKER CHE COSA FA?" }
+  - { cmd: 0x81, string: "\xFDlTRITARIFIUTI" }
+  - { cmd: 0x82, string: "\xFDlLAVAPIATTI DI MASSA" }
+  - { cmd: 0x83, string: "\xFDlGUIDA TURISTICA" }
+1233:
+  - { cmd: 0x80, string: "NELLA CAVERNA DI CLANKER IL DOLOR VIENE PROVATO," }
+  - { cmd: 0x80, string: "ALLA CATENA DI CLANKER COSA C'c ATTACCATO?" }
+  - { cmd: 0x81, string: "\xFDlUN'INCUDINE MASSICCIO" }
+  - { cmd: 0x82, string: "\xFDlUN MASSO PESANTE" }
+  - { cmd: 0x83, string: "\xFDlUN PENTOLONE GIGANTESCO" }
+1234:
+  - { cmd: 0x80, string: "UN PESCE BOLLA FACILE DA ADDOMESTICARE," }
+  - { cmd: 0x80, string: "NELLA CAVERNA DI CLANKER COME SI FA CHIAMARE?" }
+  - { cmd: 0x81, string: "\xFDlGLOOP" }
+  - { cmd: 0x82, string: "\xFDlBLOOP" }
+  - { cmd: 0x83, string: "\xFDlSLOOP" }
+1235:
+  - { cmd: 0x80, string: "NELLA SUA CAVERNA, CLANKER ARIA PULITA VOLEVA RESPIRARE," }
+  - { cmd: 0x80, string: "SE NUOTI IN PROFONDIT_ COSA PUOI TROVARE?" }
+  - { cmd: 0x81, string: "\xFDlUNA CHIAVE ENORME" }
+  - { cmd: 0x82, string: "\xFDlUNA SERIE DI CERCHI" }
+  - { cmd: 0x83, string: "\xFDlLA BARRIERA DEL SUONO" }
+1236:
+  - { cmd: 0x80, string: "NELLO SFIATATOIO DELLA BALENA C'ERA QUALCOSA," }
+  - { cmd: 0x80, string: "NELLA CAVERNA DI CLANKER SAI DIRMI COSA?" }
+  - { cmd: 0x81, string: "\xFDlUN BULLONE GIGANTE" }
+  - { cmd: 0x82, string: "\xFDlUN GRANCHIO ENORME" }
+  - { cmd: 0x83, string: "\xFDlUNA GRANDE BOLLA" }
+1237:
+  - { cmd: 0x80, string: "SE SAI QUESTA NON FAR L'OTTUSO," }
+  - { cmd: 0x80, string: "NELLA CAVERNA DI CLANKER QUAL c L'INTRUSO?" }
+  - { cmd: 0x81, string: "\xFDlMARTELLO" }
+  - { cmd: 0x82, string: "\xFDlBULLONE" }
+  - { cmd: 0x83, string: "\xFDlINCUDINE" }
+1238:
+  - { cmd: 0x80, string: "L'ODORE DELLA CAVERNA DI CLANKER FA VERAMENTE VOMITARE," }
+  - { cmd: 0x80, string: "DA QUANTE VIE NELLA BALENA PUOI ENTRARE?" }
+  - { cmd: 0x81, string: "\xFDlPIk DI 4" }
+  - { cmd: 0x82, string: "\xFDlMENO DI 5" }
+  - { cmd: 0x83, string: "\xFDl6" }
+1239:
+  - { cmd: 0x80, string: "SONO DENTRO CLANKER E RUOTANO VELOCE," }
+  - { cmd: 0x80, string: "ATTRAVERSARE PER TE COS'c STATO ATROCE?" }
+  - { cmd: 0x81, string: "\xFDlLAME ROTANTI" }
+  - { cmd: 0x82, string: "\xFDlGIOSTRE ROTANTI" }
+  - { cmd: 0x83, string: "\xFDlOSSA ROTANTI" }
+123A:
+  - { cmd: 0x80, string: "LO STOMACO DELLA BALENA c ABBASTANZA TRASCURATO," }
+  - { cmd: 0x80, string: "ATTRAVERSO QUANTI CERCHI HAI NUOTATO?" }
+  - { cmd: 0x81, string: "\xFDl8" }
+  - { cmd: 0x82, string: "\xFDl7" }
+  - { cmd: 0x83, string: "\xFDlMENO DI 7" }
+123B:
+  - { cmd: 0x80, string: "NELLA PALUDE BOLLACIDA C'c UN UOVO GIGANTE," }
+  - { cmd: 0x80, string: "SAI DIRMI COSA NON C'c DENTRO, SENZA ESSER TITUBANTE?" }
+  - { cmd: 0x81, string: "\xFDlUNA VITA EXTRA" }
+  - { cmd: 0x82, string: "\xFDlUN PEZZO DI PUZZLE" }
+  - { cmd: 0x83, string: "\xFDlUN UOVO PIk PICCOLO" }
+123C:
+  - { cmd: 0x80, string: "NELLA PALUDE BOLLACIDA, NELLA TERRA INFANGATA," }
+  - { cmd: 0x80, string: "QUAL c LA COSA PIk SOPRAELEVATA?" }
+  - { cmd: 0x81, string: "\xFDlUN CAPANNO DI FANGO" }
+  - { cmd: 0x82, string: "\xFDlUNA TARTARUGA" }
+  - { cmd: 0x83, string: "\xFDlUNA TARTARUGA FANGOSA" }
+123D:
+  - { cmd: 0x80, string: "LA TARTARUGA DELLA PALUDE LA SUA BOCCA HA SPALANCATO," }
+  - { cmd: 0x80, string: "COS'HAI COLPITO PER POTER ESSERE ENTRATO?" }
+  - { cmd: 0x81, string: "\xFDlI SUOI PIEDI" }
+  - { cmd: 0x82, string: "\xFDlLA SUA TESTA" }
+  - { cmd: 0x83, string: "\xFDlIL SUO SEDERE" }
+123E:
+  - { cmd: 0x80, string: "LA PALUDE BOLLACIDA TI VUOLE PREPARATO," }
+  - { cmd: 0x80, string: "QUANTE TARTARUGHE HAI TROVATO?" }
+  - { cmd: 0x81, string: "\xFDl8" }
+  - { cmd: 0x82, string: "\xFDl6" }
+  - { cmd: 0x83, string: "\xFDl7" }
+123F:
+  - { cmd: 0x80, string: "LA PALUDE BOLLACIDA NASCONDE UNA SORPRESA," }
+  - { cmd: 0x80, string: "CHI NELL'ACQUA DEI TUOI PIEDI c IN ATTESA?" }
+  - { cmd: 0x81, string: "\xFDlPESCI PIRANHA" }
+  - { cmd: 0x82, string: "\xFDlANGUILLE ELETTRICHE" }
+  - { cmd: 0x83, string: "\xFDlTOSTAPANI ELETTRICI" }
+1240:
+  - { cmd: 0x80, string: "SPERO CHE LA PALUDE BOLLACIDA TI PIACCIA," }
+  - { cmd: 0x80, string: "QUALE FATTO c INVENTATO DA QUESTA VECCHIACCIA?" }
+  - { cmd: 0x81, string: "\xFDlBOTTLES TI INSEGNA DUE NUOVE MOSSE" }
+  - { cmd: 0x82, string: "\xFDlCI SONO DUE COCCODRILLI" }
+  - { cmd: 0x83, string: "\xFDlCI SONO DUE RANE DI COLORE DIVERSO" }
+1241:
+  - { cmd: 0x80, string: "NELLA PALUDE BOLLACIDA, INDUBBIAMENTE," }
+  - { cmd: 0x80, string: "QUALE DI QUESTI NON CENTRA NIENTE?" }
+  - { cmd: 0x81, string: "\xFDlRANA VERDE" }
+  - { cmd: 0x82, string: "\xFDlRANA ROSSA" }
+  - { cmd: 0x83, string: "\xFDlRANA GIALLA" }
+1242:
+  - { cmd: 0x80, string: "DIMMELO SUBITO O UNA VITA TI DIVORO," }
+  - { cmd: 0x80, string: "LE RANE NELLA PALUDE BOLLACIDA, COME SI CHIAMANO COSTORO?" }
+  - { cmd: 0x81, string: "\xFDlFLIBBIT" }
+  - { cmd: 0x82, string: "\xFDlSTIKKIT" }
+  - { cmd: 0x83, string: "\xFDlSTICKUP" }
+1243:
+  - { cmd: 0x80, string: "NELLA PALUDE BOLLACIDA, I COCCODRILLI," }
+  - { cmd: 0x80, string: "CHE COSA DIVORANO COME IMBECILLI?" }
+  - { cmd: 0x81, string: "\xFDlYUMBLY E GRUMBLY" }
+  - { cmd: 0x82, string: "\xFDlYUMYUM E BUMBUM" }
+  - { cmd: 0x83, string: "\xFDlBUMBLY E DUMBLY" }
+1244:
+  - { cmd: 0x80, string: "IL CORO DELLA TARTARUGA BOLLACIDA c ECCEZIONALE," }
+  - { cmd: 0x80, string: "MA COSA C'c SOPRA IL LORO GUSCIO SPECIALE?" }
+  - { cmd: 0x81, string: "\xFDlUNA NOTA MUSICALE" }
+  - { cmd: 0x82, string: "\xFDlUN BERSAGLIO" }
+  - { cmd: 0x83, string: "\xFDlUNA TARTARUGA PIk GRANDE" }
+1245:
+  - { cmd: 0x80, string: "IL PICCO GHIACCIOGELATO DI NEVE c PIENO," }
+  - { cmd: 0x80, string: "MA QUALE DI QUESTI NON C'c NEMMENO?" }
+  - { cmd: 0x81, string: "\xFDlUNA FOCA VISCIDA" }
+  - { cmd: 0x82, string: "\xFDlUN TRICHECO TITUBANTE" }
+  - { cmd: 0x83, string: "\xFDlUN PATETICO ORSO POLARE" }
+1246:
+  - { cmd: 0x80, string: "SUL PICCO GHIACCIOGELATO TU SEI STATO," }
+  - { cmd: 0x80, string: "MA QUALE DI QUESTI NON PUOI AVER TROVATO?" }
+  - { cmd: 0x81, string: "\xFDlPUDDING DI NATALE" }
+  - { cmd: 0x82, string: "\xFDlREGALI DI NATALE" }
+  - { cmd: 0x83, string: "\xFDlALBERO DI NATALE" }
+1247:
+  - { cmd: 0x80, string: "ECCO TRE FATTI SUL PICCO GHIACCIOGELATO," }
+  - { cmd: 0x80, string: "QUELLO CHE CERCHI c QUELLO FONDATO!" }
+  - { cmd: 0x81, string: "\xFDlPRESENTA CINQUE ORSI" }
+  - { cmd: 0x82, string: "\xFDlCINQUE CUBI DI GHIACCIO GIGANTI VIVONO Lf" }
+  - { cmd: 0x83, string: "\xFDlCI SONO CINQUE PUPAZZI DI NEVE" }
+1248:
+  - { cmd: 0x80, string: "GLI ORSI DEL PICCO SONO PIUTTOSTO ABBATTUTI," }
+  - { cmd: 0x80, string: "COSA PUOI TROVARE PER RENDERLI COMPIACIUTI?" }
+  - { cmd: 0x81, string: "\xFDlREGALI" }
+  - { cmd: 0x82, string: "\xFDlCAPPELLI DI LANA" }
+  - { cmd: 0x83, string: "\xFDlMAMMUT LANOSI" }
+1249:
+  - { cmd: 0x80, string: "SUL PICCO GHIACCIOGELATO C'c UN PUPAZZO DI NEVE," }
+  - { cmd: 0x80, string: "QUALI SONO I COLORI DELLA SUA SCIARPA GREVE?" }
+  - { cmd: 0x81, string: "\xFDlGIALLO E ROSSO" }
+  - { cmd: 0x82, string: "\xFDlARANCIONE E ROSSO" }
+  - { cmd: 0x83, string: "\xFDlVERDE E GRIGIO" }
+124A:
+  - { cmd: 0x80, string: "SUL PICCO GHIACCIOGELATO FA UN FREDDO AGGHIACCIANTE," }
+  - { cmd: 0x80, string: "MA COSA TIENE CON Sb IL PUPAZZO DI NEVE GIGANTE?" }
+  - { cmd: 0x81, string: "\xFDlUNA SCOPA" }
+  - { cmd: 0x82, string: "\xFDlUN GAME BOY" }
+  - { cmd: 0x83, string: "\xFDlUNA PALA" }
+124B:
+  - { cmd: 0x80, string: "BOGGY L'ORSO c LO SCEMO DEL PICCO," }
+  - { cmd: 0x80, string: "DI QUANTI PEZZI DI PUZZLE c RICCO?" }
+  - { cmd: 0x81, string: "\xFDlTRE" }
+  - { cmd: 0x82, string: "\xFDlDUE" }
+  - { cmd: 0x83, string: "\xFDlQUATTRO" }
+124C:
+  - { cmd: 0x80, string: "IL PERCORSO SLALOM DEL PICCO c TRASCURATO," }
+  - { cmd: 0x80, string: "ATTRAVERSO QUANTI VARCHI SEI PASSATO?" }
+  - { cmd: 0x81, string: "\xFDl38" }
+  - { cmd: 0x82, string: "\xFDl28" }
+  - { cmd: 0x83, string: "\xFDl48" }
+124D:
+  - { cmd: 0x80, string: "L'IGLOO DEL PICCO NON c QUADRANGOLARE," }
+  - { cmd: 0x80, string: "QUANTI ORSI CI POSSONO STARE?" }
+  - { cmd: 0x81, string: "\xFDlCINQUE" }
+  - { cmd: 0x82, string: "\xFDlTRE" }
+  - { cmd: 0x83, string: "\xFDlQUATTRO" }
+124E:
+  - { cmd: 0x80, string: "IL TRICHECO DEL PICCO GHIACCIOGELATO," }
+  - { cmd: 0x80, string: "TI RICORDI COME VIENE CHIAMATO?" }
+  - { cmd: 0x81, string: "\xFDlWOZZA" }
+  - { cmd: 0x82, string: "\xFDlWAZZA" }
+  - { cmd: 0x83, string: "\xFDlGAZZA" }
+124F:
+  - { cmd: 0x80, string: "LA VALLE DI GOBI HA UN SACCO DI PARTICOLARIT_," }
+  - { cmd: 0x80, string: "FAI LA TUA SCELTA, QUANTE PIRAMIDI HA?" }
+  - { cmd: 0x81, string: "\xFDl4" }
+  - { cmd: 0x82, string: "\xFDl3" }
+  - { cmd: 0x83, string: "\xFDl5" }
+1250:
+  - { cmd: 0x80, string: "DALLA PIRAMIDE DI GOBI c COLATO," }
+  - { cmd: 0x80, string: "DI COSA SI SVUOTA, RIEMPIENDO IL FOSSATO?" }
+  - { cmd: 0x81, string: "\xFDlACQUA" }
+  - { cmd: 0x82, string: "\xFDlSABBIA" }
+  - { cmd: 0x83, string: "\xFDlUN MUCCHIO DI MUMMIE" }
+1251:
+  - { cmd: 0x80, string: "NELLA VALLE DI GOBI UNA MANO c IN AGGUATO," }
+  - { cmd: 0x80, string: "CHI NELLA SABBIA UN PEZZO DI PUZZLE HA CELATO?" }
+  - { cmd: 0x81, string: "\xFDlGRABBA LA MANO MUMMIA" }
+  - { cmd: 0x82, string: "\xFDlROBBA LA MANO MUMMIA" }
+  - { cmd: 0x83, string: "\xFDlDABBA LA MANO PAP_" }
+1252:
+  - { cmd: 0x80, string: "GOBI IL CAMMELLO c IN SOSPENSIONE," }
+  - { cmd: 0x80, string: "COS'HA CON Sb NELLA SUA TERZA POSIZIONE?" }
+  - { cmd: 0x81, string: "\xFDlUNA CELLETTA DI MIELE EXTRA" }
+  - { cmd: 0x82, string: "\xFDlUN PEZZO DI PUZZLE" }
+  - { cmd: 0x83, string: "\xFDlNIENTE" }
+1253:
+  - { cmd: 0x80, string: "UNA FACILE O FORSE c UN TRABOCCHETTO," }
+  - { cmd: 0x80, string: "NELLA SFINGE DI GOBI DEI TAPPETI QUAL c IL NUMERO PERFETTO?" }
+  - { cmd: 0x81, string: "\xFDl5" }
+  - { cmd: 0x82, string: "\xFDl4" }
+  - { cmd: 0x83, string: "\xFDl6" }
+1254:
+  - { cmd: 0x80, string: "SOPRA LA SABBIA LO VEDI PLANARE," }
+  - { cmd: 0x80, string: "NELLA VALLE DI GOBI CON COSA TI PUOI SPOSTARE?" }
+  - { cmd: 0x81, string: "\xFDlUN TAPPETO MAGICO" }
+  - { cmd: 0x82, string: "\xFDlUN GENIO MAGICO" }
+  - { cmd: 0x83, string: "\xFDlUN TAXI MAGICO" }
+1255:
+  - { cmd: 0x80, string: "IL CACTUS DI GOBI TI NASCONDE UN OMAGGIO," }
+  - { cmd: 0x80, string: "DIMMI COSA SE PENSI DI ESSERE SAGGIO!" }
+  - { cmd: 0x81, string: "\xFDlUNA CELLETTA DI MIELE EXTRA" }
+  - { cmd: 0x82, string: "\xFDlUN PEZZO DI PUZZLE" }
+  - { cmd: 0x83, string: "\xFDlUNA FETTA DI PAN DI SPAGNA" }
+1256:
+  - { cmd: 0x80, string: "IN UNA PIRAMIDE DELLE PIASTRELLE DEVI COLLEGARE," }
+  - { cmd: 0x80, string: "TRA QUELLE, CHI c IN QUESTO GRUPPO A NON RIENTRARE?" }
+  - { cmd: 0x81, string: "\xFDlGRUNTILDA" }
+  - { cmd: 0x82, string: "\xFDlMUMBO JUMBO" }
+  - { cmd: 0x83, string: "\xFDlGINGIO" }
+1257:
+  - { cmd: 0x80, string: "NELLA VALLE DI GOBI UN ALBERO VUOLE BERE," }
+  - { cmd: 0x80, string: "SULLA SUA TESTA COSA PUOI VEDERE?" }
+  - { cmd: 0x81, string: "\xFDlUN CAPPELLO" }
+  - { cmd: 0x82, string: "\xFDlUNA PARRUCCA FRONDOSA" }
+  - { cmd: 0x83, string: "\xFDlUN PAIO DI OCCHIALI DA SOLE" }
+1258:
+  - { cmd: 0x80, string: "L'INCANTATORE SULLA TUA STRADA TI HA AIUTATO," }
+  - { cmd: 0x80, string: "NELLA SUA PIRAMIDE COS'HAI USATO?" }
+  - { cmd: 0x81, string: "\xFDlDELLE UOVA BLU" }
+  - { cmd: 0x82, string: "\xFDlDELLE PIUME D'ORO" }
+  - { cmd: 0x83, string: "\xFDlDEI LINGOTTI D'ORO" }
+1259:
+  - { cmd: 0x80, string: "UNA MANO SPETTRALE CHE HA IL COMANDO," }
+  - { cmd: 0x80, string: "NELLA CHIESA COSA STAVA SUONANDO?" }
+  - { cmd: 0x81, string: "\xFDlUN ORGANO" }
+  - { cmd: 0x82, string: "\xFDlUN PIANO" }
+  - { cmd: 0x83, string: "\xFDlUNA CHITARRA ELETTRICA" }
+125A:
+  - { cmd: 0x80, string: "IL MANIERO STREGATO NEL MIO TERRENO," }
+  - { cmd: 0x80, string: "ATTRAVERSO QUANTE VIE PUh RAGGIUNGERLO ALMENO?" }
+  - { cmd: 0x81, string: "\xFDl9" }
+  - { cmd: 0x82, string: "\xFDl7" }
+  - { cmd: 0x83, string: "\xFDl8" }
+125B:
+  - { cmd: 0x80, string: "IL MANIERO DEL MOSTRO c DIFFICILE PER DAVVERO," }
+  - { cmd: 0x80, string: "MA COS'c CHE NON SI TROVA NEL CIMITERO?" }
+  - { cmd: 0x81, string: "\xFDlFANTASMI" }
+  - { cmd: 0x82, string: "\xFDlFIORI" }
+  - { cmd: 0x83, string: "\xFDlLAPIDI" }
+125C:
+  - { cmd: 0x80, string: "NEL CIMITERO DEL MANIERO DEL MOSTRO C'ERAN DEI VASI," }
+  - { cmd: 0x80, string: "CHE COSA USCIVA DA LORO, CHE TRABOCCAVANO QUASI?" }
+  - { cmd: 0x81, string: "\xFDlUN MAZZO DI FIORI" }
+  - { cmd: 0x82, string: "\xFDlUN CASCO DI BANANE" }
+  - { cmd: 0x83, string: "\xFDlUN MUCCHIO DI PIUME" }
+125D:
+  - { cmd: 0x80, string: "I BARILI DELLA CANTINA DEL MANIERO HANNO UNA FORMA ARROTONDATA," }
+  - { cmd: 0x80, string: "COSA PUOI NOTARE SULLA LORO FACCIATA?" }
+  - { cmd: 0x81, string: "\xFDlI NUMERI '1881'" }
+  - { cmd: 0x82, string: "\xFDlLA PAROLA 'FRAGILE'" }
+  - { cmd: 0x83, string: "\xFDlLE PAROLE 'VAI AL DIAVOLO BANJO'" }
+125E:
+  - { cmd: 0x80, string: "IL MANIERO DEL MOSTRO TI AGITA COME UNA GALLINA," }
+  - { cmd: 0x80, string: "COSA NON C'c NELLA CANTINA?" }
+  - { cmd: 0x81, string: "\xFDlPIUME ROSSE" }
+  - { cmd: 0x82, string: "\xFDlUN GINGIO" }
+  - { cmd: 0x83, string: "\xFDlUN PEZZO DI PUZZLE" }
+125F:
+  - { cmd: 0x80, string: "NEL MANIERO DEL MOSTRO UNA STANZA NON C'c," }
+  - { cmd: 0x80, string: "CRETINO PELOSO, MI SAI DIRE QUAL c?" }
+  - { cmd: 0x81, string: "\xFDlCUCINA" }
+  - { cmd: 0x82, string: "\xFDlBAGNO" }
+  - { cmd: 0x83, string: "\xFDlCANTINA" }
+1260:
+  - { cmd: 0x80, string: "SUONAR LA MIA MUSICA c LA SUA IMPRESA," }
+  - { cmd: 0x80, string: "COME SI CHIAMA LA MANO SPETTRALE DELLA CHIESA?" }
+  - { cmd: 0x81, string: "\xFDlMOTZAND" }
+  - { cmd: 0x82, string: "\xFDlSTRAUSAND" }
+  - { cmd: 0x83, string: "\xFDlBACHAND" }
+1261:
+  - { cmd: 0x80, string: "SUL MANIERO DEL MOSTRO Df QUELLO CHE CREDI," }
+  - { cmd: 0x80, string: "SULL'OROLOGIO DELLA CHIESA CHE ORA VEDI?" }
+  - { cmd: 0x81, string: "\xFDlNESSUNA, LE SUE LANCETTE SONO CADUTE" }
+  - { cmd: 0x82, string: "\xFDlMEZZANOTTE" }
+  - { cmd: 0x83, string: "\xFDlMEZZOGIORNO" }
+1262:
+  - { cmd: 0x80, string: "NEL MANIERO DEL MOSTRO PUOI LENTAMENTE AVANZARE," }
+  - { cmd: 0x80, string: "MA COSA SVEGLIA LO SPETTRO DAL SUO RIPOSARE?" }
+  - { cmd: 0x81, string: "\xFDlBANJO CAMMINA SUL PAVIMENTO SCRICCHIOLANTE" }
+  - { cmd: 0x82, string: "\xFDlBANJO FA PARTIRE LA SUA SVEGLIA" }
+  - { cmd: 0x83, string: "\xFDlBANJO LO COLPISCE CON UN ASSE DI LEGNO" }
+1263:
+  - { cmd: 0x80, string: "IL RUSTY BUCKET UNA GRU HA," }
+  - { cmd: 0x80, string: "REGGE UNA SCATOLA, MA COSA CONTERR_?" }
+  - { cmd: 0x81, string: "\xFDlTNT" }
+  - { cmd: 0x82, string: "\xFDl3 VITE EXTRA" }
+  - { cmd: 0x83, string: "\xFDlIL NUOVO E COSTOSO HI-FI DI GRUNTY" }
+1264:
+  - { cmd: 0x80, string: "NELLA STIVA DEL RUSTY BUCKET UNA SCATOLA C'c," }
+  - { cmd: 0x80, string: "QUANTE VOLTE HAI DOVUTO COLPIRLA, SECONDO TE?" }
+  - { cmd: 0x81, string: "\xFDl15" }
+  - { cmd: 0x82, string: "\xFDl11" }
+  - { cmd: 0x83, string: "\xFDl9" }
+1265:
+  - { cmd: 0x80, string: "NELLA CAMBUSA DEL RUSTY BUCKET C'c UN FRIGO DA SOVRANI," }
+  - { cmd: 0x80, string: "MI SAI DIRE COSA GIACE SUI RIPIANI?" }
+  - { cmd: 0x81, string: "\xFDlUOVA DI KAZOOIE" }
+  - { cmd: 0x82, string: "\xFDlGRASSI DA SPALMARE DI GRUNTY" }
+  - { cmd: 0x83, string: "\xFDlPIUME ROSSE" }
+1266:
+  - { cmd: 0x80, string: "IL RUSTY BUCKET c UNA PETROLIERA," }
+  - { cmd: 0x80, string: "BLOCCATO SOTTO LA SUA ANCORA COSA C'ERA?" }
+  - { cmd: 0x81, string: "\xFDlUNO SCIOCCO DELFINO" }
+  - { cmd: 0x82, string: "\xFDlUN GRANCHIO INCAPACE" }
+  - { cmd: 0x83, string: "\xFDlUNO STUPIDO CAVALLUCCIO MARINO" }
+1267:
+  - { cmd: 0x80, string: "NELLA BAIA DEL RUSTY BUCKET LA PARTE DEL PAGLIACCIO HAI RECITATO," }
+  - { cmd: 0x80, string: "QUALE DI QUESTI NON PUh ESSERE RALLENTATO?" }
+  - { cmd: 0x81, string: "\xFDlGLI INGRANAGGI GIREVOLI" }
+  - { cmd: 0x82, string: "\xFDlLE PALE DEL VENTILATORE FILANTI" }
+  - { cmd: 0x83, string: "\xFDlLE ELICHE ROTANTI" }
+1268:
+  - { cmd: 0x80, string: "SULLA BAIA DEL RUSTY BUCKET TRE FATTI TI DETTO," }
+  - { cmd: 0x80, string: "SECONDO TE QUAL c QUELLO CORRETTO?" }
+  - { cmd: 0x81, string: "\xFDlCI SONO QUATTRO SCIALUPPE DI SALVATAGGIO" }
+  - { cmd: 0x82, string: "\xFDlLA NAVE HA TRE FUMAIOLI" }
+  - { cmd: 0x83, string: "\xFDlLA SALA MACCHINE HA QUATTRO INGRANAGGI" }
+1269:
+  - { cmd: 0x80, string: "ALLA BAIA DEL RUSTY BUCKET PUOI ANCHE ESSER STATO," }
+  - { cmd: 0x80, string: "MA SULLE PARETI COSA NON PUOI AVER NOTATO?" }
+  - { cmd: 0x81, string: "\xFDlTOLL 7" }
+  - { cmd: 0x82, string: "\xFDlTOLL 6" }
+  - { cmd: 0x83, string: "\xFDlTOLL 8" }
+126A:
+  - { cmd: 0x80, string: "SBAGLIA QUESTA O FINIRh PER IMPAZZIRE," }
+  - { cmd: 0x80, string: "DEL RUSTY BUCKET, IL CODICE DEI FISCHIETTI MI SAI DIRE?" }
+  - { cmd: 0x81, string: "\xFDl312-111" }
+  - { cmd: 0x82, string: "\xFDl213-111" }
+  - { cmd: 0x83, string: "\xFDl321-123" }
+126B:
+  - { cmd: 0x80, string: "SUL RUSTY BUCKET, NELLA CABINA DEL CAPITANO DOVRESTI ESSER STATO," }
+  - { cmd: 0x80, string: "SUL PIUMONE DEL LETTO COSA C'c RAFFIGURATO?" }
+  - { cmd: 0x81, string: "\xFDlANCORE" }
+  - { cmd: 0x82, string: "\xFDlPROPULSORI" }
+  - { cmd: 0x83, string: "\xFDlFIORI" }
+126C:
+  - { cmd: 0x80, string: "TUTTA QUESTA FORTUNA DEVE SPARIRE," }
+  - { cmd: 0x80, string: "COSA C'c SUL TERZO FUMAIOLO DELLA NAVE, ME LO SAI DIRE?" }
+  - { cmd: 0x81, string: "\xFDlNON C'c NESSUN TERZO FUMAIOLO" }
+  - { cmd: 0x82, string: "\xFDlUN PEZZO DI PUZZLE" }
+  - { cmd: 0x83, string: "\xFDlUN SIMBOLO DI MUMBO" }
+126D:
+  - { cmd: 0x80, string: "NEL BOSCO TIC-TOC LA SUA AUTORIT_ c VERA," }
+  - { cmd: 0x80, string: "COSA FA LO SCOIATTOLO IN PRIMAVERA?" }
+  - { cmd: 0x81, string: "\xFDlMANGIA LE SUE GHIANDE" }
+  - { cmd: 0x82, string: "\xFDlDORME NEL SUO LETTO" }
+  - { cmd: 0x83, string: "\xFDlc IN CERCA DEL CASTORO" }
+126E:
+  - { cmd: 0x80, string: "NEL BOSCO UNA PIANTA DEVI COLTIVARE," }
+  - { cmd: 0x80, string: "NEL TERRENO COSA DEVI SEMINARE?" }
+  - { cmd: 0x81, string: "\xFDlUN UOVO" }
+  - { cmd: 0x82, string: "\xFDlUN SEME" }
+  - { cmd: 0x83, string: "\xFDlUNA BOMBA" }
+126F:
+  - { cmd: 0x80, string: "NEL BOSCO TIC-TOC L'AQUILA c ZOPPA ECCOME," }
+  - { cmd: 0x80, string: "DEL VOLATILE TI RICORDI IL SUO STUPIDO NOME?" }
+  - { cmd: 0x81, string: "\xFDlEYRIE" }
+  - { cmd: 0x82, string: "\xFDlGOLDIE" }
+  - { cmd: 0x83, string: "\xFDlBEERIE" }
+1270:
+  - { cmd: 0x80, string: "NEL BOSCO TIC-TOC LO SCIAMANO c DA DENIGRARE," }
+  - { cmd: 0x80, string: "CHE CREATURA INUTILE TI FA DIVENTARE?" }
+  - { cmd: 0x81, string: "\xFDlUN BOMBO" }
+  - { cmd: 0x82, string: "\xFDlUNO SCOIATTOLO" }
+  - { cmd: 0x83, string: "\xFDlUNA LUMACA" }
+1271:
+  - { cmd: 0x80, string: "NEL BOSCO TIC-TOC, LA PIANTA SI DEVE SVILUPPARE," }
+  - { cmd: 0x80, string: "COME PRENDE L'ACQUA PER FARLA GERMOGLIARE?" }
+  - { cmd: 0x81, string: "\xFDlDA UN CAMMELLO" }
+  - { cmd: 0x82, string: "\xFDlDA UN ANNAFFIATOIO GIGANTE" }
+  - { cmd: 0x83, string: "\xFDlDALLE SPECIALI UOVA AD ACQUA DI KAZOOIE" }
+1272:
+  - { cmd: 0x80, string: "DEL BOSCO TIC-TOC NON HO PERPLESSIT_," }
+  - { cmd: 0x80, string: "IN QUALE STAGIONE C'c SICCIT_?" }
+  - { cmd: 0x81, string: "\xFDlESTATE" }
+  - { cmd: 0x82, string: "\xFDlINVERNO" }
+  - { cmd: 0x83, string: "\xFDlAUTUNNO" }
+1273:
+  - { cmd: 0x80, string: "D'INVERNO IL BOSCO TIC-TOC c NOIOSO," }
+  - { cmd: 0x80, string: "COSA FA MUMBO NEL SUO TESCHIO BARBOSO?" }
+  - { cmd: 0x81, string: "\xFDlNON C'c NEANCHE" }
+  - { cmd: 0x82, string: "\xFDlSTA FACENDO UN PUPAZZO DI NEVE" }
+  - { cmd: 0x83, string: "\xFDlSI STA SCALDANDO AL FUOCO" }
+1274:
+  - { cmd: 0x80, string: "L'AQUILA TIC-TOC CHE HAI INCONTRATO," }
+  - { cmd: 0x80, string: "QUANTI VERMI AUTUNNALI HA MANGIATO?" }
+  - { cmd: 0x81, string: "\xFDl10" }
+  - { cmd: 0x82, string: "\xFDl5" }
+  - { cmd: 0x83, string: "\xFDl25" }
+1275:
+  - { cmd: 0x80, string: "NEL BOSCO TIC-TOC UNA QUERCIA SI c SVILUPPATA," }
+  - { cmd: 0x80, string: "QUALE DI QUESTE c LA RISPOSTA APPROPRIATA?" }
+  - { cmd: 0x81, string: "\xFDlLE FOGLIE SONO PIk GRANDI IN ESTATE" }
+  - { cmd: 0x82, string: "\xFDlL'ERBA c PIk ALTA IN AUTUNNO" }
+  - { cmd: 0x83, string: "\xFDlLO SCOIATTOLO c ALL'APERTO IN INVERNO" }
+1276:
+  - { cmd: 0x80, string: "IL CASTORO DEL BOSCO c DAVVERO UN FESSO," }
+  - { cmd: 0x80, string: "QUAL c IL PROBLEMA CHE LO HA RESO DEPRESSO?" }
+  - { cmd: 0x81, string: "\xFDlNON RIESCE AD ENTRARE IN CASA" }
+  - { cmd: 0x82, string: "\xFDlNON HA NIENTE DA MANGIARE" }
+  - { cmd: 0x83, string: "\xFDlLA SUA TESTA c CADUTA" }
+12DB:
+  - { cmd: 0x80, string: "GUARDA L'IMMAGINE SU QUESTA SCHERMATA, HAI QUALCHE IDEA SU DOVE SIA AMBIENTATA?" }
+  - { cmd: 0x81, string: "\xFDlMONTAGNA DI MUMBO" }
+  - { cmd: 0x82, string: "\xFDlPALUDE BOLLACIDA" }
+  - { cmd: 0x83, string: "\xFDlBOSCO TIC-TOC" }
+12DC:
+  - { cmd: 0x80, string: "GUARDA L'IMMAGINE SU QUESTA SCHERMATA, HAI QUALCHE IDEA SU DOVE SIA AMBIENTATA?" }
+  - { cmd: 0x81, string: "\xFDlISOLA DEL TESORO" }
+  - { cmd: 0x82, string: "\xFDlMONTAGNA DI MUMBO" }
+  - { cmd: 0x83, string: "\xFDlBOSCO TIC-TOC" }
+12DD:
+  - { cmd: 0x80, string: "GUARDA L'IMMAGINE SU QUESTA SCHERMATA, HAI QUALCHE IDEA SU DOVE SIA AMBIENTATA?" }
+  - { cmd: 0x81, string: "\xFDlCAVERNA DI CLANKER" }
+  - { cmd: 0x82, string: "\xFDlBAIA DEL RUSTY BUCKET" }
+  - { cmd: 0x83, string: "\xFDlANTRO DI GRUNTY" }
+12DE:
+  - { cmd: 0x80, string: "GUARDA L'IMMAGINE SU QUESTA SCHERMATA, HAI QUALCHE IDEA SU DOVE SIA AMBIENTATA?" }
+  - { cmd: 0x81, string: "\xFDlPALUDE BOLLACIDA" }
+  - { cmd: 0x82, string: "\xFDlANTRO DI GRUNTY" }
+  - { cmd: 0x83, string: "\xFDlBOSCO TIC-TOC" }
+12DF:
+  - { cmd: 0x80, string: "GUARDA L'IMMAGINE SU QUESTA SCHERMATA, HAI QUALCHE IDEA SU DOVE SIA AMBIENTATA?" }
+  - { cmd: 0x81, string: "\xFDlPICCO GHIACCIOGELATO" }
+  - { cmd: 0x82, string: "\xFDlBOSCO TIC-TOC" }
+  - { cmd: 0x83, string: "\xFDlANTRO DI GRUNTY" }
+12E0:
+  - { cmd: 0x80, string: "GUARDA L'IMMAGINE SU QUESTA SCHERMATA, HAI QUALCHE IDEA SU DOVE SIA AMBIENTATA?" }
+  - { cmd: 0x81, string: "\xFDlVALLE DI GOBI" }
+  - { cmd: 0x82, string: "\xFDlISOLA DEL TESORO" }
+  - { cmd: 0x83, string: "\xFDlMONTAGNA DI MUMBO" }
+12E1:
+  - { cmd: 0x80, string: "GUARDA L'IMMAGINE SU QUESTA SCHERMATA, HAI QUALCHE IDEA SU DOVE SIA AMBIENTATA?" }
+  - { cmd: 0x81, string: "\xFDlMANIERO DEL MOSTRO" }
+  - { cmd: 0x82, string: "\xFDlBAIA DEL RUSTY BUCKET" }
+  - { cmd: 0x83, string: "\xFDlCAVERNA DI CLANKER" }
+12E2:
+  - { cmd: 0x80, string: "GUARDA L'IMMAGINE SU QUESTA SCHERMATA, HAI QUALCHE IDEA SU DOVE SIA AMBIENTATA?" }
+  - { cmd: 0x81, string: "\xFDlBAIA DEL RUSTY BUCKET" }
+  - { cmd: 0x82, string: "\xFDlMANIERO DEL MOSTRO" }
+  - { cmd: 0x83, string: "\xFDlCAVERNA DI CLANKER" }
+12E3:
+  - { cmd: 0x80, string: "GUARDA L'IMMAGINE SU QUESTA SCHERMATA, HAI QUALCHE IDEA SU DOVE SIA AMBIENTATA?" }
+  - { cmd: 0x81, string: "\xFDlBOSCO TIC-TOC" }
+  - { cmd: 0x82, string: "\xFDlMANIERO DEL MOSTRO" }
+  - { cmd: 0x83, string: "\xFDlPALUDE BOLLACIDA" }
+12E4:
+  - { cmd: 0x80, string: "UN PERSONAGGIO DEL GIOCO TI VERR_ MOSTRATO, QUESTO FESSO COME VIENE CHIAMATO?" }
+  - { cmd: 0x81, string: "\xFDlGOBI" }
+  - { cmd: 0x82, string: "\xFDlGUMBI" }
+  - { cmd: 0x83, string: "\xFDlDIMBO" }
+12E5:
+  - { cmd: 0x80, string: "UN PERSONAGGIO DEL GIOCO TI VERR_ MOSTRATO, QUESTO FESSO COME VIENE CHIAMATO?" }
+  - { cmd: 0x81, string: "\xFDlMUMBO JUMBO" }
+  - { cmd: 0x82, string: "\xFDlLUMPY DUMPY" }
+  - { cmd: 0x83, string: "\xFDlNAMBY PAMBY" }
+12E6:
+  - { cmd: 0x80, string: "UN PERSONAGGIO DEL GIOCO TI VERR_ MOSTRATO, QUESTO FESSO COME VIENE CHIAMATO?" }
+  - { cmd: 0x81, string: "\xFDlNABNUT" }
+  - { cmd: 0x82, string: "\xFDlGRABNUT" }
+  - { cmd: 0x83, string: "\xFDlROBNUT" }
+12E7:
+  - { cmd: 0x80, string: "UN PERSONAGGIO DEL GIOCO TI VERR_ MOSTRATO, QUESTO FESSO COME VIENE CHIAMATO?" }
+  - { cmd: 0x81, string: "\xFDlGINGIO" }
+  - { cmd: 0x82, string: "\xFDlBINGIO" }
+  - { cmd: 0x83, string: "\xFDlWINGIO" }
+12E8:
+  - { cmd: 0x80, string: "UN PERSONAGGIO DEL GIOCO TI VERR_ MOSTRATO, QUESTO FESSO COME VIENE CHIAMATO?" }
+  - { cmd: 0x81, string: "\xFDlCLANKER" }
+  - { cmd: 0x82, string: "\xFDlCLINKER" }
+  - { cmd: 0x83, string: "\xFDlCLUNKER" }
+12E9:
+  - { cmd: 0x80, string: "UN PERSONAGGIO DEL GIOCO TI VERR_ MOSTRATO, QUESTO FESSO COME VIENE CHIAMATO?" }
+  - { cmd: 0x81, string: "\xFDlMR. VILE" }
+  - { cmd: 0x82, string: "\xFDlMRS. PILE" }
+  - { cmd: 0x83, string: "\xFDlMADAM BILE" }
+12EA:
+  - { cmd: 0x80, string: "UN PERSONAGGIO DEL GIOCO TI VERR_ MOSTRATO, QUESTO FESSO COME VIENE CHIAMATO?" }
+  - { cmd: 0x81, string: "\xFDlTRUNKER" }
+  - { cmd: 0x82, string: "\xFDlDRINKER" }
+  - { cmd: 0x83, string: "\xFDlSTINKER" }
+12EB:
+  - { cmd: 0x80, string: "UN PERSONAGGIO DEL GIOCO TI VERR_ MOSTRATO, QUESTO FESSO COME VIENE CHIAMATO?" }
+  - { cmd: 0x81, string: "\xFDlCAPITAN BLUBBER" }
+  - { cmd: 0x82, string: "\xFDlCAPITAN BLABBER" }
+  - { cmd: 0x83, string: "\xFDlCAPITAN BLADDER" }
+12EC:
+  - { cmd: 0x80, string: "UN PERSONAGGIO DEL GIOCO TI VERR_ MOSTRATO, QUESTO FESSO COME VIENE CHIAMATO?" }
+  - { cmd: 0x81, string: "\xFDlBOGGY" }
+  - { cmd: 0x82, string: "\xFDlSOGGY" }
+  - { cmd: 0x83, string: "\xFDlPEGGY" }
+12ED:
+  - { cmd: 0x80, string: "UN PERSONAGGIO DEL GIOCO TI VERR_ MOSTRATO, QUESTO FESSO COME VIENE CHIAMATO?" }
+  - { cmd: 0x81, string: "\xFDlBOTTLES" }
+  - { cmd: 0x82, string: "\xFDlBUGGLES" }
+  - { cmd: 0x83, string: "\xFDlPIDDLES" }
+13A3:
+  - { cmd: 0x80, string: "A RACCOGLIERE STRUMENTI SEI PIk VELOCE DI UN TUONO," }
+  - { cmd: 0x80, string: "QUALE EMETTE QUESTO STUPIDO SUONO?" }
+  - { cmd: 0x81, string: "\xFDlSIMBOLO DELLO SCIAMANO" }
+  - { cmd: 0x82, string: "\xFDlVITA EXTRA" }
+  - { cmd: 0x83, string: "\xFDlMOGLIE DELLO SCIAMANO" }
+13A4:
+  - { cmd: 0x80, string: "A RACCOGLIERE STRUMENTI SEI PIk VELOCE DI UN TUONO," }
+  - { cmd: 0x80, string: "QUALE EMETTE QUESTO STUPIDO SUONO?" }
+  - { cmd: 0x81, string: "\xFDlUOVA BLU" }
+  - { cmd: 0x82, string: "\xFDlNOTE MUSICALI" }
+  - { cmd: 0x83, string: "\xFDlCAPRE MUSICALI" }
+13A5:
+  - { cmd: 0x80, string: "A RACCOGLIERE STRUMENTI SEI PIk VELOCE DI UN TUONO," }
+  - { cmd: 0x80, string: "QUALE EMETTE QUESTO STUPIDO SUONO?" }
+  - { cmd: 0x81, string: "\xFDlPIUMA ROSSA" }
+  - { cmd: 0x82, string: "\xFDlPIUMA D'ORO" }
+  - { cmd: 0x83, string: "\xFDlCUSCINO DI PIUME" }
+13A6:
+  - { cmd: 0x80, string: "A RACCOGLIERE STRUMENTI SEI PIk VELOCE DI UN TUONO," }
+  - { cmd: 0x80, string: "QUALE EMETTE QUESTO STUPIDO SUONO?" }
+  - { cmd: 0x81, string: "\xFDlVITA EXTRA" }
+  - { cmd: 0x82, string: "\xFDlMOGLIE EXTRA" }
+  - { cmd: 0x83, string: "\xFDlCELLETTA DI MIELE EXTRA" }
+13A7:
+  - { cmd: 0x80, string: "A RACCOGLIERE STRUMENTI SEI PIk VELOCE DI UN TUONO," }
+  - { cmd: 0x80, string: "QUALE EMETTE QUESTO STUPIDO SUONO?" }
+  - { cmd: 0x81, string: "\xFDlCELLETTA DI MIELE" }
+  - { cmd: 0x82, string: "\xFDlUOVA BLU" }
+  - { cmd: 0x83, string: "\xFDlPETTINE" }
+13A8:
+  - { cmd: 0x80, string: "A RACCOGLIERE STRUMENTI SEI PIk VELOCE DI UN TUONO," }
+  - { cmd: 0x80, string: "QUALE EMETTE QUESTO STUPIDO SUONO?" }
+  - { cmd: 0x81, string: "\xFDlNOTE MUSICALI" }
+  - { cmd: 0x82, string: "\xFDlUOVA BLU" }
+  - { cmd: 0x83, string: "\xFDlBALENOTTERA AZZURRA" }
+13A9:
+  - { cmd: 0x80, string: "A RACCOGLIERE STRUMENTI SEI PIk VELOCE DI UN TUONO," }
+  - { cmd: 0x80, string: "QUALE EMETTE QUESTO STUPIDO SUONO?" }
+  - { cmd: 0x81, string: "\xFDlPIUMA D'ORO" }
+  - { cmd: 0x82, string: "\xFDlPIUMA ROSSA" }
+  - { cmd: 0x83, string: "\xFDlCOLLANA D'ORO" }
+13AA:
+  - { cmd: 0x80, string: "A RACCOGLIERE STRUMENTI SEI PIk VELOCE DI UN TUONO," }
+  - { cmd: 0x80, string: "QUALE EMETTE QUESTO STUPIDO SUONO?" }
+  - { cmd: 0x81, string: "\xFDlCELLETTA DI MIELE EXTRA" }
+  - { cmd: 0x82, string: "\xFDlVITA EXTRA" }
+  - { cmd: 0x83, string: "\xFDlMONETA EXTRA" }
+13AB:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlGOBI IL CAMMELLO" }
+  - { cmd: 0x82, string: "\xFDlMOBI IL CAMMELLO" }
+  - { cmd: 0x83, string: "\xFDlHOBO IL CAMMELLO" }
+13AC:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlCLANKER LA BALENA" }
+  - { cmd: 0x82, string: "\xFDlCRANKY LA BALENA" }
+  - { cmd: 0x83, string: "\xFDlCRANKY KONG" }
+13AD:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlTRUNKER L'ALBERO" }
+  - { cmd: 0x82, string: "\xFDlSTINKER L'ALBERO" }
+  - { cmd: 0x83, string: "\xFDlTRUNKER L'ELEFANTE" }
+13AE:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlMR. VILE IL COCCODRILLO" }
+  - { cmd: 0x82, string: "\xFDlMR. PILES L'ALLIGATORE" }
+  - { cmd: 0x83, string: "\xFDlMRS. BILE IL COCCODRILLO" }
+13AF:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlCAPITAN BLUBBER IL PIRATA IPPOPOTAMO" }
+  - { cmd: 0x82, string: "\xFDlCAPITAN BLACKEYE IL PIRATA" }
+  - { cmd: 0x83, string: "\xFDlAMMIRAGLIO BROWNEYE IL PIRATA SPORCO" }
+13B0:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlMUMBO JUMBO LO SCIAMANO" }
+  - { cmd: 0x82, string: "\xFDlHUMBA WUMBA LA SCIAMANA" }
+  - { cmd: 0x83, string: "\xFDlJIMBO JAMBO LO SCIAMANO" }
+13B1:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlCONGA IL GORILLA" }
+  - { cmd: 0x82, string: "\xFDlFUNKY LA SCIMMIA" }
+  - { cmd: 0x83, string: "\xFDlCHIMPY LO SCIMPANZc" }
+13B2:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlBOTTLES LA TALPA" }
+  - { cmd: 0x82, string: "\xFDlJAMJARS LA TALPA" }
+  - { cmd: 0x83, string: "\xFDlBEAKERS LA TALPA" }
+13B3:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlCHIMPY LO SCIMPANZc" }
+  - { cmd: 0x82, string: "\xFDlCONGA IL GORILLA" }
+  - { cmd: 0x83, string: "\xFDlBUMPY IL BABBUINO" }
+13B4:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlTIPTUP LA TARTARUGA" }
+  - { cmd: 0x82, string: "\xFDlRIPTUP LA TARTARUGA" }
+  - { cmd: 0x83, string: "\xFDlBOTTLES LA TALPA" }
+13B5:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlRUBEE L'INCANTATORE DI SERPENTI" }
+  - { cmd: 0x82, string: "\xFDlRATLEE IL SERPENTE" }
+  - { cmd: 0x83, string: "\xFDlHISTUP IL SERPENTE" }
+13B6:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlNAPPER IL FANTASMA DORMIENTE" }
+  - { cmd: 0x82, string: "\xFDlSIPPER IL FANTASMA UBRIACO" }
+  - { cmd: 0x83, string: "\xFDlNAKKER IL FANTASMA FERITO" }
+13B7:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlSNORKEL IL DELFINO" }
+  - { cmd: 0x82, string: "\xFDlAQUALUNG IL DELFINO" }
+  - { cmd: 0x83, string: "\xFDlBUBBLES IL PESCE" }
+13B8:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA BELLISSIMA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlGRUNTILDA LA STREGA" }
+  - { cmd: 0x82, string: "\xFDlBRENTILDA LA FATA MADRINA" }
+  - { cmd: 0x83, string: "\xFDlTOOTY L'ORSETTA" }
+13B9:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlBOGGY L'ORSO POLARE" }
+  - { cmd: 0x82, string: "\xFDlWOZZA IL TRICHECO" }
+  - { cmd: 0x83, string: "\xFDlBOZZO LA FOCA" }
+13BA:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlWOZZA IL TRICHECO" }
+  - { cmd: 0x82, string: "\xFDlSNORKEL IL DELFINO" }
+  - { cmd: 0x83, string: "\xFDlROBNUT LO SCOIATTOLO" }
+13BB:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlNABNUT LO SCOIATTOLO" }
+  - { cmd: 0x82, string: "\xFDlGNAWTY IL CASTORO" }
+  - { cmd: 0x83, string: "\xFDlCONKER LO SCOIATTOLO" }
+13BC:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALI PERSONAGGI HANNO QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlI BAMBINI DI ORSO POLARE" }
+  - { cmd: 0x82, string: "\xFDlIL CORO DELLE TARTARUGHE" }
+  - { cmd: 0x83, string: "\xFDlL'ORCHESTRA DELLE MUMMIE" }
+13BD:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlEYRIE L'AQUILA" }
+  - { cmd: 0x82, string: "\xFDlBEERIE LA POIANA" }
+  - { cmd: 0x83, string: "\xFDlKAZOOIE IL BREEGULL" }
+13BE:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlBRENTILDA LA BRUTTA FATA MADRINA" }
+  - { cmd: 0x82, string: "\xFDlGRUNTILDA L'ADORABILE STREGA" }
+  - { cmd: 0x83, string: "\xFDlTOOTY LA DISGUSTOSA ORSETTA" }
+13BF:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlTOOTY L'ORSETTA" }
+  - { cmd: 0x82, string: "\xFDlBANJO LO STUPIDO ORSO OBESO" }
+  - { cmd: 0x83, string: "\xFDlBOTTLES LA TALPA" }
+13C0:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlLOGGO IL GABINETTO" }
+  - { cmd: 0x82, string: "\xFDlSHANKER IL GABINETTO" }
+  - { cmd: 0x83, string: "\xFDlWIZZO IL LAVANDINO" }
+13C1:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlNIPPER IL PAGURO" }
+  - { cmd: 0x82, string: "\xFDlSNIPPET IL GRANCHIO" }
+  - { cmd: 0x83, string: "\xFDlNIBBLES IL COCCODRILLO" }
+13C2:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlTANKTUP LA TARTARUGA GIGANTE" }
+  - { cmd: 0x82, string: "\xFDlNIPPER L'ENORME GRANCHIO" }
+  - { cmd: 0x83, string: "\xFDlSLAPPER L'IMPONENTE BALENA" }
+13C3:
+  - { cmd: 0x80, string: "A FAR LA TUA SCELTA SII VELOCE," }
+  - { cmd: 0x80, string: "QUALE PERSONAGGIO HA QUESTA STUPIDA VOCE?" }
+  - { cmd: 0x81, string: "\xFDlGINGIO" }
+  - { cmd: 0x82, string: "\xFDlTOOTY" }
+  - { cmd: 0x83, string: "\xFDlBOTTLES" }
+13C4:
+  - { cmd: 0x80, string: "QUANTO SENTI QUESTA MUSICHETTA," }
+  - { cmd: 0x80, string: "CHE MOSSA STA ESEGUENDO LA TUA PIUMATA AMICHETTA?" }
+  - { cmd: 0x81, string: "\xFDlRAPIDO RAPACE TURBO" }
+  - { cmd: 0x82, string: "\xFDlINVULNERABILIT_ CON LE ALI D'ORO" }
+  - { cmd: 0x83, string: "\xFDlINVULNERABILIT_ RAPIDA CON LE ALI DI RAPACE D'ORO TURBO" }
+13C5:
+  - { cmd: 0x80, string: "QUANDO SENTI QUESTA MUSICHETTA," }
+  - { cmd: 0x80, string: "CHE MOSSA STA ESEGUENDO LA TUA PIUMATA AMICHETTA?" }
+  - { cmd: 0x81, string: "\xFDlPASSO TRAMPOLO" }
+  - { cmd: 0x82, string: "\xFDlRAPIDO RAPACE TURBO" }
+  - { cmd: 0x83, string: "\xFDlPASSO TRAMPOLO RAPIDO DA RAPACE TURBO" }
+13C6:
+  - { cmd: 0x80, string: "QUANDO SENTI QUESTA MUSICHETTA," }
+  - { cmd: 0x80, string: "CHE MOSSA STA ESEGUENDO LA TUA PIUMATA AMICHETTA?" }
+  - { cmd: 0x81, string: "\xFDlINVULNERABILIT_ CON LE ALI D'ORO" }
+  - { cmd: 0x82, string: "\xFDlPASSO TRAMPOLO" }
+  - { cmd: 0x83, string: "\xFDlINVULNERABILIT_ A PASSO CON LE ALI TRAMPOLO D'ORO" }
+13C7:
+  - { cmd: 0x80, string: "NON SI SA MAI, MA SAPERLO DOVRESTI," }
+  - { cmd: 0x80, string: "SE SENTI QUESTA DOVE TI TROVERESTI?" }
+  - { cmd: 0x81, string: "\xFDlDENTRO L'IGLOO DELL'ORSO POLARE" }
+  - { cmd: 0x82, string: "\xFDlDENTRO LA CHIESA STREGATA" }
+  - { cmd: 0x83, string: "\xFDlDENTRO LA CHIESA DELL'ORSO STREGATO" }
+13C8:
+  - { cmd: 0x80, string: "NON SI SA MAI, MA SAPERLO DOVRESTI," }
+  - { cmd: 0x80, string: "SE SENTI QUESTA DOVE TI TROVERESTI?" }
+  - { cmd: 0x81, string: "\xFDlDENTRO LA CASA SULL'ALBERO DELLO SCOIATTOLO" }
+  - { cmd: 0x82, string: "\xFDlDENTRO LA CASA DI BANJO" }
+  - { cmd: 0x83, string: "\xFDlDENTRO LA CASA DI BANJO LO SCOIATTOLO" }
+13C9:
+  - { cmd: 0x80, string: "NON SI SA MAI, MA SAPERLO DOVRESTI," }
+  - { cmd: 0x80, string: "SE SENTI QUESTA DOVE TI TROVERESTI?" }
+  - { cmd: 0x81, string: "\xFDlDENTRO IL TESCHIO DELLO SCIAMANO" }
+  - { cmd: 0x82, string: "\xFDlDENTRO LA TESTA DEL COCCODRILLO" }
+  - { cmd: 0x83, string: "\xFDlDENTRO LA TESTA DELLO SCIAMANO" }
+13CA:
+  - { cmd: 0x80, string: "ASCOLTA BENE QUESTO PEZZO ODIOSO," }
+  - { cmd: 0x80, string: "DA CHE MONDO PROVIENE, BABBEO PELOSO?" }
+  - { cmd: 0x81, string: "\xFDlMONTAGNA DI MUMBO" }
+  - { cmd: 0x82, string: "\xFDlMANIERO DEL MOSTRO" }
+  - { cmd: 0x83, string: "\xFDlMANIERO DI MUMBO IL MOSTRO" }
+13CB:
+  - { cmd: 0x80, string: "ASCOLTA BENE QUESTO PEZZO ODIOSO," }
+  - { cmd: 0x80, string: "DA CHE MONDO PROVIENE, BABBEO PELOSO?" }
+  - { cmd: 0x81, string: "\xFDlISOLA DEL TESORO" }
+  - { cmd: 0x82, string: "\xFDlBAIA DEL RUSTY BUCKET" }
+  - { cmd: 0x83, string: "\xFDlBAIA DEL TREASURE BUCKET" }
+13CC:
+  - { cmd: 0x80, string: "ASCOLTA BENE QUESTO PEZZO ODIOSO," }
+  - { cmd: 0x80, string: "DA CHE MONDO PROVIENE, BABBEO PELOSO?" }
+  - { cmd: 0x81, string: "\xFDlCAVERNA DI CLANKER" }
+  - { cmd: 0x82, string: "\xFDlBOSCO TIC-TOC" }
+  - { cmd: 0x83, string: "\xFDlOROLOGIO DI CLANKER" }
+13CD:
+  - { cmd: 0x80, string: "ASCOLTA BENE QUESTO PEZZO ODIOSO," }
+  - { cmd: 0x80, string: "DA CHE MONDO PROVIENE, BABBEO PELOSO?" }
+  - { cmd: 0x81, string: "\xFDlPALUDE BOLLACIDA" }
+  - { cmd: 0x82, string: "\xFDlMONTAGNA DI MUMBO" }
+  - { cmd: 0x83, string: "\xFDlMONTAGNA BOLLAPPICCICOSA" }
+13CE:
+  - { cmd: 0x80, string: "ASCOLTA BENE QUESTO PEZZO ODIOSO," }
+  - { cmd: 0x80, string: "DA CHE MONDO PROVIENE, BABBEO PELOSO?" }
+  - { cmd: 0x81, string: "\xFDlVALLE DI GOBI" }
+  - { cmd: 0x82, string: "\xFDlPICCO GHIACCIOGELATO" }
+  - { cmd: 0x83, string: "\xFDlPICCO DI GOBI" }
+13CF:
+  - { cmd: 0x80, string: "ASCOLTA BENE QUESTO PEZZO ODIOSO," }
+  - { cmd: 0x80, string: "DA CHE MONDO PROVIENE, BABBEO PELOSO?" }
+  - { cmd: 0x81, string: "\xFDlMANIERO DEL MOSTRO" }
+  - { cmd: 0x82, string: "\xFDlBAIA DEL RUSTY BUCKET" }
+  - { cmd: 0x83, string: "\xFDlBAIA DEL RUSTY MONSTER" }
+13D0:
+  - { cmd: 0x80, string: "ASCOLTA BENE QUESTO PEZZO ODIOSO," }
+  - { cmd: 0x80, string: "DA CHE MONDO PROVIENE, BABBEO PELOSO?" }
+  - { cmd: 0x81, string: "\xFDlPICCO GHIACCIOGELATO" }
+  - { cmd: 0x82, string: "\xFDlISOLA DEL TESORO" }
+  - { cmd: 0x83, string: "\xFDlISOLA GHIACCIOGELATO" }
+13D1:
+  - { cmd: 0x80, string: "ASCOLTA BENE QUESTO PEZZO ODIOSO," }
+  - { cmd: 0x80, string: "DA CHE MONDO PROVIENE, BABBEO PELOSO?" }
+  - { cmd: 0x81, string: "\xFDlBOSCO TIC-TOC" }
+  - { cmd: 0x82, string: "\xFDlPALUDE BOLLACIDA" }
+  - { cmd: 0x83, string: "\xFDlBOSCO BOLLOROLOGIO" }
+13D2:
+  - { cmd: 0x80, string: "ASCOLTA BENE QUESTO PEZZO ODIOSO," }
+  - { cmd: 0x80, string: "DA CHE MONDO PROVIENE, BABBEO PELOSO?" }
+  - { cmd: 0x81, string: "\xFDlBAIA DEL RUSTY BUCKET" }
+  - { cmd: 0x82, string: "\xFDlBOSCO TIC-TOC" }
+  - { cmd: 0x83, string: "\xFDlBOSCO CRIC-CROC" }
+13D3:
+  - { cmd: 0x80, string: "NON SI SA MAI, MA SAPERLO DOVRESTI," }
+  - { cmd: 0x80, string: "SE SENTI QUESTA DOVE TI TROVERESTI?" }
+  - { cmd: 0x81, string: "\xFDlDENTRO L'ALVEARE DELLE VESPE" }
+  - { cmd: 0x82, string: "\xFDlDENTRO LA TORRE DELLE TERMITI" }
+  - { cmd: 0x83, string: "\xFDlDENTRO IL GUSCIO DEL GRANCHIO" }
+13D4:
+  - { cmd: 0x80, string: "NON SI SA MAI, MA SAPERLO DOVRESTI," }
+  - { cmd: 0x80, string: "SE SENTI QUESTA DOVE TI TROVERESTI?" }
+  - { cmd: 0x81, string: "\xFDlDENTRO LA GROTTA DEL TRICHECO" }
+  - { cmd: 0x82, string: "\xFDlDENTRO LA BALENA MECCANICA GIGANTE" }
+  - { cmd: 0x83, string: "\xFDlDENTRO IL TESCHIO DELLO SCIAMANO" }
+13D5:
+  - { cmd: 0x80, string: "NON SI SA MAI, MA SAPERLO DOVRESTI," }
+  - { cmd: 0x80, string: "SE SENTI QUESTA DOVE TI TROVERESTI?" }
+  - { cmd: 0x81, string: "\xFDlDENTRO LA STIVA DELLA NAVE PIRATA" }
+  - { cmd: 0x82, string: "\xFDlDENTRO LA TARTARUGA GIGANTE" }
+  - { cmd: 0x83, string: "\xFDlDENTRO LA SFINGE" }
+1407:
+  - { cmd: 0x80, string: "RICORDATI BENE PER TRARNE BENEFICIO," }
+  - { cmd: 0x80, string: "QUALE DI QUESTI c IL MIO DENTIFRICIO?" }
+  - { cmd: 0x81, string: "\xFDlGELATO AL POMODORO" }
+  - { cmd: 0x82, string: "\xFDlLUMACA SALATA" }
+  - { cmd: 0x83, string: "\xFDlFORMAGGIO AMMUFFITO" }
+1408:
+  - { cmd: 0x80, string: "GUARDA I MIEI CAPELLI, OSSERVALI ONDEGGIARE," }
+  - { cmd: 0x80, string: "CON COSA LI LAVO, ME LO SAI CONFERMARE?" }
+  - { cmd: 0x81, string: "\xFDlFAGIOLI AL FORNO" }
+  - { cmd: 0x82, string: "\xFDlOLIO MOTORE" }
+  - { cmd: 0x83, string: "\xFDlLATTE RANCIDO" }
+1409:
+  - { cmd: 0x80, string: "GRUNTY HA UNA POSA DELIZIOSA," }
+  - { cmd: 0x80, string: "DA DOVE PRENDO I VESTITI CHE MI RENDON FAVOLOSA?" }
+  - { cmd: 0x81, string: "\xFDlDAL CESTINO DEI RIFIUTI" }
+  - { cmd: 0x82, string: "\xFDlDALLA BOUTIQUE DI VIOLANTE CASCANTE" }
+  - { cmd: 0x83, string: "\xFDlDAL MAGAZZINO DELLE STREGHE" }
+140A:
+  - { cmd: 0x80, string: "BANJO c STUPIDO, GRUNTY c BELLA ECCOME," }
+  - { cmd: 0x80, string: "ALLA SCUOLA DELLE STREGHE QUAL ERA IL MIO SOPRANNOME?" }
+  - { cmd: 0x81, string: "\xFDlALITO DI PORCO" }
+  - { cmd: 0x82, string: "\xFDlSEDERE CALDERONE" }
+  - { cmd: 0x83, string: "\xFDlPANCIA GELATINOSA" }
+140B:
+  - { cmd: 0x80, string: "HAI PER CASO INTUITO," }
+  - { cmd: 0x80, string: "QUAL c IL MIO ODORE PREFERITO?" }
+  - { cmd: 0x81, string: "\xFDlVOMITO MARCIO DI PAPPAGALLO" }
+  - { cmd: 0x82, string: "\xFDlPIEDI SUDATI DI GORILLA" }
+  - { cmd: 0x83, string: "\xFDlFORUNCOLI APPENA SCOPPIATI" }
+140C:
+  - { cmd: 0x80, string: "INDOVINA QUESTA O TI ARROSTISCO," }
+  - { cmd: 0x80, string: "QUAL c IL COLORE CHE PREFERISCO?" }
+  - { cmd: 0x81, string: "\xFDlGRIGIO SPETTRALE" }
+  - { cmd: 0x82, string: "\xFDlMARRON LETAME" }
+  - { cmd: 0x83, string: "\xFDlVERDE MACABRO" }
+140D:
+  - { cmd: 0x80, string: "GUARDA IL MIO FISICO, IL MUSCOLO c TESO," }
+  - { cmd: 0x80, string: "QUAL c LO SPORT CHE PIk MI HA PRESO?" }
+  - { cmd: 0x81, string: "\xFDlGARA DI SPUTI" }
+  - { cmd: 0x82, string: "\xFDlCADUTA DI PANCIA" }
+  - { cmd: 0x83, string: "\xFDlGARA DI MANICI DI SCOPA" }
+140E:
+  - { cmd: 0x80, string: "NON CI LAVAVAMO, NON C'ERA LA PISCINA," }
+  - { cmd: 0x80, string: "A QUALE SCUOLA ANDAVO DA PICCINA?" }
+  - { cmd: 0x81, string: "\xFDlCAULDRON COLLEGE" }
+  - { cmd: 0x82, string: "\xFDlFAT HAG HIGH" }
+  - { cmd: 0x83, string: "\xFDlST. DUNGBALL" }
+140F:
+  - { cmd: 0x80, string: "ECCO TRE RISPOSTE, LA GIUSTA c UNA TRA QUESTE," }
+  - { cmd: 0x80, string: "QUAL c IL MIO FANTASTICO NUMERO ALLE FESTE?" }
+  - { cmd: 0x81, string: "\xFDlGONFIARE PALLONCINI CON IL MIO SEDERE!" }
+  - { cmd: 0x82, string: "\xFDlESIBIRMI IN UNO SPOGLIARELLO!" }
+  - { cmd: 0x83, string: "\xFDlMANGIARE UN SECCHIO DI FAGIOLI!" }
+1410:
+  - { cmd: 0x80, string: "MI PIACCIONO FRITTI, DANNO SODDISFAZIONE," }
+  - { cmd: 0x80, string: "COSA MANGIO A COLAZIONE?" }
+  - { cmd: 0x81, string: "\xFDlTARALLI AL RATTO" }
+  - { cmd: 0x82, string: "\xFDlPANCAKE DI RAGNO" }
+  - { cmd: 0x83, string: "\xFDlGIRINI TOSTATI" }
+1411:
+  - { cmd: 0x80, string: "VORREI ESSERE MAGRA COME UNA SIRENA," }
+  - { cmd: 0x80, string: "COSA PIACE A GRUNTY PER CENA?" }
+  - { cmd: 0x81, string: "\xFDlHOT DOG AL LETAME" }
+  - { cmd: 0x82, string: "\xFDlSTUFATO DI LUMACONE" }
+  - { cmd: 0x83, string: "\xFDlTORTA AL VERME" }
+1412:
+  - { cmd: 0x80, string: "ANCORA UN PO' NON AVREBBE GUASTATO," }
+  - { cmd: 0x80, string: "QUALE DOLCE AVREI VOLENTIERI MANGIATO?" }
+  - { cmd: 0x81, string: "\xFDlGELATO AL BULBO OCULARE" }
+  - { cmd: 0x82, string: "\xFDlBLATTE CON CREMA" }
+  - { cmd: 0x83, string: "\xFDlSORBETTO AL RATTO" }
+1413:
+  - { cmd: 0x80, string: "NON POSSO MENTIRE, SONO SENZA SPERANZA," }
+  - { cmd: 0x80, string: "COSA PENZOLA DAL SOFFITTO DELLA MIA STANZA?" }
+  - { cmd: 0x81, string: "\xFDlPESCI MARCI" }
+  - { cmd: 0x82, string: "\xFDlCALZE PUZZOLENTI" }
+  - { cmd: 0x83, string: "\xFDlMUTANDE SPORCHE" }
+1414:
+  - { cmd: 0x80, string: "UN'ADORABILE ESEMPLARE IN UNA PENTOLA STO COLTIVANDO," }
+  - { cmd: 0x80, string: "c ACCANTO AL MIO LETTO, DI COSA STO PARLANDO?" }
+  - { cmd: 0x81, string: "\xFDlDI UN FIORE DI BULBO OCULARE" }
+  - { cmd: 0x82, string: "\xFDlDI UNA PIANTA DI VERRUCHE" }
+  - { cmd: 0x83, string: "\xFDlDI UN CESPUGLIO DI MUCO" }
+1415:
+  - { cmd: 0x80, string: "COME OSI GUARDARE, CHIUDI QUEGLI OCCHIONI," }
+  - { cmd: 0x80, string: "DI CHE COLORE SONO I MIEI MUTANDONI?" }
+  - { cmd: 0x81, string: "\xFDlA STRISCE MARRONI" }
+  - { cmd: 0x82, string: "\xFDlA MACCHIE VIOLA" }
+  - { cmd: 0x83, string: "\xFDlGIALLI DI SUDORE" }
+1416:
+  - { cmd: 0x80, string: "PER TUTTI GLI INCANTESIMI CHE HO PRESTATO COL SUDORE," }
+  - { cmd: 0x80, string: "CHI A SCUOLA ERA LA MIA AMICA MIGLIORE?" }
+  - { cmd: 0x81, string: "\xFDlVIOLANTE CASCANTE" }
+  - { cmd: 0x82, string: "\xFDlDONATA SUDATA" }
+  - { cmd: 0x83, string: "\xFDlFIONA GRASSONA" }
+1417:
+  - { cmd: 0x80, string: "IN EDICOLA MI POSSONO AVER VISTA," }
+  - { cmd: 0x80, string: "QUALE PENSO SIA LA MIGLIOR RIVISTA?" }
+  - { cmd: 0x81, string: "\xFDlIL MENSILE 'STREGA GRASSA'" }
+  - { cmd: 0x82, string: "\xFDlIL SETTIMANALE 'RAGAZZE VERRUCOSE'" }
+  - { cmd: 0x83, string: "\xFDl'SEDERONI E FEGATO'" }
+1418:
+  - { cmd: 0x80, string: "CREDO SIA QUESTA, DAI DUBBI SONO INSEGUITA," }
+  - { cmd: 0x80, string: "DI GRUNTY QUAL c LA BIBITA PREFERITA?" }
+  - { cmd: 0x81, string: "\xFDlMILKSHAKE ALLO SPUTO DI CAMMELLO" }
+  - { cmd: 0x82, string: "\xFDlFRULLATO DI SUDORE DI ELEFANTE" }
+  - { cmd: 0x83, string: "\xFDlSUCCO DI VERME FRESCO" }
+1419:
+  - { cmd: 0x80, string: "RANNICCHIATA IN UN MUCCHIO VADO SEMPRE A FINIRE," }
+  - { cmd: 0x80, string: "A GRUNTY DOVE PIACE DORMIRE?" }
+  - { cmd: 0x81, string: "\xFDlIN UN CASSONETTO" }
+  - { cmd: 0x82, string: "\xFDlSU UNA MONTAGNA DI TESORI" }
+  - { cmd: 0x83, string: "\xFDlIN UN PORCILE" }
+141A:
+  - { cmd: 0x80, string: "ANCHE A SCUOLA MAGRA NON SONO MAI STATA," }
+  - { cmd: 0x80, string: "QUALE PREMIO MI SON GUADAGNATA?" }
+  - { cmd: 0x81, string: "\xFDlPER IL SEDERE PIk GRANDE" }
+  - { cmd: 0x82, string: "\xFDlPER LE MUTANDE PIk SPORCHE" }
+  - { cmd: 0x83, string: "\xFDlPER LE CALZE PIk PUZZOLENTI" }
+141B:
+  - { cmd: 0x80, string: "IL MENSILE 'STREGA GRASSA' MI RITIENE CARINA," }
+  - { cmd: 0x80, string: "COSA FACEVO SULLA SUA COPERTINA?" }
+  - { cmd: 0x81, string: "\xFDlERO SEDUTA SUL MIO MANICO DI SCOPA" }
+  - { cmd: 0x82, string: "\xFDlPOSAVO IN CALZAMAGLIA" }
+  - { cmd: 0x83, string: "\xFDlPULIVO LA MIA SFERA DI CRISTALLO" }
+141C:
+  - { cmd: 0x80, string: "NON PASSO IL TEMPO SOLO A RIMARE," }
+  - { cmd: 0x80, string: "PER PASSATEMPO COS'ALTRO MI PIACE FARE?" }
+  - { cmd: 0x81, string: "\xFDlCOLLEZIONARE DENTI DI DRAGO" }
+  - { cmd: 0x82, string: "\xFDlFAR SCOPPIARE FORUNCOLI" }
+  - { cmd: 0x83, string: "\xFDlPILOTARE PIPISTRELLI RADIOCOMANDATI" }
+141D:
+  - { cmd: 0x80, string: "GRUNTY c CARINA, LA GENTE SPIAZZO," }
+  - { cmd: 0x80, string: "COME SI CHIAMAVA IL MIO PRIMO RAGAZZO?" }
+  - { cmd: 0x81, string: "\xFDlASSUNTO BISUNTO" }
+  - { cmd: 0x82, string: "\xFDlSILVANO GROSSOLANO" }
+  - { cmd: 0x83, string: "\xFDlNORTON NONMORTO" }
+141E:
+  - { cmd: 0x80, string: "NON HAI ANCORA VINTO, NON FARE IL FURBETTO," }
+  - { cmd: 0x80, string: "QUAND'ERO PICCOLA COS'ERA IL MIO ANIMALETTO?" }
+  - { cmd: 0x81, string: "\xFDlUN CUCCIOLO DI DRAGO" }
+  - { cmd: 0x82, string: "\xFDlUN FACOCERO OBESO" }
+  - { cmd: 0x83, string: "\xFDlUN AVVOLTOIO SQUILIBRATO" }
+141F:
+  - { cmd: 0x80, string: "MI TIENE AL SICURO E NON HO PAURA ALCUNA," }
+  - { cmd: 0x80, string: "COSA USO COME PORTAFORTUNA?" }
+  - { cmd: 0x81, string: "\xFDlUNA TESTA RINSECCHITA" }
+  - { cmd: 0x82, string: "\xFDlUN FAZZOLETTO PIENO DI SPUTI" }
+  - { cmd: 0x83, string: "\xFDlUN PIEDE DI DRAGO" }
+1420:
+  - { cmd: 0x80, string: "MI PIACCIONO LE COCCOLE MA ANCHE LE BOTTE," }
+  - { cmd: 0x80, string: "CON CHI DORMO A LETTO LA NOTTE?" }
+  - { cmd: 0x81, string: "\xFDlCON UNO SPAVENTOSO ORSACCHIOTTO DI PELUCHE" }
+  - { cmd: 0x82, string: "\xFDlCON UN ENORME BABBUINO PUZZOLENTE" }
+  - { cmd: 0x83, string: "\xFDlCON LE MIE MUTANDE SPORCHE" }
+1421:
+  - { cmd: 0x80, string: "ATTRAVERSO IL CIELO ADORO PLANARE," }
+  - { cmd: 0x80, string: "CHE TIPO DI MANICO DI SCOPA USO GUIDARE?" }
+  - { cmd: 0x81, string: "\xFDlLARDMASTER 2000" }
+  - { cmd: 0x82, string: "\xFDlDOMACAVALLI DELUXE" }
+  - { cmd: 0x83, string: "\xFDlSUPER SOLLEVABUDELLA PRO" }
+1422:
+  - { cmd: 0x80, string: "NON SONO CARINA, PUOI AVERLO INTUITO," }
+  - { cmd: 0x80, string: "COSA NASCONDO SOTTO IL MIO VESTITO?" }
+  - { cmd: 0x81, string: "\xFDlDEI PANTALONCINI VOLUMINOSI" }
+  - { cmd: 0x82, string: "\xFDlUN CIRCO DI PULCI" }
+  - { cmd: 0x83, string: "\xFDlUNA CINTURA DI FORZA" }
+1423:
+  - { cmd: 0x80, string: "VEDIAMO SE LA TUA MEMORIA c QUELLA DI UN CRETINO," }
+  - { cmd: 0x80, string: "QUAL c IL NOME DEL MIO CAGNOLINO?" }
+  - { cmd: 0x81, string: "\xFDlMANGIAGAMBE" }
+  - { cmd: 0x82, string: "\xFDlCACCIACHIODI" }
+  - { cmd: 0x83, string: "\xFDlNERONE" }
+1424:
+  - { cmd: 0x80, string: "VUOI ASCOLTARCI, NE SONO CERTA," }
+  - { cmd: 0x80, string: "IN QUALE BAND SONO UNA CANTANTE ESPERTA?" }
+  - { cmd: 0x81, string: "\xFDlGRUNTY E LA PLEBAGLIA MOSTRUOSA" }
+  - { cmd: 0x82, string: "\xFDlGRUNTY E I MANICI DI SCOPA" }
+  - { cmd: 0x83, string: "\xFDlGRUNTY E LA SQUADRA CALDERONE" }

@@ -51,10 +51,19 @@ I testi provengono dalla traduzione amatoriale [Banjo-Kazooie Traduzione Italian
 
 ## Limitazioni note
 
-- **Quiz di Grunty's Furnace Fun** (200 domande): sono già tradotti, ma DialogLoader non carica ancora i quiz, quindi restano in inglese.
+- **Quiz di Grunty's Furnace Fun** (200 domande): sono già tradotti e inclusi nella cartella `quiz/`, ma DialogLoader non carica ancora i quiz, quindi in gioco restano in inglese. Vedi la sezione *Quiz*.
 - Testo `0x102C`: escluso, contiene byte di controllo (`0x0A`/`0x0D`) che il formato di DialogLoader non può rappresentare.
 - Titoli di coda, `0x0E8F` ("GRNN...") e `0x0C00` ("OOOOOOOF..."): in inglese.
 - Scritte grafiche (texture e modelli): non incluse.
+
+## Quiz
+
+La cartella `quiz/` contiene le 200 domande tradotte, pronte per quando DialogLoader supporterà i quiz:
+
+- `quiz/quiz_it.yaml`: tutte le domande in formato leggibile, raggruppate per ID asset NTSC-U (hex). Le lettere accentate usano i segnaposto del font PAL (`_`=À, `b`=É, `c`=È, `f`=Ì, `h`=Ò, `k`=Ù); `\xFD` indica un codice di controllo del gioco.
+- `quiz/bin/XXXX.bin`: ogni domanda come asset binario decompresso nel formato NTSC-U, utilizzabile direttamente con `bk_recomp_aep_register_replacement`.
+
+Quando il loader supporterà i quiz basterà convertirli nel formato richiesto; per ora **non vanno copiati** nella cartella mods.
 
 ## English summary
 
