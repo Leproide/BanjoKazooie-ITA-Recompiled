@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "QUELLE PIANTE SPINOSE SONO BELLE ED EFFICIENTI," }
+  - { cmd: 0xB5, string: "GRAZIE A LORO GODO DEI TUOI LAMENTI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

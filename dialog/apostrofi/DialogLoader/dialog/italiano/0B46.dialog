@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0x86, string: "EHI... QUELLA ARANCIA DI CONGA! RIDAMMELA!" }
+  - { cmd: 0x9E, string: "YUM... LE ARANCE SONO BUONE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

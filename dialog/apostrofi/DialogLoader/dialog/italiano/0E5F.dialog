@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "VIENI DA ME, DOLCEZZA," }
+  - { cmd: 0xB5, string: "PRESTO SARAI BRUTTA, CHE TRISTEZZA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

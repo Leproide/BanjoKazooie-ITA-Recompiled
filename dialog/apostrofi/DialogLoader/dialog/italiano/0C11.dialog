@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xBE, string: "L'ACQUA E' TROPPO FREDDA PER TE, BANJO? BEH, NON ENTRARCI ALLORA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

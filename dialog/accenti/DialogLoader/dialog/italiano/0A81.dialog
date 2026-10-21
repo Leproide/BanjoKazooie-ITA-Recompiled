@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xBB, string: "QUESTA È LA TOMBA DEL RE SANDYBUTT. TORNA INDIETRO O AFFRONTERAI LA SUA IRA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

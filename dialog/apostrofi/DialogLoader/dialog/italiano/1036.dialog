@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "SBAGLIA DI PIU', COSI' SI FA!" }
+  - { cmd: 0xB5, string: "IL PUBBLICO ESPLODE DI FELICITA'!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x84, string: "MAGIA DI MUMBO LIBERA DI ESSERE RIPRISTINATA, RITORNARE QUANDO PRONTI." }
+  - { cmd: 0x02, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

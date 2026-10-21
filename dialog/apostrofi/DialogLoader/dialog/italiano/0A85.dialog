@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "USATE LE SCARPE SCHEGGIA PER RENDERE KAZOOIE VERAMENTE VELOCE PER UN TEMPO LIMITATO GRAZIE ALLA MOSSA RAPIDO RAPACE TURBO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

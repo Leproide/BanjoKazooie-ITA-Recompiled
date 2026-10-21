@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xD8, string: "SEI PRONTA QUESTA VOLTA, PSEUDOVOLATILE?" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

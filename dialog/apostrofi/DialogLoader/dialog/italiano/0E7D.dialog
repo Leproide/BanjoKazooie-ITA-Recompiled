@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x84, string: "AVERE PRESO TUTTI 100 PEZZI DI PUZZLE?" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

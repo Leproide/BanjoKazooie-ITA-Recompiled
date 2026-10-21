@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC4, string: "ZZZZZZ... MMM, GHIANDE... ZZZZZZ..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC7, string: "GNAM... BUONO BRUCO BUONISSIMO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

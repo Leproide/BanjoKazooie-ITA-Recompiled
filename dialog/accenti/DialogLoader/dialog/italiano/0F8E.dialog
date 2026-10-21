@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "STAI DALLA PARTE DI BANJO, MA CAMBIA SCHIERA," }
+  - { cmd: 0xB5, string: "IMMAGINATI SULLA SCHIENA DI QUESTA BELLA MEGERA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

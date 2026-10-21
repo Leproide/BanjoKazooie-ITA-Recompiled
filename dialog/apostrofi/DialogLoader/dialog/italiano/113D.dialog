@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "I TUOI STUPIDI AMICI SOPRA QUEI BASAMENTI," }
+  - { cmd: 0xB5, string: "STANNO PER PRENDERE UN PAIO DI PUGNI DOLENTI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

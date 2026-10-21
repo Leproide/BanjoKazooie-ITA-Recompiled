@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "HO ANCHE VISTO MIA SORELLA COCCOLARE ~ A LETTO DI NOTTE!" }
+  - { cmd: 0x08, string: "UNO SPAVENTOSO ORSACCHIOTTO DI PELUCHE" }
+  - { cmd: 0x08, string: "UN ENORME BABBUINO PUZZOLENTE" }
+  - { cmd: 0x08, string: "LE SUE MUTANDE SPORCHE" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

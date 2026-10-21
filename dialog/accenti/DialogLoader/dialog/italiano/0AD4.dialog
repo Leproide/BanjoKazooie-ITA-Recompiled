@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB9, string: "NON MALE, ORSO, MA ORA STAMMI A GUARDARE," }
+  - { cmd: 0xB9, string: "COPIA QUESTO PEZZO E FAMMI SOGNARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

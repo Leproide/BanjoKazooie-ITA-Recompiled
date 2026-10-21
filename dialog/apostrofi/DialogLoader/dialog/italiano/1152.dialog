@@ -1,0 +1,8 @@
+type: Dialog
+bottom:
+  - { cmd: 0x96, string: "SONO IL POSSENTE GINGIONATOR, ATTIVATEMI..." }
+  - { cmd: 0xB5, string: "NON VA BENE, STUPIDO DEFICIENTE," }
+  - { cmd: 0xB5, string: "LA STATUA JINJO NON PUO' FARMI NIENTE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "HAI SENTITO QUEL BELLISSIMO SCHIOCCO?" }
+  - { cmd: 0xB5, string: "IL MIO MANICO DI SCOPA TI HA DATO PROPRIO UN BEL TOCCO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

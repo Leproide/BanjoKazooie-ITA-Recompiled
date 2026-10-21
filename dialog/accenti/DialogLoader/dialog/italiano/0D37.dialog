@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "AVETE IMPARATO TUTTE LE MIE NUOVE MOSSE DI QUESTO MONDO, IL RESTO DIPENDE DA VOI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

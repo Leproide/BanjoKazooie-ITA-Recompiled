@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "IL MIO PROSSIMO MONDO È IL PIÙ DIFFICILE, PER IL MOMENTO," }
+  - { cmd: 0xB5, string: "E TU FALLIRAI, ME LO SENTO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

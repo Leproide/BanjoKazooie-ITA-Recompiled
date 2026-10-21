@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "CONSUMERAI L'ARIA DUE VOLTE IN PIÙ DEL NORMALE," }
+  - { cmd: 0xB5, string: "HO RESO L'ACQUA DI UN FREDDO GLACIALE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

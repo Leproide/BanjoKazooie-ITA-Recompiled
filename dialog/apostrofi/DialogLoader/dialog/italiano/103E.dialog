@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "HA FINITO LE VITE, E' NEL LAVA INCANDESCENTE," }
+  - { cmd: 0xB5, string: "SONO FELICE DI DIRE CHE QUESTO E' TUTTO, GENTE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

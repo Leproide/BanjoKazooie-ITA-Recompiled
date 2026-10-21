@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xA6, string: "EHI! TENETE I VOSTRI PIEDI LONTANO DA QUI! NON POTRETE USARCI FINCHÉ NON AVRETE PARLATO CON BOTTLES..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

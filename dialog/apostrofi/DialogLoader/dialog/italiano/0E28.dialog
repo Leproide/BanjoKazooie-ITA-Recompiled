@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "POTETE PROVARE ANCHE IL LIVELLO 2 DEL MIO GIOCO SE VI VA. BASTA GUARDARE DI NUOVO L'IMMAGINE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

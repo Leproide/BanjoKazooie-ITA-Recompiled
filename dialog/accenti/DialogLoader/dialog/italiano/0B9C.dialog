@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB2, string: "GRAZIE, RAGAZZI! PRIMA HO TROVATO QUESTO, È VOSTRO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

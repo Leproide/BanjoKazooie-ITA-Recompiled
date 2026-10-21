@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "BENE, NON PENSAVO CHE QUALCUNO SAREBBE RIUSCITO A FARE QUELLO, BEN FATTO! ECCO IL VOSTRO ULTIMO PREMIO, 'BIGBOTTLESBONUS'!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "NON ABBANDONATE LA VALLE SENZA AVER TROVATO LA NUOVA MOSSA! SONO SICURO CHE VI SERVIRÀ PIÙ TARDI..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

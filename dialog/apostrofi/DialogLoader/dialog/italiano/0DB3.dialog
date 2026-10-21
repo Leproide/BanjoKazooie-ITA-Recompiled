@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x80, string: "OOOH... UN UOVO! SONO SICURO CHE TROVEREMO IL MODO PER USARLO DA QUALCHE PARTE..." }
+  - { cmd: 0x04, string: "" }

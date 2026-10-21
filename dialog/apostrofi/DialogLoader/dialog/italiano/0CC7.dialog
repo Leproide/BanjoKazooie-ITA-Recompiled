@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xBD, string: "EEK! AGLI ANIMALI AFFAMATI PIACCIONO I BRUCHI..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

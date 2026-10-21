@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "PROVA QUESTA, MA NON GASARTI PER POCO," }
+  - { cmd: 0xB5, string: "PERDERAI UNA VITA E PURE IL GIOCO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

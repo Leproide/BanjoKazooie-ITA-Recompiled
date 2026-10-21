@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "UNA VITA EXTRA, NON MI INTERESSA AFFATTO," }
+  - { cmd: 0xB5, string: "NON TI AIUTERA', ORSO SCIATTO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

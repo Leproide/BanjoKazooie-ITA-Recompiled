@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "QUANDO SIETE PRONTI A LASCIARE QUESTO MONDO, RITORNATE NELL'AREA DI PARTENZA E POSIZIONATEVI SULLA PEDANA DI USCITA." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

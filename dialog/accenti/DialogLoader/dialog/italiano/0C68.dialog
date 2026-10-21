@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8B, string: "AH! MR. VILE VINCE SENZA FATICA! STO ARRIVANDO, VERDINO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

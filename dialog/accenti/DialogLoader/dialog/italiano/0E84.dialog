@@ -1,0 +1,8 @@
+type: Dialog
+bottom:
+  - { cmd: 0xDA, string: "STUPIDO ORSO E SCIOCCA KAZOOIE," }
+  - { cmd: 0xDA, string: "SARÒ DI RITORNO PER" }
+  - { cmd: 0xDA, string: "BANJO-TOOIE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

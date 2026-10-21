@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "SCOMMETTO CHE PENSAVI DI AVERMI ANNIENTATA," }
+  - { cmd: 0xB5, string: "MA INVECE SUI MIEI PIEDI SONO ATTERRATA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

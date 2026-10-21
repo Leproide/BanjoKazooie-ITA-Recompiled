@@ -1,0 +1,8 @@
+type: Dialog
+bottom:
+  - { cmd: 0xD3, string: "GUARDA GRUNTY CHE SPLENDORE," }
+  - { cmd: 0xD3, string: "ORA DI TOOTY SONO MIGLIORE!" }
+  - { cmd: 0xD2, string: "OH, LO SSSEI, PADRONA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

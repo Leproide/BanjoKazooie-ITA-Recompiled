@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "SE VOLETE POSIZIONARE TUTTI I VOSTRI PEZZI SUL QUADRO, BASTA CHE PREMIATE Z!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

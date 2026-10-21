@@ -1,0 +1,10 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "LA MOSSA RAPIDO RAPACE CONSENTIRA' A KAZOOIE DI SALIRE ERTI PENDII CON FACILITA'!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x83, string: "TENETE PREMUTO Z, POI PREMETE IL PULSANTE C SINISTRO. CONTINUATE A TENERE PREMUTO Z MENTRE USATE LA LEVETTA ANALOGICA PER MUOVERE KAZOOIE. BUON ALLENAMENTO!" }
+  - { cmd: 0x02, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x80, string: "SEMBRA UTILE, COME CI PUO' RIUSCIRE?" }
+  - { cmd: 0x04, string: "" }

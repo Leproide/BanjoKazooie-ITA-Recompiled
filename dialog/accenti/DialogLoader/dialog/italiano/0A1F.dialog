@@ -1,0 +1,10 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "RAGGIUNGERETE GRANDI ALTEZZE CON IL MIO SALTO SHOCK!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x83, string: "NON PREOCCUPARTI, FA TUTTO LA TACCHINA. RESTATE SU UNA PEDANA DI SALTO SHOCK, POI TENETE PREMUTO A." }
+  - { cmd: 0x02, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x80, string: "KAZOOIE RIESCE A FARLO? LE MIE GAMBE SONO STANCHE..." }
+  - { cmd: 0x04, string: "" }

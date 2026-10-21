@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "EHI, QUEL COLPO MI HA APPENA BORSEGGIATA," }
+  - { cmd: 0xB5, string: "QUELLA CELLETTA E' MIA, LASCIALA DOVE L'HAI TROVATA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "SBAGLIA UNA CASELLA E SARAI SOFFERENTE," }
+  - { cmd: 0xB5, string: "PREMI A SE VUOI TENTAR NUOVAMENTE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

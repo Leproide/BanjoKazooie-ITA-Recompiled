@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB8, string: "FIU... USCIRE FUORI ADESSO È SICURO PER WOZZA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

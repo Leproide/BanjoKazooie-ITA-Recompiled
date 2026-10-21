@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "AHI, DEL TUO ARRIVO NON MI ERO ACCORTA," }
+  - { cmd: 0xB5, string: "PER COLPA TUA MI È CADUTA LA MIA SCORTA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,8 @@
+type: Dialog
+bottom:
+  - { cmd: 0x97, string: "I GENTILI ORSO E UCCELLO HANNO SALVATO I GINGI DALLA STREGA, ORA LI AIUTIAMO NOI!" }
+  - { cmd: 0xB5, string: "MA GUARDA CHI C'È, LE PELOSE CREATURINE!" }
+  - { cmd: 0xB5, string: "MI SA CHE FARANNO LA TUA STESSA AMARA FINE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

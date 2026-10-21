@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "L'ORSO È SCEMO, L'UCCELLO È CEREBROLESO," }
+  - { cmd: 0xB5, string: "PERCHÉ ENTRAMBI UN ALTRO COLPO HANNO PRESO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

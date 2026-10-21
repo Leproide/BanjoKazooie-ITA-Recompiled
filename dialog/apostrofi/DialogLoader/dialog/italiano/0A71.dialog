@@ -1,0 +1,11 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8F, string: "TRUNKER VUOLE PIOGGIA... GASP... STO APPASSENDO!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x8F, string: "NO... COFF... BISOGNO DI ACQUA... AIUTO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x82, string: "COME STANNO LE TUE NOCI DI COCCO, ALITO DI LEGNO?" }
+  - { cmd: 0x80, string: "KAZOOIE! UOVA E PIUME POSSONO ESSERE D'AIUTO?" }
+  - { cmd: 0x04, string: "" }

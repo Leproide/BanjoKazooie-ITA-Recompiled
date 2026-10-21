@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "ERA UN SEGRETO, COME HAI FATTO A SCOPRIRLO?" }
+  - { cmd: 0xB5, string: "SCOMMETTO CHE È STATA MIA SORELLA A DIRLO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xA7, string: "QUESTA È ACQUA PER PIRANHA, TIENI I TUOI PIEDI PUZZOLENTI FUORI DA QUI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

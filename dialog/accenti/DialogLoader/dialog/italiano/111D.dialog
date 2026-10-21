@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "IL VECCHIO CERVELLO DI BOTTIGLIA È BRAVO AD INSEGNARE," }
+  - { cmd: 0xB5, string: "MA GLI ORSI NON VOLANO, TE LO POSSO ASSICURARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

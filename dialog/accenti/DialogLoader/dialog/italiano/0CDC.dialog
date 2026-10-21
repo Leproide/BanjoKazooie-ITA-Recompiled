@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC9, string: "EYRIE È FINALMENTE UNA POSSENTE AQUILA! GUARDAMI VOLARE VERSO IL CIELO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

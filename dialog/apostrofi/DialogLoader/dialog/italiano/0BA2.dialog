@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "NELL'ACQUA INQUINATA FARAI IL TUO RESPIRO FINALE," }
+  - { cmd: 0xB5, string: "IN QUANTO STAI USANDO LA META' DELL'ARIA TOTALE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

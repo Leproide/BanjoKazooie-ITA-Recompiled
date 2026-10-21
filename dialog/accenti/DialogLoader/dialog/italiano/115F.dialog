@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "QUELL'ULTIMO GINGIO MI HA FINITO," }
+  - { cmd: 0xB5, string: "MA CHI RIDE ULTIMO NON SI È ANCORA CAPITO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

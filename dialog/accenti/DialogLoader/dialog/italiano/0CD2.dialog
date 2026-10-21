@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC1, string: "OH, ECCOTI QUI, FINALMENTE! HO ASPETTATO DEI MESI PER DARTI QUESTO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

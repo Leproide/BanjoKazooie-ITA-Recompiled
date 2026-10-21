@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "USATE LA LEVETTA ANALOGICA PER MUOVERE LA MANO DI BANJO. POI PREMETE A PER RACCOGLIERE E APPOGGIARE I PEZZI, B PER RIMETTERLI AI LATI E PULSANTI C SINISTRO E DESTRO PER RUOTARLI." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

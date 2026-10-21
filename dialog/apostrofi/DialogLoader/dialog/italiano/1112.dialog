@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "UFF, CON UN'ALTRA MOSSA MI HAI COLPITA," }
+  - { cmd: 0xB5, string: "MA ORA ATTENTO, TI VERRA' RESTITUITA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

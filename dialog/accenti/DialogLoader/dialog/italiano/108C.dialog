@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "LA DISGUSTOSA GRUNTILDA MANGIA ~ A COLAZIONE!" }
+  - { cmd: 0x08, string: "TARALLI AL RATTO" }
+  - { cmd: 0x08, string: "PANCAKE DI RAGNO" }
+  - { cmd: 0x08, string: "GIRINI TOSTATI" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

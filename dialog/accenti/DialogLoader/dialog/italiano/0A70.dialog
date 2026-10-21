@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x90, string: "AHHH... MILLE GRAZIE! ORA IL MIO AMICO HISTUP VI AIUTERÀ NELLA VOSTRA RICERCA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

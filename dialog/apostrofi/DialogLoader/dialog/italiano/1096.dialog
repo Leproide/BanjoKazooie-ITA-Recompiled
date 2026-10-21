@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "L'UNICA COSA CHE HA VINTO IN TUTTA LA SUA VITA E' STATA LA GARA ~ ALLA SCUOLA DELLE STREGHE!" }
+  - { cmd: 0x08, string: "DEL SEDERE PIU' GRANDE" }
+  - { cmd: 0x08, string: "DELLE MUTANDE PIU' SPORCHE" }
+  - { cmd: 0x08, string: "DELLE CALZE PIU' PUZZOLENTI" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

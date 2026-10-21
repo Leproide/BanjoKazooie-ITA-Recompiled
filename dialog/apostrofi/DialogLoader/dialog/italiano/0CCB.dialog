@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC4, string: "MMM... NABNUT NON HA ANCORA ABBASTANZE GHIANDE, CONTINUA A CERCARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

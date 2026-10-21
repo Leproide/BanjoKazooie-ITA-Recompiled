@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "AVEVATE DETTO CHE NON SERVIVA IL MIO AIUTO, PERCIO' DOVETE ANDARE AVANTI DA SOLI FINCHE' NON ENTRERETE NELL'ANTRO DELLA STREGA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

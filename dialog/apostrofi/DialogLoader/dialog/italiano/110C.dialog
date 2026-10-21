@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "UN'ALTRA VOLTA TI HO COLPITO," }
+  - { cmd: 0xB5, string: "CHE LE TUE ABILITA' ERANO SCARSE L'AVEVO CAPITO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

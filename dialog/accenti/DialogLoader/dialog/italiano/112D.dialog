@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "UNO SCUDO SPECIALE DEVO EVOCARE," }
+  - { cmd: 0xB5, string: "COSÌ I TUOI COLPI POSSO BLOCCARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

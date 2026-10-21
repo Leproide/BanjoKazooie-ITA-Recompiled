@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "TORNATO DI NUOVO, MAI TI CAPIRO'," }
+  - { cmd: 0xB5, string: "MA A ME STA BENE, IL TUO SEDER BRUCERO'!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

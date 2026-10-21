@@ -1,0 +1,27 @@
+type: Dialog
+bottom:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0xD8, string: "OOOH! OSPITI PER DINGPOT... MI PIACCIONO GLI OSPITI!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0xD8, string: "AAAH... CHE COSA VUOLE INSINUARE LO STRANO PSEUDOVOLATILE?" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0xD8, string: "CERTO CHE SI', SIGNOR ORSO! GRUNTY E' TERRIBILE, SAI, IN PASSATO ERA MALATA DI ME. SE RIESCI A LIBERARTI DI LEI, SARO' LIBERO!" }
+  - { cmd: 0xB5, string: "NON ESSERE COSI' SICURO, PENTOLINO," }
+  - { cmd: 0xB5, string: "PRESTO SARAI COTTO A PUNTINO!" }
+  - { cmd: 0xB5, string: "VEDI QUESTI VESTITI SPORCHI E BRUTTI?" }
+  - { cmd: 0xB5, string: "QUANDO AVRO' VINTO, LI LAVERAI TUTTI!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0xD8, string: "NESSUN PROBLEMA, SALTATE DENTRO E VI SPARERO' IN CIMA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x82, string: "PUAH... CHE ODORE DISGUSTOSO!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x82, string: "E' UN MIRACOLO CHE TU NE ABBIA, ALITO DI FOGNA!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x80, string: "EHM, HA DETTO CHE STIAMO CERCANDO GRUNTILDA, SAI DOV'E'?" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x80, string: "NON TI PREOCCUPARE, DINGPOT, LA SISTEMEREMO SE RIESCI A TROVARCI UN MODO PER SALIRE LASSU'!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x82, string: "SALTARE LI' DENTRO? ASSOLUTAMENTE NO, CASSONETTO!" }
+  - { cmd: 0x80, string: "EDDAI, KAZOOIE, HAI UNA POSSIBILITA' DI BECCARE IL SEDERE DELLA STREGA, ANDIAMO!" }
+  - { cmd: 0x04, string: "" }

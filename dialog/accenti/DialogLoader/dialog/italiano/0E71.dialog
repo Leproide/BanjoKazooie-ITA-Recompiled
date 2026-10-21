@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0xB6, string: "PERCHÉ STATE FESTEGGIANDO? GRUNTY È FUGGITA, PERCIÒ RIALZATEVI E FINITE IL LAVORO!" }
+  - { cmd: 0x04, string: "" }

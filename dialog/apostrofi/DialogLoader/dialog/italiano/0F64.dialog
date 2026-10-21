@@ -1,0 +1,14 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "QUESTA E' UNA PORTA NOTA, SIGILLATA DA GRUNTY CON UNO DEI SUOI POTENTI INCANTESIMI MUSICALI." }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x83, string: "NON E' COSI' SEMPLICE. PER APRIRLA, DOVETE COLLEZIONARE LE NOTE MUSICALI CHE POTETE TROVARE NEI MONDI." }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x83, string: "IL NUMERO SULLA PORTA RAPPRESENTA LA FORZA DELL'INCANTESIMO. IL TOTALE COMBINATO DEI VOSTRI MIGLIORI PUNTEGGI NEI VARI MONDI DEVE ESSERE ALMENO QUESTO PER ANNULLARE LA MAGIA DI GRUNTY." }
+  - { cmd: 0x02, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x82, string: "ALLORA APRILA, VASETTO DI MARMELLATA!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x80, string: "QUANTE CE NE SERVONO?" }
+  - { cmd: 0x04, string: "" }

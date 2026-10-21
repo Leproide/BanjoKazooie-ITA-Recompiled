@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "GUARDAMI TUFFARMI IN ARIA E SU DI TE PIOMBARE," }
+  - { cmd: 0xB5, string: "LA TUA TRISTE VITA STA PER TERMINARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

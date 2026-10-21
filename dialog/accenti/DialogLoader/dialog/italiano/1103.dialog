@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "ECCO IL MIO INCANTESIMO CALAMITA, FINALMENTE," }
+  - { cmd: 0xB5, string: "CORRERE E NASCONDERSI NON SERVIRANNO A NIENTE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

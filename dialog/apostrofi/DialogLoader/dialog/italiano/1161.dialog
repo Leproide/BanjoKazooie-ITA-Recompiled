@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "E' TUTTO FINITO, POSSO IMMAGINARE," }
+  - { cmd: 0xB5, string: "MA GRUNTY HA ANCORA UN INCANTESIMO DA UTILIZZARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

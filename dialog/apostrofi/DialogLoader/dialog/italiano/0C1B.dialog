@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB8, string: "OH, NO! UNO SPAVENTOSO ORSO FEROCE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

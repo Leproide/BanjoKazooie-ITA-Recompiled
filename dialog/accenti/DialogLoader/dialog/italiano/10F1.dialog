@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "ORSO SENZA SPERANZA CORRE PER TUTTO IL PAVIMENTO," }
+  - { cmd: 0xB5, string: "MA VIENE PICCHIATO PER ESSER COSÌ LENTO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

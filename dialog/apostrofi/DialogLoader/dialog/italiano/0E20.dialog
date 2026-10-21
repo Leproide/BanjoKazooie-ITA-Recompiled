@@ -1,0 +1,12 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "OH... HO PAURA DI NON POTERVI DIRE NIENTE SU QUESTO CONTENUTO NASCOSTO FINCHE' NON AVRETE OTTENUTO IL PEZZO DI PUZZLE DEL GIOCO DEL CASTELLO DI SABBIA DELL'ISOLA DEL TESORO." }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x83, string: "NO! SOLO QUANDO AVRETE PRESO IL PEZZO DI PUZZLE DEL CASTELLO DI SABBIA." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x81, string: "DICCELO SUBITO, BARILOTTO!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x80, string: "DAI, KAZOOIE, TORNEREMO PIU' TARDI..." }
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "LA TUA AMICA PIUMATA E MANGIABECCHIME" }
+  - { cmd: 0xB5, string: "È INUTILE COME UN AMMASSO DI CONCIME!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

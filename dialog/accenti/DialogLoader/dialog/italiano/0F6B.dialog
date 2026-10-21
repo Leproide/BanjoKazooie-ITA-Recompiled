@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "TIENI GLI OCCHI BEN APERTI PER LA TUA NUOVA MOSSA, FACCIA DA BECCO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8B, string: "OH, NO! IL POVERO COCCODRILLINO VERDE SI È SPAVENTATO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

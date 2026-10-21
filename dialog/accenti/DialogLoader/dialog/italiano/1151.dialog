@@ -1,0 +1,8 @@
+type: Dialog
+bottom:
+  - { cmd: 0x96, string: "SONO IL POSSENTE GINGIONATOR, ATTIVATEMI..." }
+  - { cmd: 0xB5, string: "CHE COSA SUCCEDE? COME OSI IMBROGLIARE!" }
+  - { cmd: 0xB5, string: "MA NON MI INTERESSA, NON POSSO MOLLARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

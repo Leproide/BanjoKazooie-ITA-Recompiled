@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "QUANDO LA MANO DI GRUNTY ARRIVERA' AL TUO SEDERE," }
+  - { cmd: 0xB5, string: "DIFFICILMENTE IN PIEDI RIUSCIRAI A RIMANERE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

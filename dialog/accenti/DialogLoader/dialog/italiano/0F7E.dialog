@@ -1,0 +1,8 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "ECCO FATTO! IL QUADRO È COMPLETO E LA PORTA ALLA MONTAGNA DI MUMBO È APERTA!" }
+  - { cmd: 0xB5, string: "QUESTO ERA FACILE DA TERMINARE," }
+  - { cmd: 0xB5, string: "GLI ALTRI POTREBBERO FARTI SUDARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

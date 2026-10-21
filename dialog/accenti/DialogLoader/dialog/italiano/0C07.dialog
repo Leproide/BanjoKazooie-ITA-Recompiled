@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB7, string: "FIU... SEI TROPPO VELOCE PER ME, SIGNOR TRICHECO!" }
+  - { cmd: 0xB7, string: "ECCO LA TUA MEDAGLIA, IMMAGINO CHE DEBBA SFIDARE QUALCUNO DELLA MIA STESSA STAZZA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

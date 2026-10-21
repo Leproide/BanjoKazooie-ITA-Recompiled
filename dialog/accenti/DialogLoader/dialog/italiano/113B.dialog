@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "I TUOI STUPIDI AMICI NON SEMBRANO AIUTARE," }
+  - { cmd: 0xB5, string: "RESTANDO LÌ A GUARDARTI UGGIOLARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

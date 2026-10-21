@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "AH, A PRENDERTI HO AVUTO BRAVURA," }
+  - { cmd: 0xB5, string: "ATTRAVERSO QUELLA PICCOLA APERTURA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

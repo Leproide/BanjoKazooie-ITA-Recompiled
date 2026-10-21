@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB7, string: "NON MALE, PICCOLETTO, MA NON SEI ANCORA VELOCE COME IL VECCHIO BOGGY!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8A, string: "HSSS... SSSIAMO SSSNIPPET MUTANTI SSSCONFITTI, ECCO LA VOSSSTRA RICOMPENSSSA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

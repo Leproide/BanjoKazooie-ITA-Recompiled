@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x89, string: "CLANKER HA ARIA FRESCA, TROVI RICOMPENSA SUL DORSO DI CLANKER." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

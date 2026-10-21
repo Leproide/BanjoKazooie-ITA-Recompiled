@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "UNA SFIDA FACILE, AVRAI PENSATO," }
+  - { cmd: 0xB5, string: "UN ALTRO SBAGLIO E SEI SPACCIATO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x80, string: "OOOH... HAI SENTITO, KAZOOIE? SAREMO IN UN'ALTRO GIOCO!" }
+  - { cmd: 0x81, string: "FORTE, ORA GUARDIAMO LE FOTO, UOMO GONNELLA!" }
+  - { cmd: 0x04, string: "" }

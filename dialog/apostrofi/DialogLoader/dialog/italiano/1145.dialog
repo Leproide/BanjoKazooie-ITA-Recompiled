@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "UFF, CONTINUANDO A GIRARE MI HAI AFFANNATA," }
+  - { cmd: 0xB5, string: "PER RIPRENDERE FIATO SONO ATTERRATA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

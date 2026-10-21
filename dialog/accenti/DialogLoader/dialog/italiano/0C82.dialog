@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8E, string: "BLUB... SEI TROPPO FORTE PER NOI FLIBBIT, PRENDI IL NOSTRO ORO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

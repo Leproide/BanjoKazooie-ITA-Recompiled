@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC7, string: "EYRIE HA FAME, VUOLE 5 BRUCHI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

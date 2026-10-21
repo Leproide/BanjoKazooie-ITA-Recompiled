@@ -1,0 +1,8 @@
+type: Dialog
+bottom:
+  - { cmd: 0x96, string: "SONO IL POSSENTE GINGIONATOR, ATTIVATEMI..." }
+  - { cmd: 0xB5, string: "ANCHE CON IL TUO NUOVO AMICO GIGANTE," }
+  - { cmd: 0xB5, string: "SO CHE FARAI UNA FINE TERRIFICANTE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

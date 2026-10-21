@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "NON RIESCO A CREDERE CHE LA COPPIA PELOSA" }
+  - { cmd: 0xB5, string: "SIA SALITA FIN QUASSU', SONO FURIOSA!" }
+  - { cmd: 0xB5, string: "MA ORA LO STUPIDO ORSO DEVE LOTTARE," }
+  - { cmd: 0xB5, string: "SE ABILITA' E FORZA VUOLE PROVARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "FORMULA MAGICA, LA TUA PREDA NON MANCARE," }
+  - { cmd: 0xB5, string: "COLPIRÀ SENZ'ALTRO, SI DOVRÀ FESTEGGIARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

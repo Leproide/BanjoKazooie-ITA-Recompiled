@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xD8, string: "PRONTO PER UN ALTRO VIAGGIO, SIGNOR ORSO?" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

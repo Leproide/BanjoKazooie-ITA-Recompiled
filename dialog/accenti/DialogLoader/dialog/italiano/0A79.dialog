@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x92, string: "NOOOO! LO AVEVO DA MILLE ANNI! BEN FATTO, MORTALE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xAB, string: "AH! NON MI TROVERAI MAI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

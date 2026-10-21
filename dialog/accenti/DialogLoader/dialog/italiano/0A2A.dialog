@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x87, string: "IL MIO TESORO! GRAZIE COMPAGNI, ORA VADO A SPENDERE, SPENDERE, SPENDERE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

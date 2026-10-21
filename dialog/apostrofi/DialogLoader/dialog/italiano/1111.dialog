@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "NON POSSO SCHIVARE CON TUTTO QUESTO PESO," }
+  - { cmd: 0xB5, string: "QUELLE BRUTTE UOVA INFURIATA MI HANNO RESO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC5, string: "WOW! GRAZIE, ORSO BRUNO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "PREMETE B MENTRE STATE NUOTANDO IN SUPERFICIE PER IMMERGERVI. SOTT'ACQUA, PREMETE A PER NUOTARE LENTAMENTE O B PER NUOTARE VELOCEMENTE." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

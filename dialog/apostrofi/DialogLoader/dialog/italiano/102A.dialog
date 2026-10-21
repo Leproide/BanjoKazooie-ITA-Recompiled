@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "GUARDA LE TARTARUGHE CANTAR LA LORO CANZONE," }
+  - { cmd: 0xB5, string: "RIPETILA VELOCEMENTE, NON HAI MOLTO TEMPO A DISPOSIZIONE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

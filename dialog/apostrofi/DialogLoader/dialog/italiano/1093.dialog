@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "QUANDO SI RILASSA, DI SOLITO LEGGE LA RIVISTA ~!" }
+  - { cmd: 0x08, string: "MENSILE 'STREGA GRASSA'" }
+  - { cmd: 0x08, string: "SETTIMANALE 'RAGAZZE VERRUCOSE'" }
+  - { cmd: 0x08, string: "'SEDERONI E FEGATO'" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

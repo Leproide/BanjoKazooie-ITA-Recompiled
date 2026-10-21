@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC6, string: "BWARRR! IO EYRIE... AQUILA FORTE! ORA HA SONNO..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

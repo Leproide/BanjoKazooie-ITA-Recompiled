@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0x93, string: "CHI HA SVEGLIATO NAPPER MENTRE ERA INTENTO A RIPOSARE?" }
+  - { cmd: 0x93, string: "HO SENTITO QUALCUNO QUAGGIU' CAMMINARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

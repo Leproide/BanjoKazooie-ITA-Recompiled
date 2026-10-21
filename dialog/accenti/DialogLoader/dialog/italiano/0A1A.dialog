@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xAC, string: "IO LEAKY, NON BUONO PER RACCOGLIERE ACQUA. PUÒ ORSO CHIUDERE BUCO CON SASSOLINI?" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

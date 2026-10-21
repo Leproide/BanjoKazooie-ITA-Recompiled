@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "DEVE ESSERE ABBASTANZA STRESSANTE," }
+  - { cmd: 0xB5, string: "ESSERE SEMPRE ATTACCATO A QUELL'IDIOTA STARNAZZANTE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

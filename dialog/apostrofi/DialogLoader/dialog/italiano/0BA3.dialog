@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "NELLA MIE SCORIE OLEOSE SOFFOCHERAI," }
+  - { cmd: 0xB5, string: "E NELLE MANI DI GRUNTY POI FINIRAI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

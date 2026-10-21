@@ -1,0 +1,10 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "IL MIO ATTACCO SFONDAMENTO RICHIEDE L'AIUTO DELLE GAMBE DELLA GALLINACCIA." }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x83, string: "TENETE PREMUTO Z, POI PREMETE B PER UN POTENTE SFONDAMENTO!" }
+  - { cmd: 0x02, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x81, string: "ALMENO IO HO DELLE GAMBE, NANEROTTOLO!" }
+  - { cmd: 0x04, string: "" }

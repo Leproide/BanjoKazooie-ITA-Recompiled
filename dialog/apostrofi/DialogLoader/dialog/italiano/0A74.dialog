@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x91, string: "ECCO A TE IL TUO PREMIO, ORSO, GOBI VA A RINFRESCARSI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

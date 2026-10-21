@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "OGNI CARTA JOKER CHE HAI OTTENUTO" }
+  - { cmd: 0xB5, string: "TI FARÀ SALTARE UNA DOMANDA, NON SEI COMPIACIUTO?" }
+  - { cmd: 0xB5, string: "PREMI B PER USARNE UNA, PICCOLO IMBROGLIONE," }
+  - { cmd: 0xB5, string: "QUANDO SU UNA CASELLA HAI UN PO' DI CONFUSIONE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

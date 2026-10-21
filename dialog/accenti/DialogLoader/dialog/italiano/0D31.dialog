@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0x89, string: "AHH... QUESTO DENTE ORA NON PIÙ MALE." }
+  - { cmd: 0x89, string: "TUTTI I DENTI ORA A POSTO. GRAZIE, ORSO." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

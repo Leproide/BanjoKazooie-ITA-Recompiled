@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB0, string: "EHI! FA SOLLETICO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

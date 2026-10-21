@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "UNA DOMANDA SUI SUONI CHE SENTIRAI," }
+  - { cmd: 0xB5, string: "SARÒ FELICE SE SBAGLIERAI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

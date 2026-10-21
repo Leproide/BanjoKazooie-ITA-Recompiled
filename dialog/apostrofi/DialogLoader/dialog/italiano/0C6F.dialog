@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8B, string: "GRRR... ORA TOCCA AL GIOCO PIU' DIFFICILE." }
+  - { cmd: 0x8B, string: "PRONTO...... VIA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

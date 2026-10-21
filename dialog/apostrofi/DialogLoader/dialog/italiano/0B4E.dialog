@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "WOW, BANJO! NON C'E' PIU' NIENTE CHE IO VI POSSA INSEGNARE IN QUESTO MONDO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

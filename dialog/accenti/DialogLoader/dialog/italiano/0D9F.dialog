@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x9C, string: "WHEEE... SONO UNA PIUMA ROSSA! AIUTO KAZOOIE A VOLARE, NEL CASO SAPPIA COME SI FA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB9, string: "MOTZAND SUONA IL SUO ORGANO CON FACILITÀ," }
+  - { cmd: 0xB9, string: "RIESCI A SEGUIRLO SUI TASTI CON AGILITÀ?" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

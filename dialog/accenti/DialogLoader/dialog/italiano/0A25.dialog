@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "QUESTA È UNA PEDANA DI VOLO, MA DOVRETE TROVARE LA MIA TANA PRIMA DI POTER USARLA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

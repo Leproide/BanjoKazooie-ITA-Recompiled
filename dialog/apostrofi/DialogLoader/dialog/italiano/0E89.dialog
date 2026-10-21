@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x81, string: "EHI... PERCHE' NON SI CHIAMA BANJO-KAZOOIE-TOOIE? SARA' MEGLIO CHE CI SIA ANCH'IO NEL TITOLO, TAPPETTO!" }
+  - { cmd: 0x04, string: "" }

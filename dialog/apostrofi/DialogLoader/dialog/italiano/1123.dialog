@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "IL TUO CORPO E' INDOLENZITO GRAZIE AI MIEI POTERI," }
+  - { cmd: 0xB5, string: "UN COMPITO FACILE PER COLPIRE DEI SEDERI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "HAI TROVATO DELLE NOTE, MA NON ABBASTANZA" }
+  - { cmd: 0xB5, string: "PER ROMPERE IL MIO INCANTESIMO ED ENTRARE IN QUESTA STANZA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

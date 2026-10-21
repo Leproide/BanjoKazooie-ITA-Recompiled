@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8C, string: "AHHH... SPLENDIDO! ANCORA UNA LEZIONE SOLTANTO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

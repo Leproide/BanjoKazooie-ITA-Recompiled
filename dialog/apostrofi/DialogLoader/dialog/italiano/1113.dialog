@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "NON E' GIUSTO, NON ERO PRONTA," }
+  - { cmd: 0xB5, string: "MI SENTO INSTABILE E UN POCO TONTA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

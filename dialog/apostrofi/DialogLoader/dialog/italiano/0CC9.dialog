@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC4, string: "GROAN... NABNUT HA MANGIATO TROPPE GHIANDE. ORA NON ME NE E' RIMASTA NESSUNA PER IL PROSSIMO INVERNO..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

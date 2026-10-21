@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8C, string: "MAGNIFICO! UN VERO CAPOLAVORO! ECCO, TIENI QUESTO GINGILLO CHE HO TROVATO PRIMA." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

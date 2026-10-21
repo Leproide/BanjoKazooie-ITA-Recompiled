@@ -1,0 +1,8 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "HAI VISTO, BANJO? ANCHE LEI PUÒ SERVIRE A QUALCOSA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x81, string: "IL PROSSIMO SU CUI USERÒ QUESTA MOSSA SARAI TE, VASETTO DI MARMELLATA!" }
+  - { cmd: 0x04, string: "" }

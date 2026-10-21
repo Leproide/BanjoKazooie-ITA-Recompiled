@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0xB6, string: "CERTO, BANJO, TE E KAZOOIE SIETE DEGLI EROI ORA!" }
+  - { cmd: 0x04, string: "" }

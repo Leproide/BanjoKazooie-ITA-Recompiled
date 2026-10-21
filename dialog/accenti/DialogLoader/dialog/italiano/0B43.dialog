@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xA8, string: "EHI, BRUTTONE! GLI ORSI NON SONO AMMESSI NELLA TORRE DEI TICKER!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

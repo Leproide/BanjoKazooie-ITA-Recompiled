@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC1, string: "BRRR... QUEST'ACQUA SI STA CONGELANDO, E SONO ANCORA BLOCCATO FUORI PER COLPA TUA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

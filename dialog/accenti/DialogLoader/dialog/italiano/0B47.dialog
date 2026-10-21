@@ -1,0 +1,20 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "È ORA PER LA POIANA DI IMPARARE LE 'ANTICHE TECNICHE DELL'UOVO'!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x83, string: "TIENI PREMUTO Z, POI PREMI IL PULSANTE C SU PER SPARARE UN UOVO DALLA BOCCA!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x83, string: "CERTO... PREMI INVECE IL PULSANTE C GIÙ PER SPARARLE DAL DIDIETRO!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x83, string: "IL CERVELLO DI GALLINA PUÒ TRASPORTARE 100 UOVA NEL SUO ZAINO. OH... E PUOI ANCHE USARE LA LEVETTA ANALOGICA PER PRENDERE LA MIRA MENTRE SEI ACCOVACCIATA. FAVUOVOLOSO, EH?" }
+  - { cmd: 0x83, string: "ORA CHE HAI IMPARATO COME USARE LE UOVA, ECCOTENE 50 PER ALLENARTI!" }
+  - { cmd: 0x07, string: "" }
+  - { cmd: 0x02, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x81, string: "TI ASCOLTO, ALITO DI CIPOLLA..." }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x81, string: "EHI... NON SEMBRA MALE! QUALCOS'ALTRO?" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x81, string: "URGH... SEMBRA DOLOROSO, VORREI NON AVERLO MAI CHIESTO..." }
+  - { cmd: 0x04, string: "" }

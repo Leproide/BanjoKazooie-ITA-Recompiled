@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "LA PORTA DI QUERCIA E' DURA COME IL CEMENTO," }
+  - { cmd: 0xB5, string: "L'ORSO STUPIDO PERO' E' TROPPO LENTO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

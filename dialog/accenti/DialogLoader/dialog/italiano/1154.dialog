@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "LA MIRA DI GRUNTY NON È NIENTE MALE," }
+  - { cmd: 0xB5, string: "SE TU POTESSI CORRERE, SAREBBE LA SCELTA IDEALE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

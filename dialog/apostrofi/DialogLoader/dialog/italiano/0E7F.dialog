@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x84, string: "SPIACENTE, SOLO MIGLIORI GIOCATORI POTERE VEDERE FOTO. PRENDERE 100 PEZZI E MUMBO VE LE MOSTRA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

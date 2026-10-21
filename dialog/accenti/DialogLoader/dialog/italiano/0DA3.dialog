@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xA2, string: "FATE ATTENZIONE A ME, SONO UNA VITA EXTRA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

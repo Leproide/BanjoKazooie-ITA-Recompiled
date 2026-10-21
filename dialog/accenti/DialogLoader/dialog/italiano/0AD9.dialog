@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0x93, string: "L'ORO DI GRUNTY ERA BELLO E PREGIATO," }
+  - { cmd: 0x93, string: "SARÀ FURIOSA, ORA CHE L'HAI RUBATO!" }
+  - { cmd: 0xB5, string: "HAI PROPRIO RAGIONE, TI CONVIENE FUGGIRE," }
+  - { cmd: 0xB5, string: "SE DEI CALCI NEL SEDERE NON VUOI PATIRE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

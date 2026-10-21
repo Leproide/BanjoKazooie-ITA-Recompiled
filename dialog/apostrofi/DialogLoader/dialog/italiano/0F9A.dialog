@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "HO IMPARATO QUEST'INCANTESIMO, E' ABBASTANZA ACCURATO," }
+  - { cmd: 0xB5, string: "LO TERRO' PER DOPO, TI LASCERO' MERAVIGLIATO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

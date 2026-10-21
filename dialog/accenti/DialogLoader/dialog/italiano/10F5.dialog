@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "LA PALLA DI FUOCO DI GRUNTY HAI APPENA BACIATO," }
+  - { cmd: 0xB5, string: "SEI COSÌ LENTO CHE È IMPOSSIBILE AVERTI MANCATO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

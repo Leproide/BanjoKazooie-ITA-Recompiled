@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "IL POSSENTE SCATOLONE ORA DEVI AFFRONTARE," }
+  - { cmd: 0xB5, string: "MA IL TEMPO E' STRETTO, DEVI SCATTARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

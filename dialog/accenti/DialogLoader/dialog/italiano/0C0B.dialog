@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB7, string: "CHE SFORTUNA, AMICO, MA STAVOLTA VINCE IL VECCHIO BOGGY!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

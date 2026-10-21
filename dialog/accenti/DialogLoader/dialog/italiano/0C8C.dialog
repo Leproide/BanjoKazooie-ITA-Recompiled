@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "A VOLTE LO VEDI, A VOLTE SPARISCE," }
+  - { cmd: 0xB5, string: "IL PIÙ VELOCE VINCE, IL PIÙ LENTO FALLISCE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

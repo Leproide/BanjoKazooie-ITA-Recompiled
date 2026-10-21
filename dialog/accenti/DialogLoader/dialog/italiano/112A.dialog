@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "AHI, QUESTA MI HA PROPRIO FATTO MALE," }
+  - { cmd: 0xB5, string: "PRENDI QUESTO INCANTESIMO INFERNALE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

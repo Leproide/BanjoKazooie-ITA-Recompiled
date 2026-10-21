@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xD8, string: "CONTINUA A IMPROVVISARE DEI PASTI VERAMENTE PICCANTI DENTRO DI ME, STA SCIOGLIENDO IL MIO MESTOLO..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

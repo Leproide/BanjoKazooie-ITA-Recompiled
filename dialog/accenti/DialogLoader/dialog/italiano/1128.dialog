@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "OOOH, CUCCIOLOTTO LAMENTOSO E GRASSO," }
+  - { cmd: 0xB5, string: "TIENI QUESTA PIETRA, ACCELERERÒ IL PASSO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

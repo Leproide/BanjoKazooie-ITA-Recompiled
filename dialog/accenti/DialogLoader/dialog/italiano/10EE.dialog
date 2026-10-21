@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "GUARDA COME VOLO E COME VADO IN PICCHIATA," }
+  - { cmd: 0xB5, string: "IL MIO MANICO DI SCOPA TI HA PROPRIO RIDOTTO A UNA FRITTATA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

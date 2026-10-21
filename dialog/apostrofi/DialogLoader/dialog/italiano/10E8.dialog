@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "COSI' SEI TORNATO, SEI PROPRIO COCCIUTO," }
+  - { cmd: 0xB5, string: "PERDERAI ANCORA, VINCERO' IN UN MINUTO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

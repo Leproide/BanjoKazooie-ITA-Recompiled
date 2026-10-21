@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB7, string: "VORREI CHE QUESTI BAMBINI STESSERO ZITTI, IL VECCHIO BOGGY HA BISOGNO DI UN PO' DI RIPOSO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

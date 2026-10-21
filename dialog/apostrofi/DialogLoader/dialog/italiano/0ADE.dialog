@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCE, string: "GURGLE... ORSO E' TROPPO GRASSO PER ENTRARE NELLA BOCCA DI LOGGO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

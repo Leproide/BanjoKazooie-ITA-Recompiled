@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x84, string: "AHH... BANJO HA TANTI SIMBOLI. RESTA SU TESCHIO E PREMI B PER VEDERE POTENTE MAGIA DI MUMBO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

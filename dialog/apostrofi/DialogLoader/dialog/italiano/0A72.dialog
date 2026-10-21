@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8F, string: "AHHH... ACQUA MOLTO BUONA! TRUNKER SI SENTE BENISSIMO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

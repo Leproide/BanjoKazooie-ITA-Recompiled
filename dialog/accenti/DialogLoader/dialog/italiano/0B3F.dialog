@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x85, string: "CHIMPY AFFAMATO, VUOLE ARANCE ORA. DAI DA MANGIARE A CHIMPY!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

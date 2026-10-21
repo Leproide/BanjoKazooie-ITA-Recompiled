@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x84, string: "MAGIA DI MUMBO DEBOLE. ANIMALE TORNARE INDIETRO O MAGIA ANDARE VIA..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

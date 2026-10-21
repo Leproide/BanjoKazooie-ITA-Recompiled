@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x84, string: "CAMBIATO IDEA, INCANTESIMO DI T-REX TROPPO BELLO PER QUESTO GIOCO. MUMBO LO TIENE PER PROSSIMO GIOCO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

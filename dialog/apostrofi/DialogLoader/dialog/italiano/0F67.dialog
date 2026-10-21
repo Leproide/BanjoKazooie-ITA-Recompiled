@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "AVETE APERTO LA PORTA CON FACILITA'," }
+  - { cmd: 0xB5, string: "OLTRE A ESSER LA PRIMA ANCHE L'ULTIMA SARA'!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

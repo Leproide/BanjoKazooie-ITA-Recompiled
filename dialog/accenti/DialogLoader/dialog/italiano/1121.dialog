@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "PRESTO PERDERAI, E QUANDO SOLA RESTERÒ," }
+  - { cmd: 0xB5, string: "ANDRÒ VIA E IL BAGNO FINALMENTE USERÒ!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

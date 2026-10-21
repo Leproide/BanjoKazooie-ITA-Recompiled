@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "MI DUOLE DIRTI DI RESTARE LAGGIÙ," }
+  - { cmd: 0xB5, string: "MI SENTO AL SICURO CHIUSA QUASSÙ!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

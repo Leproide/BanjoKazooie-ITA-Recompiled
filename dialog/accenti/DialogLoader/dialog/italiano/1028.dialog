@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "LE PIASTRELLE ESSER COMBACIATE DOVRANNO," }
+  - { cmd: 0xB5, string: "IL TEMPO È STRETTO, MA È PROPRIO QUESTO L'INGANNO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

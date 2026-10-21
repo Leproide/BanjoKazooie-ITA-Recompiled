@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xD8, string: "SNIFF... UNA VOLTA AVEVO UNA PADELLA PER FIDANZATA, MA GRUNTY LE HA ROTTO IL MANICO..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

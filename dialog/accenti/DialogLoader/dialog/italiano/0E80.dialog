@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x81, string: "NON VALE! NON POSSIAMO DARE UNA SBIRCIATINA VELOCE?" }
+  - { cmd: 0x04, string: "" }

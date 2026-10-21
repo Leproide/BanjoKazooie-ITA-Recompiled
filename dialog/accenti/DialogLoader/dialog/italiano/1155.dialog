@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "SENTI IL FALLIMENTO E SII SOFFERENTE," }
+  - { cmd: 0xB5, string: "STAI PER PERDERE UNA VITA NUOVAMENTE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

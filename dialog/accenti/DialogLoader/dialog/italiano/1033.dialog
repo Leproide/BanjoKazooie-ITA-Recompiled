@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "ASCOLTA LA FOLLA FISCHIARE E URLARE," }
+  - { cmd: 0xB5, string: "NON VEDONO L'ORA DI VEDERTI SBAGLIARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

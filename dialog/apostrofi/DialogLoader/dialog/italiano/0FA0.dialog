@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "QUANDO TOOTY DIVENTERA' UNA VECCHIA CIABATTA," }
+  - { cmd: 0xB5, string: "HO GIA' UNA TUNICA PRONTA PER NASCONDERE LA SUA CULATTA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

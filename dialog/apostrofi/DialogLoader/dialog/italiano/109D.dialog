@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "E' DAVVERO FIERA DEL SUO MANICO DI SCOPA. E' UN ~ D'ALTA CLASSE!" }
+  - { cmd: 0x08, string: "LARDMASTER 2000" }
+  - { cmd: 0x08, string: "DOMACAVALLI DELUXE" }
+  - { cmd: 0x08, string: "SUPER SOLLEVABUDELLA PRO" }
+  - { cmd: 0x02, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

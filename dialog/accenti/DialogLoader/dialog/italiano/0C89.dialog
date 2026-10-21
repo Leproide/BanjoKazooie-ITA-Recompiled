@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "KAZOOIE PUÒ INDOSSARE GLI STIVALI DA GUADO, PER ATTRAVERSARE SENZA PERICOLO E PER UN TEMPO LIMITATO ZONE PERICOLOSE, COME LA PALUDE, GRAZIE AL PASSO TRAMPOLO." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

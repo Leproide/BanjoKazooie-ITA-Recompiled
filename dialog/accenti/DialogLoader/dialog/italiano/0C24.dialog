@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "USATE IL DEVASTANTE BECCOBOMBA PREMENDO B MENTRE KAZOOIE STA VOLANDO." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

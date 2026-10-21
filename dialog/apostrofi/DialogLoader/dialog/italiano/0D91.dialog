@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x84, string: "TERMITE UN PO' PICCOLA, MA NON MALE PER PRIMO INCANTESIMO. MUMBO BISOGNO DI PRATICA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

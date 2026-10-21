@@ -1,0 +1,10 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8B, string: "GRRR... IL VERDINO DEVE AVERE IMBROGLIATO, MR. VILE NON TI DARÀ IL PREMIO!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x8B, string: "HURR... DOVRAI PRIMA FERMARE MR. VILE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0xD9, string: "EHI, DAMMELO SUBITO PRIMA CHE TI MORDA!" }
+  - { cmd: 0x04, string: "" }

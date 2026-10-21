@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8B, string: "MR. VILE E' IL PIU' CATTIVO DEI COCCODRILLI! GUARDATE TUTTI, IL VERDINO SE LA STA SVIGNANDO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

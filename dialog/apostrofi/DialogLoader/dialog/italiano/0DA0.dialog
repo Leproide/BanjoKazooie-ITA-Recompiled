@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x9D, string: "FORTUNELLI! SONO UNA PIUMA DELL'INVULNERABILITA'! BOTTLES VI SPIEGHERA' MEGLIO..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

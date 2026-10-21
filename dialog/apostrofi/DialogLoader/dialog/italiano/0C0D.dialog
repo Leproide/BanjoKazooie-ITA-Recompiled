@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB7, string: "DOH... HO PERSO ANCORA! PRENDI LA MIA ALTRA MEDAGLIA, VADO A CERCARE I REGALI PER I MIEI BAMBINI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

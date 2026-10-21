@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x84, string: "ORSO E UCCELLO FATTO BENE, AIUTATO MUMBO A SCONFIGGERE STREGA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

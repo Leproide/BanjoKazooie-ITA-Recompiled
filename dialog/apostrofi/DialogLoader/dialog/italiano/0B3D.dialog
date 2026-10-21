@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x86, string: "NON TOCCARE BLOCCHI DI CONGA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

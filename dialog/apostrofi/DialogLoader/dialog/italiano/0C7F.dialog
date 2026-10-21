@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8D, string: "MMMM... TANKTUP E' FINALMENTE AL CALDUCCIO! FORSE TI POTREBBE PIACERE QUESTO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "SO ANCHE CHE IL SUO ODORE PREFERITO È A BASE DI ~!" }
+  - { cmd: 0x08, string: "VOMITO MARCIO DI PAPPAGALLO" }
+  - { cmd: 0x08, string: "PIEDI SUDATI DI GORILLA" }
+  - { cmd: 0x08, string: "FORUNCOLI APPENA SCOPPIATI" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

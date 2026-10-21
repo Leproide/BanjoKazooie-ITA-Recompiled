@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "HAI SOLO UNA POSSIBILITÀ DI AZZECCARE," }
+  - { cmd: 0xB5, string: "VINCI UN JOKER E TI POTRÀ AIUTARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

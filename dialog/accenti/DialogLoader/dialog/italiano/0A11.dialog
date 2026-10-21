@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x88, string: "PRENDI QUESTO, UCCELLACCIO CHIACCHERONE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

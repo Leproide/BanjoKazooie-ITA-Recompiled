@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x84, string: "AHH... HAI TROVATO GRANDE INCANTESIMO NASCOSTO! MUMBO TRASFORMA BANJO IN T-REX, SCHIACCIA TUTTO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

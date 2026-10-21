@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "PREMETE A PER SALTARE. PREMETE A DI NUOVO MENTRE STATE SALTANDO PER UN SALTO PIUMATO. TENETE PREMUTO Z E PREMETE A PER UN SALTO CON CAPRIOLA." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

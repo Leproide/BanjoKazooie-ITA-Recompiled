@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "GUARDAMI UN PO' COME SONO CONCIATA," }
+  - { cmd: 0xB5, string: "DA UNO SCUDO HO BISOGNO DI ESSER CELATA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

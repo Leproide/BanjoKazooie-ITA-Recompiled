@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xDA, string: "IL DESTINO DI GRUNTY NON PUÒ ESSERE QUESTO," }
+  - { cmd: 0xDA, string: "PERCIÒ SALVAMI, KLUNGO, PRESTO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

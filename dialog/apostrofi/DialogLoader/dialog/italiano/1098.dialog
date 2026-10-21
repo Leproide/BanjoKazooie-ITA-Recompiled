@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "IL PASSATEMPO PREFERITO DELLA RACCAPRICCIANTE GRUNTILDA E' ~!" }
+  - { cmd: 0x08, string: "COLLEZIONARE DENTI DI DRAGO" }
+  - { cmd: 0x08, string: "FAR SCOPPIARE FORUNCOLI" }
+  - { cmd: 0x08, string: "PILOTARE PIPISTRELLI RADIOCOMANDATI" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "BENE... ORA LO VEDREMO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

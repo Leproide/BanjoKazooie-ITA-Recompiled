@@ -1,0 +1,10 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8B, string: "GRRR... HAI VINTO SOLO IL GIOCO FACILE. ORA AUMENTIAMO LA DIFFICOLTA'. MANGIA I ROSSI ED EVITA I GRUMBLY GIALLI, NON SONO ANCORA MATURI. PRONTO?" }
+  - { cmd: 0x8B, string: "3..." }
+  - { cmd: 0x8B, string: "2..." }
+  - { cmd: 0x8B, string: "1..." }
+  - { cmd: 0x8B, string: "VIA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

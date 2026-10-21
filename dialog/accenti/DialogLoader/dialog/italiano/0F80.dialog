@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "QUESTO È IL PRIMO MONDO, LA MONTAGNA DI MUMBO. COMPLETATE IL QUADRO PUZZLE PER APRIRE LA PORTA." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xA3, string: "EHI... SONO IO, IL SIGNOR JIGGY! ORA ANDATE E TROVATE UN QUADRO CON UN PEZZO MANCANTE." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

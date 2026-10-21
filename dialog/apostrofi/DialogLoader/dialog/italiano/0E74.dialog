@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x80, string: "AHHH... FANTASTICO! ABBIAMO FINITO ORA, TOOTY? POSSO RILASSARMI?" }
+  - { cmd: 0x04, string: "" }

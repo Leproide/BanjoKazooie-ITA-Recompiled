@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC4, string: "FANTASTICO, ORA HO TUTTE LE GHIANDE CHE MI SERVONO! ECCO, PRENDI QUESTO, CI VEDIAMO IN PRIMAVERA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

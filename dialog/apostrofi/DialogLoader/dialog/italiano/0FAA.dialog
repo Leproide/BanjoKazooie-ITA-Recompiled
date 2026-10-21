@@ -1,0 +1,8 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCF, string: "20 PIUME D'ORO RICEVETE! IL NUOVO MASSIMO E' DI 20!" }
+  - { cmd: 0xB5, string: "DI PIUME D'ORO NE PUOI AVERE VENTI," }
+  - { cmd: 0xB5, string: "MA DI LIVIDI NON NE AVRAI MAI SUFFICIENTI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

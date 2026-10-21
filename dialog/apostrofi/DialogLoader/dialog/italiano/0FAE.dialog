@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xD8, string: "VI HO GIA' DETTO CHE HA VOMITATO DENTRO DI ME? E' STATO TERRIBILE..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

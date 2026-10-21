@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "MI HAI URTATO IL BRACCIO, SONO SECCATA," }
+  - { cmd: 0xB5, string: "PERCHÉ MI HAI INDEBOLITA E LA MIA ROBA È CASCATA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

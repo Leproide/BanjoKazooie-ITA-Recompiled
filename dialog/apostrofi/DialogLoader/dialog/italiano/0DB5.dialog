@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x81, string: "FORTE... UN'ENORME CHIAVE DI GHIACCIO! DOVREMMO TENERLA PER DOPO..." }
+  - { cmd: 0x04, string: "" }

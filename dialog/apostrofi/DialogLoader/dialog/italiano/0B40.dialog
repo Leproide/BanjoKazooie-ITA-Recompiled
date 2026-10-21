@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x85, string: "OH... A CHIMPY PIACE ARANCIA DI CONGA, CHIMPY AIUTA ORSO GRASSO E UCCELLO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

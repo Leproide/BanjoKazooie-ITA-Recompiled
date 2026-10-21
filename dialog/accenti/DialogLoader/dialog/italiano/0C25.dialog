@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xBF, string: "PER FAVORE, IMPEGNATI DI PIÙ QUESTA VOLTA... ARRIVIAMO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

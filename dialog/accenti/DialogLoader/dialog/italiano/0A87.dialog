@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "BEN FATTO, BANJO! AVETE IMPARATO TUTTE LE MOSSE LE DEL GIOCO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

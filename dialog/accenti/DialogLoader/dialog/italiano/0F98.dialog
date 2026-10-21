@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "PER COLPA DEL MIO LETTO SPORCO HO UN ESANTEMA," }
+  - { cmd: 0xB5, string: "NON MI LAVO MAI, MI SEMBRA UNA COSA SCEMA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

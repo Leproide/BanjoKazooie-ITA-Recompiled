@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "UN COLPO ABBAGLIANTE, ASPETTA UN MOMENTO," }
+  - { cmd: 0xB5, string: "E TI SBATTERÀ OLTRE IL PAVIMENTO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

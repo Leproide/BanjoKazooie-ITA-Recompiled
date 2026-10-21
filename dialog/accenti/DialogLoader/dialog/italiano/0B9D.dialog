@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "AVEVI UN COMPITO DA FINIRE," }
+  - { cmd: 0xB5, string: "MA ORA I MOTORI DI GRUNTY DEVONO RIPARTIRE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

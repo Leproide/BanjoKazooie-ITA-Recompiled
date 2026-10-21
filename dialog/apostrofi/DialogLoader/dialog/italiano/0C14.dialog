@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xBF, string: "EVVIVA! RAGGIUNGI LA STELLA E AVRAI LA TUA RICOMPENSA! SBRIGATI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

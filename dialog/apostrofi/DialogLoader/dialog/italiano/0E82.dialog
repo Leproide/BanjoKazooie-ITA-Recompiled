@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0xB6, string: "FORSE NON AVETE FINITO IL GIOCO, DOPOTUTTO! PERCHE' NON TORNATE INDIETRO A CERCARE I PEZZI MANCANTI?" }
+  - { cmd: 0x04, string: "" }

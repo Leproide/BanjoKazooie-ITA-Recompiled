@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC5, string: "EVVIVA! ORA ABBIAMO TUTTI DEI REGALI! ECCO QUALCOSA PER TE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

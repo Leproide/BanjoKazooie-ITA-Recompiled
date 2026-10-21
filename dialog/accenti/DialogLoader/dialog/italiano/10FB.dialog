@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "AHI, MI HAI QUASI COLPITO L'INTESTINO," }
+  - { cmd: 0xB5, string: "SE IL TUO COLPO FOSSE STATO UN PO' PIÙ BASSINO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

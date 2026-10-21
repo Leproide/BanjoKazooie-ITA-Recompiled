@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "QUESTA GRUNTY TI CHIEDE DI SBAGLIARE," }
+  - { cmd: 0xB5, string: "UN BAGNO NELLA LAVA POI DOVRAI FARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

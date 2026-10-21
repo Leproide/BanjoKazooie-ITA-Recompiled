@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "NON RIESCO A CREDERE CHE SIA RIUSCITO A ENTRARE," }
+  - { cmd: 0xB5, string: "MA ORA LE MANI TI DOVRAI LAVARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

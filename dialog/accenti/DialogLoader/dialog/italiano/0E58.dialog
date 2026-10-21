@@ -1,0 +1,14 @@
+type: Dialog
+bottom:
+  - { cmd: 0xD8, string: "EHM... C'È PERÒ QUESTA RAGAZZINA..." }
+  - { cmd: 0xB5, string: "COSA VUOI DIRE? NON DELIRARE," }
+  - { cmd: 0xB5, string: "IN BELLEZZA NESSUNA MI PUÒ SUPERARE!" }
+  - { cmd: 0xD8, string: "SI CHIAMA TOOTY, GIOVANE E PICCOLINA," }
+  - { cmd: 0xD8, string: "È LEI LA RAGAZZA PIÙ CARINA!" }
+  - { cmd: 0xB5, string: "NO NO NO, SEI IN ERRORE," }
+  - { cmd: 0xB5, string: "LA MIA BELLEZZA È SUPERIORE!" }
+  - { cmd: 0xD8, string: "DESOLATO, MA PENSO CAPIRAI DA TE," }
+  - { cmd: 0xD8, string: "CHE TOOTY PIÙ CARINA È!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

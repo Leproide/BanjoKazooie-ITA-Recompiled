@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC1, string: "WOW... DEVI VOLERE VERAMENTE QUESTA COSA SE SEI ARRIVATO AD ENTRARE NELL'ACQUA GELIDA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "NON È GIUSTO, AVEVO PERSO CONCENTRAZIONE," }
+  - { cmd: 0xB5, string: "I GINGI MI CREANO TROPPA CONFUSIONE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

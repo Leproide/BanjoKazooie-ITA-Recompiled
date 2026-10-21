@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "ECCOLI QUA, PENSO CHE MI DIVERTIRO'," }
+  - { cmd: 0xB5, string: "CON I MIEI TRUCCHI E LE MIE TRAPPOLE SONO CERTA CHE VINCERO'!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

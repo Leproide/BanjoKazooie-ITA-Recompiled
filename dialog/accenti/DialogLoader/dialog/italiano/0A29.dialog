@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xAF, string: "MMMM... DELIZIOSO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

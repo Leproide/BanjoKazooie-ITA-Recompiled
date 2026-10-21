@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC0, string: "SLURP... CHE LUCINE GUSTOSE! RITENTA, ORSO, SIAMO ANCORA AFFAMATI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "PER RIMUOVERE I PEZZI CHE AVETE GIA' INSERITO, PREMETE IL PULSANTE C GIU'. MA UNA VOLTA CHE IL QUADRO E' COMPLETO, TUTTI I PEZZI RESTERANNO BLOCCATI LI' PERMANENTEMENTE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

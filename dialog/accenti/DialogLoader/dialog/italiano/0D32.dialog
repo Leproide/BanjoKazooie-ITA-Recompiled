@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8A, string: "NOI SSSIAMO SSSNIPPET MUTANTI! IL PEZZZO DI PUZZZLE È NOSSSTRO, DEVI SSSFIDARCI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

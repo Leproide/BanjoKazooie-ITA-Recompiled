@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xD2, string: "SSSI', VOSSSTRA GRUNTOSSSITA', TRASSSFORMAZIONE QUASSSI COMPLETATA..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

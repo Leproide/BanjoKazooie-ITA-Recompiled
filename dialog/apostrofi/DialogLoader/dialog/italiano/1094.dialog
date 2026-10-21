@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "MENTRE SORSEGGIA UN BICCHIERE DEL SUO ~ PREFERITO!" }
+  - { cmd: 0x08, string: "MILKSHAKE ALLO SPUTO DI CAMMELLO" }
+  - { cmd: 0x08, string: "FRULLATO DI SUDORE DI ELEFANTE" }
+  - { cmd: 0x08, string: "SUCCO DI VERME FRESCO" }
+  - { cmd: 0x02, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

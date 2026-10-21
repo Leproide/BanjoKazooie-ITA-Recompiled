@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "IL TUO DIVERTIMENTO STA PER FINIRE," }
+  - { cmd: 0xB5, string: "STA ARRIVANDO UN INCANTESIMO DA CUI NON PUOI FUGGIRE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

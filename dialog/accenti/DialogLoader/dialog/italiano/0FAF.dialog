@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xD8, string: "NON VEDETE NESSUN BAGNO QUI, VERO? INDOVINATE DOVE VA GRUNTY QUANDO NE HA BISOGNO..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

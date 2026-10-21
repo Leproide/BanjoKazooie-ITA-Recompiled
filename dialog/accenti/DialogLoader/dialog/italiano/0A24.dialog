@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "QUESTA È LA PEDANA DI SALTO SHOCK, TROVATEMI E VI SPIEGHERÒ COME USARLA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

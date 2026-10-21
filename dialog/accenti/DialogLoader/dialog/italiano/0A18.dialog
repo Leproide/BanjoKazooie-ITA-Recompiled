@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xAB, string: "SEGUI GLI INDIZI SE SEI IN CERCA DI ORO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

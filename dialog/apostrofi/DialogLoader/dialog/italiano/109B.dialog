@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "SAPEVI CHE LA DONNA VERRUCA TIENE ~ IN TASCA COME PORTAFORTUNA?" }
+  - { cmd: 0x08, string: "UNA TESTA RINSECCHITA" }
+  - { cmd: 0x08, string: "UN FAZZOLETTO PIENO DI SPUTI" }
+  - { cmd: 0x08, string: "UN PIEDE DI DRAGO" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

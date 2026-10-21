@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "ARGH, CON TUTTO QUESTO LARDO NON POSSO ESSER VELOCISTA," }
+  - { cmd: 0xB5, string: "QUELLE TUE UOVA MI HANNO PRESO ALLA SPROVVISTA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

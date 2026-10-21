@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xD8, string: "NON POTETE NEANCHE IMMAGINARE QUANTA FORFORA CADA DAI CAPELLI DI GRUNTY QUANDO SI APPOGGIA SU DI ME..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

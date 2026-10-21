@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8B, string: "GRRR... IL VERDINO HA VINTO QUESTO GIOCO, MA MR. VILE SI TIENE I PREMI FINCHÉ IL VERDINO NON LI VINCERÀ TUTTI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

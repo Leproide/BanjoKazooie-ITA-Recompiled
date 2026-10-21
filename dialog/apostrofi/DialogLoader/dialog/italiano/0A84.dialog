@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "QUESTE SONO LE SCARPE SCHEGGIA, PER LA MOSSA RAPIDO RAPACE TURBO." }
+  - { cmd: 0x07, string: "" }
+  - { cmd: 0x83, string: "LA BECCUTA LE PUO' INDOSSARE SULLE SUE ZAMPE SCHELETRICHE PER CORRERE VERAMENTE VELOCE PER UN TEMPO LIMITATO!" }
+  - { cmd: 0x07, string: "" }
+  - { cmd: 0x02, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

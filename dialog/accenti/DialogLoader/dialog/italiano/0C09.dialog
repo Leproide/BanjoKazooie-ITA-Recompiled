@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB7, string: "EHI, AMICO! TI VA DI FARE UNA GARA CONTRO BOGGY?" }
+  - { cmd: 0xB7, string: "PREMI A PER ACCETTARE O B PER SVIGNARTELA!" }
+  - { cmd: 0x03, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

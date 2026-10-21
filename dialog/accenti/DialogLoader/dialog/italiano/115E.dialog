@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "PER ORA È FINITA, HO MALE ALLE BUDELLA," }
+  - { cmd: 0xB5, string: "MA GUARDA COSA C'È DIETRO LA MIA MANTELLA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

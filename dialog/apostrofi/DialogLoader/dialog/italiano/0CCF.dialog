@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC1, string: "SEMBRI ABBASTANZA FORTE, PUOI SPOSTARE QUESTO MASSO PER ME?" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "POTETE SALTARE VERAMENTE IN ALTO CON IL SALTO SHOCK. RESTATE SU UNA PEDANA DI SALTO SHOCK, POI TENETE PREMUTO A." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC3, string: "BZZZ... ORA QUI NON C'E' NIENTE CHE TI POSSA INTERESSARE, ORSO, ABBIAMO TUTTI TRASLOCATO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

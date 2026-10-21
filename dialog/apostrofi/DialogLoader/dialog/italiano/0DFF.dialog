@@ -1,0 +1,20 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "BANJO, E' ORA CHE TU IMPARI L'ATTACCO ARTIGLIATA." }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x83, string: "PREMI SEMPLICEMENTE B MENTRE SEI FERMO O TI STAI MUOVENDO LENTAMENTE." }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x83, string: "BEH, CHE NE DICI DELLA POLLASTRA?" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x83, string: "STAVO SOLO SCHERZANDO, LASCIAMI TROVARE QUALCOSA CON UNA SFIDA." }
+  - { cmd: 0x07, string: "" }
+  - { cmd: 0x83, string: "AH... ECCO TOPPER. COLPISCILO, BANJO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x80, string: "COME SI FA? DEVO SAPERLO!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x80, string: "SEMBRA FORTE, SU COSA LO POSSO PROVARE?" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x81, string: "TU PROVACI, SACCO DI LARDO!" }
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "SCHIANTATEVI AL SUOLO CON IL SALTO BECCATA SALTANDO IN ARIA, PER POI PREMERE Z!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

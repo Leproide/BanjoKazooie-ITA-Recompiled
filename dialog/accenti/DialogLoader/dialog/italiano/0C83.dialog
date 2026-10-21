@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8E, string: "È TORNATO! PRENDETELO, FLIBBIT!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

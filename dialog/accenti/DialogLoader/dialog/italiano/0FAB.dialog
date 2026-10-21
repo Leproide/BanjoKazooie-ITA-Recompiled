@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "STUPIDO ORSO, NON È FINITA AFFATTO," }
+  - { cmd: 0xB5, string: "GUARDA LAGGIÙ IL MIO RITRATTO!" }
+  - { cmd: 0xB5, string: "I PEZZI CHE ANCORA PRESO NON HAI," }
+  - { cmd: 0xB5, string: "PER SFIDARMI ORA TROVARLI DOVRAI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x9F, string: "EHILA' DALLA NAVE! IO ESSERE TESORO DI BLUBBER!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

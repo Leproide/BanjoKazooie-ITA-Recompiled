@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB7, string: "EHI, SIGNOR TRICHECO! TI VA DI FARE UNA GARA? SALTA SULLA SLITTA SE NE HAI VOGLIA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

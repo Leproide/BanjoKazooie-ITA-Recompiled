@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "PER ME E' ORA DI CAMBIAR POSIZIONE," }
+  - { cmd: 0xB5, string: "SE DI SCHIVARE I TUOI COLPI HO INTENZIONE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

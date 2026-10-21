@@ -1,0 +1,8 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCF, string: "200 UOVA SONO ORA VOSTRE! ORA 200 È ANCHE IL MASSIMO!" }
+  - { cmd: 0xB5, string: "QUELLO SCHIFOSO TRUCCO PER DELLE UOVA IN PIÙ," }
+  - { cmd: 0xB5, string: "NON AIUTERÀ ORSO E ZAMPE DI EMÙ!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

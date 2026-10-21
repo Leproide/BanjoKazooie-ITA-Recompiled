@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "PRESTO LO STOMACO E LE GAMBE DI GRUNTY SUBIRANNO ASSOTTIGLIAMENTI," }
+  - { cmd: 0xB5, string: "ADDIO A TUTTI QUEI MALEDETTI DOPPI MENTI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

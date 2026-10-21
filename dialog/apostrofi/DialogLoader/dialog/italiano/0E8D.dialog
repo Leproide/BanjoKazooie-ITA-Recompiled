@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xD2, string: "HRNN... KLUNGO SSSPINGE SSSASSSO PESSSANTE! NON PREOCCUPARTI, PADRONA, TI SSSALVERO'!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

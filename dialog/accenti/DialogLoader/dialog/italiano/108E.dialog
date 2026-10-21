@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "LA DONNA VERRUCA POI CONCLUDE CON ~ PER DESSERT. CHE SCHIFO!" }
+  - { cmd: 0x08, string: "GELATO AL BULBO OCULARE" }
+  - { cmd: 0x08, string: "BLATTE CON CREMA" }
+  - { cmd: 0x08, string: "UN SORBETTO AL RATTO" }
+  - { cmd: 0x02, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

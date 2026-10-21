@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC4, string: "EHILA', AMICO ORSO! HO BISOGNO DI ALTRE 6 GHIANDE PRIMA CHE ARRIVI L'INVERNO, NE HAI VISTA QUALCUNA?" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

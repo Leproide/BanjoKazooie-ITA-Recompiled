@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "CHE SFORTUNA, RAGAZZI, IL TEMPO E' SCADUTO. PERCHE' NON RIPROVATE?" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

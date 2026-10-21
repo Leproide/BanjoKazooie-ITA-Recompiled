@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x84, string: "BANJO PERSO TUTTO GRASSO, PRESO GRANDI DENTI... HUR... HUR!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "POTETE CAMBIARE LA VISUALE DELLA TELECAMERA CON I PULSANTI C GIALLI. PREMETE R PER SPOSTARE LA TELECAMERA DIETRO DI VOI, E TENETE PREMUTO R PER MANTENERLA LI'." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

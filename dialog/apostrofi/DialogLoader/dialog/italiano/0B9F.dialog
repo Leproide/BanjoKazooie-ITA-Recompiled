@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC2, string: "ARGH... MI HAI FATTO A PEZZI! PRENDI QUESTO, NON LO VOLEVO VERAMENTE..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

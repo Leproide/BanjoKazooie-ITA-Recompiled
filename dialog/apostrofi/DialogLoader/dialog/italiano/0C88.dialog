@@ -1,0 +1,11 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "QUESTI SONO GLI STIVALI DA GUADO, PER IL PASSO TRAMPOLO." }
+  - { cmd: 0x07, string: "" }
+  - { cmd: 0x83, string: "ZAMPE DI GALLINA LI PUO' INDOSSARE PER ATTRAVERSARE SENZA PERICOLO E PER UN TEMPO LIMITATO ZONE PERICOLOSE, COME LA PALUDE." }
+  - { cmd: 0x07, string: "" }
+  - { cmd: 0x02, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x80, string: "OK, ZAMPE... EHM, KAZOOIE... ANDIAMO A CERCARNE UN PAIO!" }
+  - { cmd: 0x04, string: "" }

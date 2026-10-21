@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "DENTE AGUZZO E BRACCIO DEFINITO," }
+  - { cmd: 0xB5, string: "GRUNTY HA UNO CHARM INFINITO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

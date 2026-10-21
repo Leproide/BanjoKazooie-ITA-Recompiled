@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "QUELL'ULTIMO COLPO NON SON RIUSCITA A FERMARE," }
+  - { cmd: 0xB5, string: "PERCIÒ PER TERRA MI DOVRÒ SPOSTARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

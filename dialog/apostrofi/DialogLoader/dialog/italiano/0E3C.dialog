@@ -1,0 +1,14 @@
+type: Dialog
+bottom:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x84, string: "UCCELLO ZITTO, GUARDARE IMMAGINE..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x80, string: "SIAMO GIA' STATI LI'..." }
+  - { cmd: 0x81, string: "EHI, A COSA SERVIVA QUELL'UOVO SULLA SPIAGGIA? DICCELO!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x81, string: "COSA C'E' PER DI LI'?" }
+  - { cmd: 0x80, string: "CORRR, UNA CHIAVE GIGANTE DI GHIACCIO!" }
+  - { cmd: 0x81, string: "HO QUALCHE IDEA SU DOVE POTREI INFILARLA..." }
+  - { cmd: 0x80, string: "KAZOOIE!!!" }
+  - { cmd: 0x04, string: "" }

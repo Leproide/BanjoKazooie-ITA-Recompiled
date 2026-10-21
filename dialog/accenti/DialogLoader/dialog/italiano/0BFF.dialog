@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB7, string: "GROAN... MI FA MALE LO STOMACO, NON AVREI DOVUTO MANGIARE QUELLA COSA LUCCICANTE. QUALCUNO AIUTI IL POVERO BOGGY..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

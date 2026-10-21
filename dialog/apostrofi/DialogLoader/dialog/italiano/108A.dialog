@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "ANCHE SE E' STUPIDA, ANDAVA ~!" }
+  - { cmd: 0x08, string: "AL CAULDRON COLLEGE" }
+  - { cmd: 0x08, string: "ALLA FAT HAG HIGH" }
+  - { cmd: 0x08, string: "ALLA SCUOLA DI ST. DUNGBALL" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

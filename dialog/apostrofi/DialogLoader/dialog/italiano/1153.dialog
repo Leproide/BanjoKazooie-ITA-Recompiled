@@ -1,0 +1,8 @@
+type: Dialog
+bottom:
+  - { cmd: 0x96, string: "SONO IL POSSENTE GINGIONATOR, ATTIVATEMI..." }
+  - { cmd: 0xB5, string: "PENSO CHE PER TE DI SCAPPAR SIA IL MOMENTO," }
+  - { cmd: 0xB5, string: "LO SCONFIGGERO' E TI ROVINERO' IL DIVERTIMENTO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

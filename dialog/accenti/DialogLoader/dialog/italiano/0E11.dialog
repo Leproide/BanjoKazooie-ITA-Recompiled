@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "NON RIPARERÒ ANCORA IL PONTE, AVETE ANCORA DELLE MOSSE DA IMPARARE PRIMA DI RAGGIUNGERE TOOTY!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "DAL SOFFITTO DELLA CAMERA DA LETTO DELLA RIVOLTANTE GRUNTILDA PENZOLANO ~!" }
+  - { cmd: 0x08, string: "PESCI MARCI" }
+  - { cmd: 0x08, string: "CALZE PUZZOLENTI" }
+  - { cmd: 0x08, string: "MUTANDE SPORCHE" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "GUARDA IL TUO GINGIO IN DIFFICOLTA'," }
+  - { cmd: 0xB5, string: "NON E' ALTRO CHE UN DEBOLE BACCALA'!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

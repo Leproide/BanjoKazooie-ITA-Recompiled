@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xA8, string: "EHI! DOVE HAI PRESO QUEI PANTALONCINI? LI VOGLIO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

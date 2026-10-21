@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "A MIO PARERE AVRO' UNA BUONA SORTE," }
+  - { cmd: 0xB5, string: "I TUOI STRILLI E I TUOI URLI SENTO PIUTTOSTO FORTE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

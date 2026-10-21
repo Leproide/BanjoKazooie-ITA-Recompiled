@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "A SPOSTAR LA MIA MASSA NON RIUSCIRAI," }
+  - { cmd: 0xB5, string: "TI GUARDERÒ MENTRE FRIGNERAI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

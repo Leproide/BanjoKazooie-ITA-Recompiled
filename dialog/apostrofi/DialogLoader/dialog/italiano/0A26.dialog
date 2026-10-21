@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "PER VOLARE PIU' IN ALTO, AVRETE BISOGNO DI QUALCHE PIUMA ROSSA. PREMETE A PER USARNE UNA, MA RICORDATE CHE LA BECCUTA PUO' TRASPORTARNE SOLO 50!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

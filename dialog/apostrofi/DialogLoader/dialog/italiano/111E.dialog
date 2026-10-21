@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "ALLA SCUOLA DELLE STREGHE HO IMPARATO A VOLARE," }
+  - { cmd: 0xB5, string: "PUOI VEDERE DA TE PERCHE' L'HO VOLUTO FARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

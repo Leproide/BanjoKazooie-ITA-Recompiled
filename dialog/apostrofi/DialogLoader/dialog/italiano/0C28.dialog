@@ -1,0 +1,10 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB7, string: "OK, AMICO, ECCO LE REGOLE. PASSA ATTRAVERSO LE PORTE DI SLALOM ROSSE E CERCA DI RAGGIUNGERE IL TRAGUARDO PRIMA DI ME. INIZIAMO!" }
+  - { cmd: 0xB7, string: "3..." }
+  - { cmd: 0xB7, string: "2..." }
+  - { cmd: 0xB7, string: "1..." }
+  - { cmd: 0xB7, string: "VIA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

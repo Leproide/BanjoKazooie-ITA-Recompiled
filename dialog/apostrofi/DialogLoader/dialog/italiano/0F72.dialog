@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "FERMO, BANJO, NON E' MEGLIO CHE TU RITORNI INDIETRO E TROVI QUELLA NUOVA MOSSA?" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

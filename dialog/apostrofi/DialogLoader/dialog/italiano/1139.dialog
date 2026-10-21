@@ -1,0 +1,8 @@
+type: Dialog
+bottom:
+  - { cmd: 0x97, string: "GRUNTY HA CATTURATO NOI GINGI, ORA CI FACCIAMO SENTIRE PER LA NOSTRA VENDETTA!" }
+  - { cmd: 0xB5, string: "GLI INUTILI GINGI NON FANNO ALTRO CHE SOGGHIGNARE E FISCHIARE," }
+  - { cmd: 0xB5, string: "ANDATE VIA SE UNA PEDATA NEL SEDERE NON VOLETE BECCARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

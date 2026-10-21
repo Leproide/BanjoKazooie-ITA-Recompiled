@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x80, string: "WOW... UN ALTRO DI QUELLE UOVA SPECIALI!" }
+  - { cmd: 0x04, string: "" }

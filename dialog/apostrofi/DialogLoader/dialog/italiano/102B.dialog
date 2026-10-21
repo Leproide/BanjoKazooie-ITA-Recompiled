@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "IL NOME DEL TUO GIOCO DEVI DIGITARE," }
+  - { cmd: 0xB5, string: "AL CONTARIO PERO', E IL TEMPO NON SPRECARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

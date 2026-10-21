@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xD8, string: "TUTTA LA SUA SPAZZATURA, ANCHE QUELLA VA A FINIRE DENTRO DI ME..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

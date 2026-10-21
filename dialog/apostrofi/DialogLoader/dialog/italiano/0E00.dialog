@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "PREMETE B MENTRE SIETE FERMI PER UN'ARTIGLIATA. CORRETE E PREMETE B PER USARE L'ATTACCO CAPRIOLA. SALTATE E PREMETE B PER UNA BECCATA AERODINAMICA." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

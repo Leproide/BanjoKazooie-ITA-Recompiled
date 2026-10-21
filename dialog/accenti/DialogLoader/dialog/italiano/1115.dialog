@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "MI ALZO IN VOLO PER VEDERE," }
+  - { cmd: 0xB5, string: "SE IL MEGLIO DI ME RIESCI AD OTTENERE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

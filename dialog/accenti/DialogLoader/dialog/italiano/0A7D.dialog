@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB0, string: "AHHH... ORA IL NASO DI JINXY È LIBERATO. VENITE DENTRO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

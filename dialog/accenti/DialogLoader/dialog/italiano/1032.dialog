@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "TUTTA FORTUNA, HAI INDOVINATO," }
+  - { cmd: 0xB5, string: "A PROCEDERE DI UNA CASELLA SEI AUTORIZZATO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

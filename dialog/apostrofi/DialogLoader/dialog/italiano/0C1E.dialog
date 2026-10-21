@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB7, string: "TUTTO QUEL CORRERE MI HA STANCATO. POTRESTI CERCARE TU I REGALI DEI MIEI BAMBINI?" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

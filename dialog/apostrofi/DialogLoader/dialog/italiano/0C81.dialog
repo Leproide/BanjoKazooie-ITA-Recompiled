@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8E, string: "URRR... UN RIPUGNANTE INTRUSO PELOSO! E' IN CERCA DEL NOSTRO ORO, MA NON RIUSCIRA' MAI A SCONFIGGERCI TUTTI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

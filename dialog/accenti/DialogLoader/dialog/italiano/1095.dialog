@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "LA MIA PIGRA SORELLA SI ADDORMENTA SPESSO ~! HAI CAPITO, LA VECCHIACCIA!" }
+  - { cmd: 0x08, string: "IN UN CASSONETTO" }
+  - { cmd: 0x08, string: "SU UNA MONTAGNA DI TESORI" }
+  - { cmd: 0x08, string: "IN UN PORCILE" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

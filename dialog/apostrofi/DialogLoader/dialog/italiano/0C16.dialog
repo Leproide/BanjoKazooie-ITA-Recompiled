@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC0, string: "MMMM... CROCCANTI E GUSTOSE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

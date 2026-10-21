@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC8, string: "GRAZIE, ORSO, EYRIE SARÀ PRESTO GRANDE UCCELLO! DEVE DORMIRE ORA..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

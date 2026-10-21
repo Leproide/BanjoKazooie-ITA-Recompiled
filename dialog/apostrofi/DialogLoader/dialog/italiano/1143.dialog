@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "QUEL GINGIO MI HA PUNTA E SCOTTATA," }
+  - { cmd: 0xB5, string: "MI HA PRESO QUANDO LA MIA SCHIENA ERA GIRATA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

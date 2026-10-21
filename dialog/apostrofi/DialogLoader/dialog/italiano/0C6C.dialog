@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8B, string: "VUOI RIPROVARE A SFIDARMI, VERDINO? PREMI A PER GIOCARE O B PER ANDARE VIA." }
+  - { cmd: 0x01, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCF, string: "INSERITE CODICE 'ýhREDFEATHERSýl' SU PAVIMENTO DI CASTELLO DI SABBIA DELL'ISOLA DEL TESORO. A UCCELLO PIACERÀ!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

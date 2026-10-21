@@ -1,0 +1,8 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCF, string: "ORSO E UCCELLO RICEVONO 100 PIUME ROSSE. 100 IL MASSIMO ORA E'!" }
+  - { cmd: 0xB5, string: "TUTTE LE MIE PIUME! SONO INFURIATA!" }
+  - { cmd: 0xB5, string: "VOLA DA ME, IL TUO SEDERE ASPETTA UNA PEDATA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

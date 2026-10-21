@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x88, string: "QUEGLI OVETTI NON FANNO NIENTE ALLA CORAZZA DI NIPPER!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

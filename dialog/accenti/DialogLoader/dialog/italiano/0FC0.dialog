@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "STUPIDO ORSO, NON È FINITA AFFATTO," }
+  - { cmd: 0xB5, string: "GUARDA LAGGIÙ IL MIO RITRATTO!" }
+  - { cmd: 0xB5, string: "COMPLETARLO È UN'IMPRESA DA GIGANTI," }
+  - { cmd: 0xB5, string: "I JIGGY CHE TI SERVONO SONO TANTI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB9, string: "DEL TALENTO MUSICALE HAI DIMOSTRATO," }
+  - { cmd: 0xB9, string: "TI MERITI QUESTO OGGETTO DORATO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

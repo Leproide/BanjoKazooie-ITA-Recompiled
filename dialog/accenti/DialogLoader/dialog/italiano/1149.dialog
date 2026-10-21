@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "GLI INUTILI MANICI DI SCOPA NON RIESCO A TOLLERARE," }
+  - { cmd: 0xB5, string: "PER TERRA DA SOLA MI HA LASCIATA ARENARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

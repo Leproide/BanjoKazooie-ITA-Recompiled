@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "NON CREDERAI MAI CHE IL PEZZO FORTE ALLE FESTE DI GRUNTILDA CONSISTE NEL~!" }
+  - { cmd: 0x08, string: " GONFIARE PALLONCINI CON IL SUO SUDERE" }
+  - { cmd: 0x08, string: "L'ESIBIRSI IN UNO SPOGLIARELLO SPAVENTOSO" }
+  - { cmd: 0x08, string: " MANGIARE UN SECCHIO DI FAGIOLI" }
+  - { cmd: 0x02, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

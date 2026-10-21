@@ -1,0 +1,12 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCF, string: "ORSO E UCCELLO STANNO MIGLIORANDO NEL TROVARE CHEATO, PERCIO' UN ALTRO INCANTESIMO DEVONO AVERE!" }
+  - { cmd: 0xB5, string: "QUEL LIBRO TRADITORE HA VERAMENTE ESAGERATO," }
+  - { cmd: 0xB5, string: "PERCIO' NEL FUOCO ARDENTE VERRA' GETTATO!" }
+  - { cmd: 0xCF, string: "CHEATO STREGA NON TROVERA'! CODICE CHE DOVETE INSERIRE SUL PAVIMENTO DEL CASTELLO DI SABBIA NELL'ISOLA DEL TESORO E' '~'!" }
+  - { cmd: 0x08, string: "BLUEEGGS" }
+  - { cmd: 0x08, string: "REDFEATHERS" }
+  - { cmd: 0x08, string: "GOLDFEATHERS" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

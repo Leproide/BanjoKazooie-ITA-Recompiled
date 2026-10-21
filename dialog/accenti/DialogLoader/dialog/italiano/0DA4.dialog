@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xA5, string: "AH! NON PENSATE DI USARCI FINO A QUANDO NON SCOPRIRETE COME FARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

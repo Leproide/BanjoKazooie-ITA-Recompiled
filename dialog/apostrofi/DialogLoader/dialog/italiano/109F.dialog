@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "HA ANCHE QUELL'ANTIPATICO CANE DOMESTICO DI NOME ~!" }
+  - { cmd: 0x08, string: "MANGIAGAMBE" }
+  - { cmd: 0x08, string: "CACCIACHIODI" }
+  - { cmd: 0x08, string: "NERONE" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

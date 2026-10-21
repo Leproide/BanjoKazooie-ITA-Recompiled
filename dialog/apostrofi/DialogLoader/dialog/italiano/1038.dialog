@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "L'ENERGIA APPENA PRESA," }
+  - { cmd: 0xB5, string: "NON MI FERMERA' DAL RENDER TOOTY OBESA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

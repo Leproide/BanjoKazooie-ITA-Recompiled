@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "BEH, CREDO CHE NON CI SIANO ALTRE NUOVE MOSSE DA IMPARARE NELLA VALLE DI GOBI." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

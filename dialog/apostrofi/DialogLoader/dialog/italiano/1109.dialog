@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "CON QUELL'ULTIMO COLPO L'ORECCHIO SEI RIUSCITO A PRENDERMI," }
+  - { cmd: 0xB5, string: "MA ORA VEDIAMO SE DA LI' RIESCI A STENDERMI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

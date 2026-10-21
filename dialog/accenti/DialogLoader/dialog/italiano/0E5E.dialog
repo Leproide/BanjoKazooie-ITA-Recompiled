@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0xB6, string: "NON MI SEMBRA. CHI SARÀ?" }
+  - { cmd: 0x04, string: "" }

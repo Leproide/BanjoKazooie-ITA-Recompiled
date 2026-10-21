@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "YOWW, QUEL BECCO MI HA FATTO SOBBALZARE," }
+  - { cmd: 0xB5, string: "PERCIO' QUESTO MASSO TI DEVO LANCIARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "QUEI TUOI STUPIDI CALZONCINI HANNO COLORI VIVACI," }
+  - { cmd: 0xB5, string: "UN BERSAGLIO PERFETTO PER I MIEI SCAGNOZZI INCAPACI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

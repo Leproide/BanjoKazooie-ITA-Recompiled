@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "HO COLPITO L'UCCELLACCIO CON ESATTEZZA," }
+  - { cmd: 0xB5, string: "CHE SIA LA FINE DELLA SUA SFRONTATEZZA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

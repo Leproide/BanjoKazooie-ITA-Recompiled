@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8C, string: "MI DISPIACE... NON C'È NIENT'ALTRO CHE IO TI POSSA INSEGNARE." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

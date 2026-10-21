@@ -1,0 +1,8 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "" }
+  - { cmd: 0x07, string: "" }
+  - { cmd: 0x83, string: "VELOCE, USA QUESTA PEDANA DI VOLO PER ARRIVARE LASSÙ E DARLE UNA LEZIONE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

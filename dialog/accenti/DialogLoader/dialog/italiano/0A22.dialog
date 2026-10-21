@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "KAZOOIE PUÒ ALZARSI IN ARIA RESTANDO SU UNA PEDANA DI VOLO, PER POI PREMERE A." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

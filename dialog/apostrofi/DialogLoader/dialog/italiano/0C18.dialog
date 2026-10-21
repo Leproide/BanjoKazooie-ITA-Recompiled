@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC5, string: "FORTE, UN ALTRO REGALO! NE VOGLIAMO ANCORA SOLO UNO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

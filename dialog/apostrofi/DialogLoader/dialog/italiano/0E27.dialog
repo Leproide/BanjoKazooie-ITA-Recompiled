@@ -1,0 +1,12 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "EHI, CE L'AVETE FATTA!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x83, string: "ASCOLTATE ATTENTAMENTE E VE LO DIRO'..." }
+  - { cmd: 0x83, string: "USATE LE PIASTRELLE SUL PAVIMENTO DEL CASTELLO DI SABBIA DELL'ISOLA DEL TESORO PER DIGITARE LA PAROLA 'BOTTLESBONUSONE'." }
+  - { cmd: 0x83, string: "ANDATE E FATE UNA PROVA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x81, string: "E' STATO FACILE, RESPIRO DI SCARAFAGGIO, COSA ABBIAMO VINTO?" }
+  - { cmd: 0x04, string: "" }

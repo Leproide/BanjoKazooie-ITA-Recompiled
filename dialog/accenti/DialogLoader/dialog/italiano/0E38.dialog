@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "BANJO! SE USERAI PER LA TERZA VOLTA UN CODICE PER I TRUCCHI, LA TUA PARTITA VERRÀ CANCELLATA! SEI SICURO DI VOLERE PROCEDERE? PREMI A PER UN SÌ O B PER UN NO..." }
+  - { cmd: 0x03, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

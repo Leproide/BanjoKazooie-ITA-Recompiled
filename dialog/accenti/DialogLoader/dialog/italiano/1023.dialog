@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "PENSO CHE IL GRAN MOMENTO SIA ARRIVATO," }
+  - { cmd: 0xB5, string: "FAMMI VEDERE COSA SAI DEL MIO PASSATO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

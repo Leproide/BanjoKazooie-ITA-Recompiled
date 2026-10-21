@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8B, string: "COCCODRILLO DEBOLE PERDE! ORA MORDO IL VERDINO PER DARGLI UNA LEZIONE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

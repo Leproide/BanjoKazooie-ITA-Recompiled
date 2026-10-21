@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB4, string: "DELIZIOSO! A CROCTUS E' PIACIUTO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

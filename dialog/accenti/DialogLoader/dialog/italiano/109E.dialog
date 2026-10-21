@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "GRUNTY PORTA ~ SOTTO QUEL SUO VESTITO RIPUGNANTE!" }
+  - { cmd: 0x08, string: "DEI PANTALONCINI VOLUMINOSI" }
+  - { cmd: 0x08, string: "UN CIRCO DELLE PULCI" }
+  - { cmd: 0x08, string: "UNA CINTURA DI FORZA" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB1, string: "SOLO NOI ANGUILLE DI TERRA POSSIAMO SOPRAVVIVERE QUI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x81, string: "GRAZIE, QUATTROCCHI, NON SEI COSI' STUPIDO DOPOTUTTO!" }
+  - { cmd: 0x80, string: "BASTA, KAZOOIE, ORA GUARDIAMO LA LISTA DEL CAST..." }
+  - { cmd: 0x04, string: "" }

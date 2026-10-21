@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "AARGH, SONO STATA SCONFITTA PER DAVVERO," }
+  - { cmd: 0xB5, string: "PRIMA DI ANDARE TI LASCIO QUESTO PENSIERO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

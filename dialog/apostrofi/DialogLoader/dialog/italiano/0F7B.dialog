@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "AVETE TROVATO UN QUADRO PUZZLE! RESTATE SULLA BASE A FORMA DI PEZZO DI PUZZLE E VI SPIEGHERO' COSA FARE." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

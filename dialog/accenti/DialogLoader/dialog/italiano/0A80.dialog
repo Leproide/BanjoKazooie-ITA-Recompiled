@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB3, string: "STAVO SCHERZANDO, MORTALE! POSSIAMO SOLO DARTI QUESTO..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

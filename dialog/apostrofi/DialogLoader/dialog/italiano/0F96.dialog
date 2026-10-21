@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "PERCHE' STO TUTTO IL TEMPO A PARLARE?" }
+  - { cmd: 0xB5, string: "E' DAVVERO DIFFICILE CONTINUARE A RIMARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

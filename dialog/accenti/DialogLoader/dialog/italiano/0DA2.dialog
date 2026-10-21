@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xA1, string: "SONO UNA CELLETTA DI MIELE EXTRA! COLLEZIONATE SEI DI NOI PER AUMENTARE LA VOSTRA BARRA DI ENERGIA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

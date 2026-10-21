@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xD1, string: "~" }
+  - { cmd: 0x08, string: "SONO UN REGALO, PORTAMI A QUALCUNO TRISTE." }
+  - { cmd: 0x08, string: "BRRR... E' FREDDO! BELLO ZAINETTO CALDO ANCHE PER ME!" }
+  - { cmd: 0x08, string: "PORTAMI DAI BAMBINI, SONO L'ULTIMO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

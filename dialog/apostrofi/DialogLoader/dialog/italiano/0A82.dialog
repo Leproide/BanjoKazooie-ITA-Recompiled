@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xBB, string: "HAI DECISO DI NON DARE ASCOLTO AL NOSTRO AVVERTIMENTO, PREPARATI A CORRERE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

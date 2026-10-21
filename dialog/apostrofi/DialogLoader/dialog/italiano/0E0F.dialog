@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "SMETTILA DI PERDERE TEMPO, BANJO! TOOTY DEVE ESSERE SALVATA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

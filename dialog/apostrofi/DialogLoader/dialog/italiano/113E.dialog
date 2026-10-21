@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "DOVRAI ABITUARTICI, CE N'E' UNA PROFUSIONE," }
+  - { cmd: 0xB5, string: "DI ALTRI SGRADEVOLI INCANTESIMI A DISPOSIZIONE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

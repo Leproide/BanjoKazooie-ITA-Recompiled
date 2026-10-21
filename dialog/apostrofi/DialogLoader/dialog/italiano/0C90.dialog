@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8B, string: "HURR... IL VERDINO HA ALTRE VITE GUSTOSE PER MR. VILE? PREMI A PER RIPROVARE O B PER SALTELLARE VIA COME UNA RANA!" }
+  - { cmd: 0x01, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

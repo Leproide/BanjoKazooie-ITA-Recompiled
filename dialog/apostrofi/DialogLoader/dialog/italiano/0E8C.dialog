@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xDA, string: "TUTTI I JIGGY ORA PIU' NON HO," }
+  - { cmd: 0xDA, string: "MA PER UN'ALTRA SFIDA RITORNERO'!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "PICCOLI PUNGIGLIONI FANNO L'ORSO URLARE," }
+  - { cmd: 0xB5, string: "COLPISCILI TUTTI FINCHE' LO PUOI FARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

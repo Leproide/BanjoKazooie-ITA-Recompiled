@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "UN ALTRO COLPO DI NUOVO HAI SUBITO," }
+  - { cmd: 0xB5, string: "PER FAVORE, PERDI PRESTO, HO IL SEDERE INDOLENZITO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

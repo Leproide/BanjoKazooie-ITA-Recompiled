@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xD8, string: "VI PREGO, BATTETE GRUNTY QUESTA VOLTA, NON VOGLIO PIÙ LAVARE I SUOI PANNI..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

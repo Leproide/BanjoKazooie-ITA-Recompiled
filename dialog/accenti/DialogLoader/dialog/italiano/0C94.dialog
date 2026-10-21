@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8B, string: "MR. VILE DICE SEMPRE 'I BABBEI E LE VITE HANNO SEMPRE LA PEGGIO'!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

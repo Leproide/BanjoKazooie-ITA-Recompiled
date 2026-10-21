@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "SE TOOTY PENSA DI SUPERARMI IN QUALITÀ," }
+  - { cmd: 0xB5, string: "RUBERÒ IL SUO ASPETTO E BRUTTA DIVENTERÀ!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

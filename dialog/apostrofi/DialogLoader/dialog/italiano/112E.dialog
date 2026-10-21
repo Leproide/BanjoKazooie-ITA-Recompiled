@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "GRUNTY NON E' VENUTA QUI PER PROVARE AFFLIZIONE," }
+  - { cmd: 0xB5, string: "ECCO UN INCANTESIMO PER AVER PROTEZIONE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC3, string: "BZZZ... L'ORSO! VUOLE IL TESORO DI MIELE DORATO DI GRUNTY! PUNGETELO, ZUBBA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

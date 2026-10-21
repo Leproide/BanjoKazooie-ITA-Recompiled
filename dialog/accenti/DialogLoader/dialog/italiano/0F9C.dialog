@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "QUESTA STUPIDA RICERCA DOVRESTI FINIRE," }
+  - { cmd: 0xB5, string: "FINO IN CIMA ALLA TORRE NON RIUSCIRAI A SALIRE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

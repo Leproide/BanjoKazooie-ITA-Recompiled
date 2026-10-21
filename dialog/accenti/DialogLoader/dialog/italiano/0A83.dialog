@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xBB, string: "NOOO... L'ORSO È SOPRAVVISSUTO! HA RAGGIUNTO L'ANTICA TOMBA DEL RE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

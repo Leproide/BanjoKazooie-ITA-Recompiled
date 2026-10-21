@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "FACILE, EH? ORA POTETE ANDARE A VEDERE COSA FA LA PAROLA 'BOTTLESBONUSFOUR'!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

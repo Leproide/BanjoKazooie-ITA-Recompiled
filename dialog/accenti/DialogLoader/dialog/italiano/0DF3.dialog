@@ -1,0 +1,22 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "ASCOLTATEMI! SONO BOTTLES, LA TALPA MIOPE." }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x83, string: "È SENZA DUBBIO UN'AMICA DALL'ASPETTO UN PO' BIZZARRO, BANJO. SA PARLARE?" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x83, string: "LA BRUTTA STREGA GRUNTILDA È PIOMBATA GIÙ DAL CIELO E L'HA RAPITA!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x83, string: "È VOLATA VERSO IL SUO ANTRO SULLA MONTAGNA!" }
+  - { cmd: 0x07, string: "" }
+  - { cmd: 0x83, string: "È MOLTO PERICOLOSO, PERCIÒ AVRETE BISOGNO DI UN PO' DI ALLENAMENTO PRIMA DI ANDARE FIN LASSÙ." }
+  - { cmd: 0x07, string: "" }
+  - { cmd: 0x02, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x80, string: "IO SONO BANJO, E QUESTA È LA MIA AMICA KAZOOIE." }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x81, string: "MEGLIO DI TE SENZ'ALTRO, QUATTROCCHI!" }
+  - { cmd: 0x80, string: "COS'ERA TUTTO QUEL CHIASSO? DOV'È MIA SORELLA TOOTY?" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x81, string: "STAI CALMO, TONTOLONE, LA SALVEREMO! DA CHE PARTE È ANDATA LA STREGA?" }
+  - { cmd: 0x02, string: "" }

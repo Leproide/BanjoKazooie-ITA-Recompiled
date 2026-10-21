@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x84, string: "UMM... INCANTESIMO SBAGLIATO. PERIZOMA DI MUMBO TUTTO SPORCO, LO LAVI? HUR... HUR!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,8 @@
+type: Dialog
+bottom:
+  - { cmd: 0x97, string: "PER AVERCI LIBERATO, NOI GINGI SIAMO VENUTI AD AIUTARE IL NOSTRO AMICO BANJO!" }
+  - { cmd: 0xB5, string: "VI AVEVO NASCOSTO PER ESSER STATI CATTIVI," }
+  - { cmd: 0xB5, string: "NON AIUTATE L'ORSO, ROVINERETE I MIEI OBIETTIVI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,8 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB8, string: "WOW, UN ALTRO TRICHECO! PRENDI QUESTO..." }
+  - { cmd: 0x07, string: "" }
+  - { cmd: 0xB8, string: "MA FAI ATTENZIONE A UN ORSO BRUNO PUZZOLENTE E AL SUO COMPAGNO VOLATILE." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

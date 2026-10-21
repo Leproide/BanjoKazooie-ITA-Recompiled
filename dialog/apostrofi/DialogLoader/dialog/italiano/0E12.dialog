@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "PERFETTO, AVETE IMPARATO TUTTE LE MOSSE DI BASE! RAGGIUNGETEMI IN CIMA AL MONTE SPIRALE E VI DIRO' COSA FARE DOPO." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

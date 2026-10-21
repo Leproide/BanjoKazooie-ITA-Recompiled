@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "NON HA FATTO MALE, NON PROVO DOLORE," }
+  - { cmd: 0xB5, string: "GRUNTY E' DISPOSTA A LOTTARE PER ORE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

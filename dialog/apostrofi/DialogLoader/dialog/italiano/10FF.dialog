@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "QUEL BRUTTO COLPO NON MI E' AFFATTO PIACIUTO," }
+  - { cmd: 0xB5, string: "MI SON SBILANCIATA E IL MIELE MI E' CADUTO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

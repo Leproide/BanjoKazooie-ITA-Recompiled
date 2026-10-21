@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0x93, string: "IL MIO TESORO NON PUOI RUBARMI," }
+  - { cmd: 0x93, string: "SE LO VOLEVI HAI FATTO MALE A SVEGLIARMI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

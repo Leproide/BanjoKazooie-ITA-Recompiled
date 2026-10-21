@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "PRIMA CHE IL MIO TESORO TU PRENDA," }
+  - { cmd: 0xB5, string: "IO DIVENTERÒ BELLA E TOOTY ORRENDA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

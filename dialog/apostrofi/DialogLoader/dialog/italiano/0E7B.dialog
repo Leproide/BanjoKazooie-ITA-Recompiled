@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x84, string: "AVERE FOTO DI COSE CHE AVETE DIMENTICATO. SEGRETI USATI NEL PROSSIMO GIOCO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

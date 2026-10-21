@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "PREPARATI A FARTI PICCHIARE," }
+  - { cmd: 0xB5, string: "FAI QUESTA PROVA, NON CE LA PUOI FARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

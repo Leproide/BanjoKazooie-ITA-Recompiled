@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "OSSERVA LA MIA SCOPA, GUARDAMI VOLARE," }
+  - { cmd: 0xB5, string: "MA TI CALCIO NEL SEDERE SE MI PROVI AD IMITARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

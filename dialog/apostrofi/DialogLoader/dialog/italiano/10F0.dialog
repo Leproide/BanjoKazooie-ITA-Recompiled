@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "AH, VEDO CHE SEI ABBATTUTO," }
+  - { cmd: 0xB5, string: "LE TUE SCARSE ABILITA' AVRAI RICONOSCIUTO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

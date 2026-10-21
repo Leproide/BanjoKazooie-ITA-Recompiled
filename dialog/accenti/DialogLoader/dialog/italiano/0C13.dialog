@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xBF, string: "FIU... SEMBRAVA IMPOSSIBILE, MA CE L'ABBIAMO FATTA. ORA ACCENDICI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

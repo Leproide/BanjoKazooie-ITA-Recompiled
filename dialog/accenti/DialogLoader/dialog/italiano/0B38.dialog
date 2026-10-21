@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x86, string: "URGGH! ORSO COLPITO CONGA, ME DÀ PREMIO A ORSO..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

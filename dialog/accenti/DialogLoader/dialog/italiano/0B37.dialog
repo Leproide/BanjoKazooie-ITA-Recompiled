@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x86, string: "ME SALVO QUI... ORSO NON PUÒ COLPIRE CONGA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

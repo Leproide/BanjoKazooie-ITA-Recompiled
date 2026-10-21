@@ -1,0 +1,10 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB7, string: "PERFETTO! ORA TUTTO QUELLO CHE DEVI FARE E' MANOVRARE LA TUA SLITTA ATTRAVERSO LE PORTE DI SLALOM ROSSE E ARRIVARE PRIMA DI ME AL TRAGUARDO. TUTTO CHIARO?" }
+  - { cmd: 0xB7, string: "3..." }
+  - { cmd: 0xB7, string: "2..." }
+  - { cmd: 0xB7, string: "1..." }
+  - { cmd: 0xB7, string: "VIA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

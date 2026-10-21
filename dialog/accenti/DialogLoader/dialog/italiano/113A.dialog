@@ -1,0 +1,8 @@
+type: Dialog
+bottom:
+  - { cmd: 0x97, string: "I NOSTRI NUOVI AMICI SONO NEI GUAI! NOI GINGI VI AIUTEREMO!" }
+  - { cmd: 0xB5, string: "HO NASCOSTO QUEI GINGI IN UN MODO ECCEZIONALE," }
+  - { cmd: 0xB5, string: "MA DEVO AVERE USATO UN INCANTESIMO BANALE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

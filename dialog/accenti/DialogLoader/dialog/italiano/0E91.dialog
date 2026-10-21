@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xDA, string: "GASP... TROPPO PESANTE..." }
+  - { cmd: 0x02, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

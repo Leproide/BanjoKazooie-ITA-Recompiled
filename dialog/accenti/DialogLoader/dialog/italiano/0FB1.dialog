@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xD8, string: "GUARDATEMI, SONO PIENO DI BUCCE DI PATATE E VERDURE AMMUFFITE..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

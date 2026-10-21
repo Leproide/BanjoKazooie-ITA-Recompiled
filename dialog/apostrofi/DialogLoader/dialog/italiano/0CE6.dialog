@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "IL MIO CAMPO SPINOSO TI FARA' URLARE," }
+  - { cmd: 0xB5, string: "E QUALCHE VITA PERSA NON PUO' MANCARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

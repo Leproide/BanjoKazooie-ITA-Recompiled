@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x84, string: "NON POSSO USARE MAGIA. GUARDA CARTELLO, VIA, PORTARE ALTRI SIMBOLI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

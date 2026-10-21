@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "IL SOPRANNOME DI QUELLA BEFANA DI GRUNTY ALLA SCUOLA DELLE STREGHE ERA ~!" }
+  - { cmd: 0x08, string: "ALITO DI PORCO" }
+  - { cmd: 0x08, string: "SEDERE CALDERONE" }
+  - { cmd: 0x08, string: "PANCIA GELATINOSA" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

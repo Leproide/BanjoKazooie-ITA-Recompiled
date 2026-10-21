@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB8, string: "CHI SI RIVEDE... CIAO DI NUOVO, SIGNOR TRICHECO. SENTITI LIBERO DI DARE UN'OCCHIATA ALLA GROTTA DI WOZZA COME SE FOSSE CASA TUA." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

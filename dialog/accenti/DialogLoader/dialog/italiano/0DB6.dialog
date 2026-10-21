@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x84, string: "EHI, QUELLA MAGIA BRUTTA! LAVATRICE NON BUONA COME ORSO, NON SGRIDARE MUMBO SE NON RIUSCIRE A SUPERARE TUTTI MONDI..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

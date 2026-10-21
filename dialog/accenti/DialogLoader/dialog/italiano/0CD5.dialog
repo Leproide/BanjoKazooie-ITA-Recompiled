@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC1, string: "COR... DI SOLITO NON RICEVO VISITE IN INVERNO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

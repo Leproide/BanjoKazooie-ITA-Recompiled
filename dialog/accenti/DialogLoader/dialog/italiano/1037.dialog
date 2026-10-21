@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "LA STRADA DA PRENDERE LA SCEGLI TE," }
+  - { cmd: 0xB5, string: "SE STAI PER PERDERE, NON GUARDAR ME!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

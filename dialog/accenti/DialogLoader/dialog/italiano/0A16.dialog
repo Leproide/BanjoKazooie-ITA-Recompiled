@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "QUEL TESORO ERA DI MIA PROPRIETÀ," }
+  - { cmd: 0xB5, string: "ORA IL GIOCO PIÙ DIFFICILE SARÀ!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

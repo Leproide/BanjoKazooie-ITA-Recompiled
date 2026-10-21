@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB8, string: "OH, CIELO... DI NUOVO L'ORSO! PRENDI QUEL FASTIDIOSO COSO ARANCIONE CON TE E LASCIA DA SOLO IL POVERO WOZZA..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

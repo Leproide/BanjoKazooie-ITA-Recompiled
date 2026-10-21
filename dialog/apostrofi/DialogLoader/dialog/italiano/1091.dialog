@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "E STARESTI MALE SE VEDESSI I SUOI ENORMI MUTANDONI ~!" }
+  - { cmd: 0x08, string: "A STRISCE MARRONI" }
+  - { cmd: 0x08, string: "A MACCHIE VIOLA" }
+  - { cmd: 0x08, string: "GIALLI DI SUDORE" }
+  - { cmd: 0x02, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

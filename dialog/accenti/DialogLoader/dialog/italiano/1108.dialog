@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "COSÌ È TROPPO FACILE, LO CONFESSO," }
+  - { cmd: 0xB5, string: "MA ORA OSSERVAMI ACCELERARE IL PROCESSO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

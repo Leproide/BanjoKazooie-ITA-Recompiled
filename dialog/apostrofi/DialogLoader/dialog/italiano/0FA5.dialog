@@ -1,0 +1,20 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCF, string: "CHEATO, IL LIBRO DEGLI INCANTESIMI, AVETE TROVATO, TRUCCHI MAGICI HO PER VOI!" }
+  - { cmd: 0xB5, string: "EHI, CERVELLO DI LIBRO, NON TI AZZARDARE!" }
+  - { cmd: 0xB5, string: "I MIEI INCANTESIMI NON PUOI SVELARE!" }
+  - { cmd: 0xCF, string: "STREGA PERSO LIBRO, TROVATO ORSO E UCCELLO, INCANTESIMO A LORO!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0xCF, string: "SOLO UN INCANTESIMO CHEATO PUO' DIRE. INSERITE IL CODICE '~' SUL PAVIMENTO DEL CASTELLO DI SABBIA NELL'ISOLA DEL TESORO. VI AIUTERA'!" }
+  - { cmd: 0x08, string: "BLUEEGGS" }
+  - { cmd: 0x08, string: "REDFEATHERS" }
+  - { cmd: 0x08, string: "GOLDFEATHERS" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0xCF, string: "NASCOSTI PER ANTRO ALTRI LIBRI DI INCANTESIMI SONO, TROVARLI DOVRETE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x82, string: "CERTO CHE LI SVELERA', BARBONA! ANDIAMO, LIBROTTO, DACCI GLI INCANTESIMI!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x80, string: "GRAZIE, SIGNOR CHEATO!" }
+  - { cmd: 0x04, string: "" }

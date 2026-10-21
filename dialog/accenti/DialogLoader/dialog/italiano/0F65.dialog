@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "PER APRIRE UNA PORTA NOTA, IL TOTALE COMBINATO DEI VOSTRI MIGLIOR PUNTEGGI NEI VARI MONDI DEVE ESSERE ALMENO PARI AL NUMERO SULLA PORTA." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

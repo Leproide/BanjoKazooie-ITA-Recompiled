@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "SOTT'ACQUA, BANJO PUO' PREMERE A PER CALCIARE LE SUE GAMBE E IL PRODIGIO ALATO PUO' PREMERE B PER USARE LE SUE ALI." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

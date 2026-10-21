@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "E' IL VOSTRO ULTIMO AVVERTIMENTO, NON RIFATELO UN'ALTRA VOLTA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

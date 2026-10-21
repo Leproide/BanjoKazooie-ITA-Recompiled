@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "LA MIGLIORE AMICA DI GRUNTY ALLA SCUOLA DELLE STREGHE ERA L'ORRENDA ~!" }
+  - { cmd: 0x08, string: "VIOLANTE CASCANTE" }
+  - { cmd: 0x08, string: "DONATA SUDATA" }
+  - { cmd: 0x08, string: "FIONA GRASSONA" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

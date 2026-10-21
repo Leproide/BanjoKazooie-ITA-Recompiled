@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "NON MI PIACE MOLTO SALIRE LE SCALE," }
+  - { cmd: 0xB5, string: "RISCHIO SEMPRE DI FARMI MALE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

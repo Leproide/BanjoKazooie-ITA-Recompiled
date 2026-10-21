@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "NON RIESCO A CREDERE CHE ABBIATE FATTO RITORNO," }
+  - { cmd: 0xB5, string: "STUPIDO ORSO E FUTURO POLLO AL FORNO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

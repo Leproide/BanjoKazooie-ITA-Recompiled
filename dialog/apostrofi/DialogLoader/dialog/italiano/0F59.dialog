@@ -1,0 +1,10 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "PER ACCEDERE AL MONDO MOSTRATO NEL QUADRO, DOVETE TAPPARE GLI SPAZI MANCANTI CON I PEZZI DI PUZZLE." }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x83, string: "BENISSIMO! PER INSERIRLO NEGLI SPAZI MANCANTI DI UN QUADRO, PREMETE A. SE NON VOLETE USARE NESSUN PEZZO, PREMETE B PER ALLONTANARVI." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x82, string: "ABBIAMO PRESO IL PRIMO PEZZO, QUATTROCCHI!" }
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,12 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "QUESTA MOSSA SFRUTTA LE ALI DELLA BECCUTA COME SCUDO CONTRO I CATTIVONI!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x83, string: "OVVIAMENTE! TENETE PREMUTO Z E PREMETE IL PULSANTE C DESTRO. CONTINUATE A TENERE PREMUTO Z E USATE LA LEVETTA ANALOGICA PER MUOVERVI. USATE QUESTA MOSSA SAGGIAMENTE, IN QUANTO RICHIEDE PIUME D'ORO E NE POTETE TRASPORTARE SOLO 10!" }
+  - { cmd: 0x83, string: "ECCO... PRENDETE QUESTE 5 PIUME D'ORO PREGIATE!" }
+  - { cmd: 0x07, string: "" }
+  - { cmd: 0x02, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x80, string: "FORTE... MI RENDERA' INVULNERABILE?" }
+  - { cmd: 0x04, string: "" }

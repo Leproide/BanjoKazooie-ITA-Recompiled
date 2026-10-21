@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB9, string: "SUONERO' IL MIO BRANO IN UN SECONDO MOMENTO," }
+  - { cmd: 0xB9, string: "RIUSCIRAI A SEGUIRMI CON UN PO' DI ALLENAMENTO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

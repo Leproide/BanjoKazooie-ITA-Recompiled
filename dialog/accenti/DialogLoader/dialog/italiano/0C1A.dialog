@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC5, string: "WUAAAH... DOVE SONO I NOSTRI REGALI?! PAPÀ BOGGY AVEVA DETTO CHE CE LI ANDAVA A PRENDERE! NON RITORNA DA UNA VITA... WUAAAAAAAH!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

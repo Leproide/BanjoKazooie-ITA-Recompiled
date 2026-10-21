@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "USATE LA LEVETTA ANALOGICA PER NUOTARE IN SUPERFICIE, POI PREMETE B PER IMMERGERVI SOTT'ACQUA." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

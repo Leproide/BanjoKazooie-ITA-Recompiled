@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB7, string: "ANDIAMO, SIGNOR TRICHECO, SALTA SULLA SLITTA E RIPROVACI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

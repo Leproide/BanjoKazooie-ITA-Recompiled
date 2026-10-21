@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xAB, string: "ACCIDENTI! PER FAVORE, APRIMI CON CAUTELA..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

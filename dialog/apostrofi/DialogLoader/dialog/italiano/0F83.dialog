@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCF, string: "CODICE E' 'ýhBLUEEGGSýl'. INSERITE CODICE SU PAVIMENTO DI CASTELLO DI SABBIA DELL'ISOLA DEL TESORO. SORPRESA FAVUOVOLOSA VI ASPETTA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

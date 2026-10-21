@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "IL TUO PIANO ASTUTO NON PUO' FUNZIONARE," }
+  - { cmd: 0xB5, string: "SONO CONVINTA CHE CE LA POSSO FARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

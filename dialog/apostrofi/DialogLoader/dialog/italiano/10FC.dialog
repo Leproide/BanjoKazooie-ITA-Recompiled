@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "SI', MI HAI PRESA, MA ORA BASTA RISATE," }
+  - { cmd: 0xB5, string: "LASCIA LI' LE MIE COSE, NON VANNO USATE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

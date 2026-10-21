@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCF, string: "STREGA ORSO SCONFIGGERA' SE INSERISCE CODICE 'ýhGOLDFEATHERSýl' SU PAVIMENTO DI CASTELLO DI SABBIA DELL'ISOLA DEL TESORO." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

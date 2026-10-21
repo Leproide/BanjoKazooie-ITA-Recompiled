@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "ASPETTATE! NON AVETE ANCORA IMPARATO TUTTE LE NUOVE MOSSE DELLA MONTAGNA DI MUMBO! NON POTRETE ANDARE TROPPO LONTANO SENZA..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

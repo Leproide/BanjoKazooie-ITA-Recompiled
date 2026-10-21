@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8B, string: "HURR... VERDINO CORAGGIOSO, MA MR. VILE MORDICCHIERA' PRESTO I SUOI CALZONCINI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

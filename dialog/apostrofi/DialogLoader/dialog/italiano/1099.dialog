@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "IL POVERETTO DI NOME ~ E' STATO IL SUO PRIMO E UNICO FIDANZATO!" }
+  - { cmd: 0x08, string: "ASSUNTO BISUNTO" }
+  - { cmd: 0x08, string: "SILVANO GROSSOLANO" }
+  - { cmd: 0x08, string: "NORTON NONMORTO" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

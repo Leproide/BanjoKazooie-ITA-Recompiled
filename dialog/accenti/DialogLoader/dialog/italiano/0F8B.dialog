@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "UNISCITI A ME E MOLLA L'ORSO," }
+  - { cmd: 0xB5, string: "QUELLO ZAINETTO FINIRÀ SUL MIO DORSO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

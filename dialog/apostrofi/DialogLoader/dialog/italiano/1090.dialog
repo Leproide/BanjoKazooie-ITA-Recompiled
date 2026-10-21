@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "INOLTRE, STA ANCHE COLTIVANDO ~ IN UNA PENTOLA A FIANCO DEL SUO LETTO! SPORCA VECCHIA CIABATTA!" }
+  - { cmd: 0x08, string: "UN FIORE DI BULBO OCULARE" }
+  - { cmd: 0x08, string: "UNA PIANTA DI VERRUCHE" }
+  - { cmd: 0x08, string: "UN CESPUGLIO DI MUCO" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

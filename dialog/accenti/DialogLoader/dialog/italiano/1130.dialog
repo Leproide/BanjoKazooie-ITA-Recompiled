@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "POSSO ANCHE ESSER VECCHIA E GROSSA UN BEL PO'," }
+  - { cmd: 0xB5, string: "MA SOTTO QUESTO INCANTESIMO MI NASCONDERÒ!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

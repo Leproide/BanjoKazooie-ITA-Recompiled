@@ -1,0 +1,10 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "ORA PROVA IL MIO TERRIBILE ATTACCO CAPRIOLA." }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x83, string: "ROTOLA CORRENDO E PREMENDO B, ADESSO VEDO SE RIESCO A TROVARE BAWL PER FARTI ESERCITARE CONTRO DI LUI..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x81, string: "VOGLIO IMPARARE A VOLARE ORA!" }
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0x84, string: "FOTO MOSTRANO COSE CHE AVETE DIMENTICATO. SEGRETI ESSERE PER NUOVO GIOCO" }
+  - { cmd: 0x84, string: "BANJO-TOOIE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

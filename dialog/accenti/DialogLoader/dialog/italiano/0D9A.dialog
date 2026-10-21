@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x97, string: "URRÀ, MI AVETE SALVATO! GRUNTILDA HA IMPRIGIONATO CINQUE DI NOI GINGI IN OGNI MONDO, LIBERATECI TUTTI PER OTTENERE UN JIGGY!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

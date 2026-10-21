@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCD, string: "IL TUO PREMIO È OLTRE IL CANCELLO," }
+  - { cmd: 0xCD, string: "MA PRIMA DI PRENDERLO TI SFIDO A UN DUELLO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

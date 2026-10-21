@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "AHI, IL MIO SEDERE, ME LO SENTO MANCARE," }
+  - { cmd: 0xB5, string: "TI FARO' SOFFRIRE, CI PUOI CONTARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

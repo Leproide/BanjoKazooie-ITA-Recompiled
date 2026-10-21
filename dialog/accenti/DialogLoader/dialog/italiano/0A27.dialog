@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "BEL LAVORO, AVETE IMPARATO TUTTE LE NUOVE MOSSE DELL'ISOLA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

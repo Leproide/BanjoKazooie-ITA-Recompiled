@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "RENDETEVI INVULNERABILI CON LE ALI D'ORO TENENDO PREMUTO Z E PREMENDO IL PULSANTE C DESTRO. CONTINUATE A TENERE PREMUTO Z E USATE LA LEVETTA ANALOGICA PER MUOVERVI." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,8 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC2, string: "CHI OSA ENTRARE NELLA STIVA DI BOSS BOOM BOX?" }
+  - { cmd: 0x07, string: "" }
+  - { cmd: 0xC2, string: "HO NASCOSTO IL MIO PEZZO DI PUZZLE, NON LO AVRAI MAI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

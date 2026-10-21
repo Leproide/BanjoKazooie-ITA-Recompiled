@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xA4, string: "MUMBO E' IN VACANZA, BUFFONE PELOSO! RITORNA IN PRIMAVERA..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

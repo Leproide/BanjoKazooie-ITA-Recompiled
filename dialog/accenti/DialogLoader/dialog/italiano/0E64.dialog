@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x80, string: "YAWN... CHE COSA C'È, KAZOOIE?" }
+  - { cmd: 0x04, string: "" }

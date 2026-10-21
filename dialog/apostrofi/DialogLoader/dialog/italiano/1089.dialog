@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "LO SPORT PREFERITO DELLA VECCHIA E GRASSA SORELLA E' ~!" }
+  - { cmd: 0x08, string: "LA GARA DI SPUTI" }
+  - { cmd: 0x08, string: "LA CADUTA DI PANCIA" }
+  - { cmd: 0x08, string: "LA GARA DI MANICI DI SCOPE" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

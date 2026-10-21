@@ -1,0 +1,13 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "L'AVETE VOLUTO VOI... STO CANCELLANDO LA VOSTRA CARTUCCIA!" }
+  - { cmd: 0x83, string: "3....." }
+  - { cmd: 0x83, string: "2....." }
+  - { cmd: 0x83, string: "1....." }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x83, string: "BENE, ALLORA DOVREMMO ANDARE A SALVARE TOOTY, CHE DICI?" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x80, string: "NO! CI DISPIACE, BOTTLES, NON LO FAREMO PIU'!" }
+  - { cmd: 0x04, string: "" }

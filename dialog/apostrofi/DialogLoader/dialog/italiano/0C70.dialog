@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8B, string: "URR... RIFACCIAMO IL SECONDO GIOCO. RICORDA... I ROSSI SONO BUONI, I GIALLI CATTIVI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

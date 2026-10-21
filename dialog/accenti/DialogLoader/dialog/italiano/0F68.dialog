@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "CI SONO TRE NUOVE MOSSE DA IMPARARE IN QUESTO MONDO. TROVATE LE MIE TANE E VE LE INSEGNERÒ." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

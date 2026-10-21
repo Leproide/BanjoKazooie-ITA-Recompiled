@@ -1,0 +1,10 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "QUELLO È TUO FRATELLO?" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x83, string: "LASSÙ NEL CIELO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0xB6, string: "DOVE, SIGNOR TALPA? NON LO VEDO..." }
+  - { cmd: 0x04, string: "" }

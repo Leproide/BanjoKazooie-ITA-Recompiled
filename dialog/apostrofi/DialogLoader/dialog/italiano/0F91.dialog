@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "STAI BENE ATTENTO AL TUO DIDIETRO," }
+  - { cmd: 0xB5, string: "IL MIO STIVALE OSCILLERA' AVANTI E INDIETRO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

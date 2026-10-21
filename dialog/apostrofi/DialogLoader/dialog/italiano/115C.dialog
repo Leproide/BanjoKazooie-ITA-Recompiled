@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "GRAZIE ALLA FORZA DI GRUNTY RESISTERO'," }
+  - { cmd: 0xB5, string: "QUANDO IL GINGIO SE NE ANDRA' TI FINIRO'!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

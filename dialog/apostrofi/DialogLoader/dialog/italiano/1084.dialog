@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "IN PIU', SI LAVA I CAPELLI CON ~. YUK!" }
+  - { cmd: 0x08, string: "I FAGIOLI AL FORNO" }
+  - { cmd: 0x08, string: "L'OLIO MOTORE" }
+  - { cmd: 0x08, string: "IL LATTE RANCIDO" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC8, string: "EYRIE VUOLE ALTRI BRUCHI DA ORSO! 10 QUESTA VOLTA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

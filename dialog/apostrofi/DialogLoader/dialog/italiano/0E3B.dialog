@@ -1,0 +1,8 @@
+type: Dialog
+bottom:
+  - { cmd: 0x84, string: "PROSSIMO SEGRETO TROVATO SU NEVE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x80, string: "QUELLA E' LA GROTTA DI WOZZA..." }
+  - { cmd: 0x04, string: "" }

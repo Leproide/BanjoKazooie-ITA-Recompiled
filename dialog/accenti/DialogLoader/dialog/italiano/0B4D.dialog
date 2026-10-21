@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "UN PO' SCIVOLOSO, EH? TROVATEMI E VI INSEGNERÒ COME SALIRE ERTI PENDII!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

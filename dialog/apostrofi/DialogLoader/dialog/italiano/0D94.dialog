@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x84, string: "ASPETTA, MUMBO BISOGNO DI NUOVI STIVALI! SOLO SCHERZANDO..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "WAHAY! AVETE SUPERATO IL VOSTRO MIGLIOR PUNTEGGIO DI NOTE TROVATE IN QUESTO MONDO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xAE, string: "EHI! STAI ATTENTO, GRASSONE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

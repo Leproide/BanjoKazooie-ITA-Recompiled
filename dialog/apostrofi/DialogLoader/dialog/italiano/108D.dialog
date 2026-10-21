@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "POI DI SOLITO MANGIA ~ PER CENA. YUK!" }
+  - { cmd: 0x08, string: "HOTDOG AL LETAME" }
+  - { cmd: 0x08, string: "STUFATO DI LUMACONE" }
+  - { cmd: 0x08, string: "TORTA AL VERME" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "AVETE TROVATO TUTTE E 100 LE NOTE DI QUESTO MONDO, BEN FATTO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

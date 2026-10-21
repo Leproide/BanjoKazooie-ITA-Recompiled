@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x84, string: "AHH... MUMBO FIERO DI INCANTESIMO DI ZUCCA, SI PUÒ FARE BUONA ZUPPA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

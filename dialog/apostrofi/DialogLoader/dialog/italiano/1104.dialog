@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "QUESTO INCANTESIMO, DEVI SAPERE," }
+  - { cmd: 0xB5, string: "AVRA' COME BERSAGLIO IL TUO SEDERE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

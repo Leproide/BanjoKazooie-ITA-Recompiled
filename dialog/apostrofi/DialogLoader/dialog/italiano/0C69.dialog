@@ -1,0 +1,10 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8B, string: "BAH! VERDINO FORTUNATO VINCE. ORA E' IL MOMENTO DELL'ULTIMO GIOCO. MANGIA SOLO QUELLO CHE VIENE MOSTRATO IN ALTO NELLO SCHERMO. PRONTO?" }
+  - { cmd: 0x8B, string: "3..." }
+  - { cmd: 0x8B, string: "2..." }
+  - { cmd: 0x8B, string: "1..." }
+  - { cmd: 0x8B, string: "VIA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

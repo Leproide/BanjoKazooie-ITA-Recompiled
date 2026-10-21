@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xA9, string: "NOI JUJU, IL TOTEM DI MUMBO. NUTRICI CON BUONE PIETRE BLU." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

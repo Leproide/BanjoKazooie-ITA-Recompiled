@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x89, string: "BZZZZ... A CLANKER FANNO MALE I DENTI, MANGIATA TROPPA SPAZZATURA. AIUTARE CLANKER..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

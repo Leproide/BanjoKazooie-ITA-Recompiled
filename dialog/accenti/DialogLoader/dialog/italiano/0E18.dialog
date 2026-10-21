@@ -1,0 +1,8 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "MMMM... NON MALE, FACCIA DI PIUME!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x81, string: "DAMMENE UN ALTRO, BELLOCCHIO!" }
+  - { cmd: 0x04, string: "" }

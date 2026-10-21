@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "FINCHÉ PIÙ RAPIDI NON SARETE," }
+  - { cmd: 0xB5, string: "A ENTRARE IN TEMPO NON RIUSCIRETE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

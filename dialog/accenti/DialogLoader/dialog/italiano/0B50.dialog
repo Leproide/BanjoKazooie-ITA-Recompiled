@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "SE NON AVETE ANCORA BISOGNO DELLO STRUMENTO CHE AVETE RACCOLTO, LA BECCUTA LO METTERÀ NELLO ZAINO." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

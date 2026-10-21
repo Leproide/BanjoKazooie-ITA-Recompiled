@@ -1,0 +1,12 @@
+type: Dialog
+bottom:
+  - { cmd: 0x87, string: "EHILA' DALLA NAVE! SONO CAPITAN BLUBBER, E HO PERSO IL MIO TESORO QUANDO LA MIA NAVE SI E' SCHIANTATA." }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x87, string: "ARRR... MA NON SO NUOTARE! POTETE AIUTARE UN VECCHIO IPPOPOTAMO DI MARE?" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x82, string: "ALLORA VATTELO A CERCARE, PIAGNUCOLONE!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x80, string: "CERTO, LO TROVEREMO PER TE." }
+  - { cmd: 0x04, string: "" }

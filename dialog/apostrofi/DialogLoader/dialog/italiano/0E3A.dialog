@@ -1,0 +1,15 @@
+type: Dialog
+bottom:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x84, string: "ORSO E UCCELLO DEVONO SALIRE IN CIMA..." }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x84, string: "ASPETTA E VEDERE, SUDICIA PIUMATA..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x80, string: "WOW... UNA CAVERNA SEGRETA!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x81, string: "COSA C'E' LASSU', TONTESCHIO?" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x80, string: "GULP... SEMBRA PIUTTOSTO IN ALTO..." }
+  - { cmd: 0x81, string: "NON TI PREOCCUPARE, BANJO, SEMBRA CHE DEBBA PENSARE IO A FARCI ARRIVARE IN CIMA!" }
+  - { cmd: 0x04, string: "" }

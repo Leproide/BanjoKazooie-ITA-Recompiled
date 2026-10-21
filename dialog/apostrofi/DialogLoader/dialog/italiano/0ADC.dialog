@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "QUESTI DUE OSPITI SONO PROPRIO DEI FALLITI," }
+  - { cmd: 0xB5, string: "ACCERTIAMOCI CHE SI SENTANO SGRADITI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

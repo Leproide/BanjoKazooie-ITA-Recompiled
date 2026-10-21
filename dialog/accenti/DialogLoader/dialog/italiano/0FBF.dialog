@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "NON MI HAI ASCOLTATO, SONO STUPITA," }
+  - { cmd: 0xB5, string: "DÌ CIAO CIAO ALLA TUA PARTITA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

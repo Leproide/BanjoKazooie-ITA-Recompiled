@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xA3, string: "DOVETE CERCARE 10 DI NOI IN OGNI MONDO. VI AIUTEREMO AD ATTRAVERSARE L'ANTRO DELLA STREGA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC7, string: "BURP! EYRIE PIENO ORA, HA ANCORA SONNO..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

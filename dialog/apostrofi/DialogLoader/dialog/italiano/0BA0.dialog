@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "STUPIDO ORSO, TI FACCIO NOTARE," }
+  - { cmd: 0xB5, string: "CHE I FORNI BOLLENTI TENDONO A SCOTTARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

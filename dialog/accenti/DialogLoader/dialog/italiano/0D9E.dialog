@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x9B, string: "NOI SIAMO LE UOVA! KAZOOIE PUÒ IMPARARE AD USARCI COME MUNIZIONI!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

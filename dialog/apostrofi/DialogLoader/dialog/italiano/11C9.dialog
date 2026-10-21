@@ -1,0 +1,11 @@
+type: Dialog
+bottom:
+  - { cmd: 0xD6, string: "SBRIGATI E PORTACI A CASA, BANJO!" }
+  - { cmd: 0xD5, string: "PUFF... PANT... STO ANDANDO PIU' VELOCE CHE POSSO!" }
+  - { cmd: 0xD6, string: "EHI! GUARDA LAGGIU', ABBIAMO MANCATO UNA CAROTA..." }
+  - { cmd: 0xD5, string: "PRESA! SEI FELICE, ORA?" }
+  - { cmd: 0x83, string: "FORZA, VOI DUE, SIAMO PRONTI PER FESTEGGIARE!" }
+  - { cmd: 0xD5, string: "FORTE, AVREI PROPRIO BISOGNO DI BERE QUALCOSA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

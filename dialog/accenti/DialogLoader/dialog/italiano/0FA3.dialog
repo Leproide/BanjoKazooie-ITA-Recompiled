@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "TOOTY MI HA DETTO CHE STA BENE ANCHE QUA," }
+  - { cmd: 0xB5, string: "SE RITORNI A CASA LIBERATA VERRÀ!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "HO QUESTA GONNA PERCHE' COSI', QUANDO SARO' PIU' SNELLA," }
+  - { cmd: 0xB5, string: "MI RENDERA' ANCORA PIU' BELLA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

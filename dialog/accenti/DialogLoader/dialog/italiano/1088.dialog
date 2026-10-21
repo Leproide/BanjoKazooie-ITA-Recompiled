@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "E IL COLORE PREFERITO DELLA VECCHIA STREGA È ~!" }
+  - { cmd: 0x08, string: "GRIGIO SPETTRALE" }
+  - { cmd: 0x08, string: "MARRON LETAME" }
+  - { cmd: 0x08, string: "VERDE MACABRO" }
+  - { cmd: 0x02, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

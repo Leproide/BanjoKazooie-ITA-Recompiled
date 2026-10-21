@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xAD, string: "CIAO, SONO GLOOP! PRENDI LE MIE BOLLE SE SEI A CORTO D'ARIA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

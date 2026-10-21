@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "INCANTESIMI PIOVONO SOPRA LA TUA TESTA," }
+  - { cmd: 0xB5, string: "NON HAI POSSIBILITA' QUANDO MI SENTO UNA TEMPESTA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

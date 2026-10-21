@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB3, string: "INVOCA TUTTI GLI ANELLI NASCOSTI DEGLI ANTICHI PER SCONFIGGERE LA STREGA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

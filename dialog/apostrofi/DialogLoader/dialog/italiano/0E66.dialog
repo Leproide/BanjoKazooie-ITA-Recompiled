@@ -1,0 +1,18 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "SE QUESTA MACCHINA FUNZIONERA'," }
+  - { cmd: 0xB5, string: "LA SUA BELLEZZA TOOTY MI CEDERA'!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0xB5, string: "VENIRE A SALVARTI NON OSERA'," }
+  - { cmd: 0xB5, string: "NEL MIO ANTRO CI SONO TANTE DIFFICOLTA'!" }
+  - { cmd: 0xB5, string: "SBRIGATI, KLUNGO, PREMI QUEL PULSANTE," }
+  - { cmd: 0xB5, string: "SONO STANCA DI ESSERE UNA STREGA INQUIETANTE!" }
+  - { cmd: 0xD2, string: "SSSI', PADRONA GRUNTY! CORRENTE ATTIVATA, PRESSSTO PRONTA..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0xB6, string: "LASCIAMI ANDARE, STREGA CICCIONA! MIO FRATELLO MI TROVERA'" }
+  - { cmd: 0xB6, string: "E TI CALCERA' NEL SEDERE!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0xB6, string: "BANJO......... AIUTO!" }
+  - { cmd: 0x04, string: "" }

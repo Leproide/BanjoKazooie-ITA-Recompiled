@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "POVERA VECCHIA GRUNTY, DESTINATA A PRECIPITARE," }
+  - { cmd: 0xB5, string: "QUESTO INCANTESIMO ORA STO PER SFRUTTARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

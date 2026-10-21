@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xA0, string: "MMMM... SONO DEL GUSTOSISSIMO MIELE ENERGETICO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

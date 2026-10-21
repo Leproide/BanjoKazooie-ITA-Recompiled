@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x99, string: "SONO UNA NOTA MUSICALE, UNA SU 100 IN OGNI MONDO. COLLEZIONATECI PER APRIRE LE PORTE NOTA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

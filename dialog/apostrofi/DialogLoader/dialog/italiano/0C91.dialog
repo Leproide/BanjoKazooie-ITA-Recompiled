@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x8B, string: "IL VERDINO PENSA DI AVERE SPERANZE, EH? COME AL SOLITO, VINCI 3 GIOCHI PER RICEVERE 3 VITE EXTRA! PREMI A PER ACCETTARE PREMI A PER ACCETTARE O B PER STRISCIARE VIA COME UN SERPENTE!" }
+  - { cmd: 0x01, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

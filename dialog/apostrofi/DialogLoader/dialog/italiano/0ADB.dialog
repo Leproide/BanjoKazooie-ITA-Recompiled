@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xBA, string: "FINALMENTE, IL PUZZLE E' STATO RISOLTO! PRENDI QUESTA COSA, ME NE VADO DA QUESTO LUGUBRE CAPANNONE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

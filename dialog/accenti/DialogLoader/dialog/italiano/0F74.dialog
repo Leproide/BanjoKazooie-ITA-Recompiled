@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "EVVIVA! AVETE COLLEZIONATO ABBASTANZA NOTE PER ROMPERE L'INCANTESIMO DELLA PRIMA PORTA NOTA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

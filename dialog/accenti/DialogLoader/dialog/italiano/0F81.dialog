@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "COSA C'È, BANJO, QUALCOSA NON VA?" }
+  - { cmd: 0xB5, string: "FAMMI SAPERE QUANDO VUOI FINIRLA QUA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

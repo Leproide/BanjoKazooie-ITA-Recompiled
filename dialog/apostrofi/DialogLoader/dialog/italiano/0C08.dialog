@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB7, string: "VORREI FARE UN'ALTRA GARA, MA SEI TROPPO BRAVO PER ME. DOVE E' ANDATO QUELL'ORSO OBESO?" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

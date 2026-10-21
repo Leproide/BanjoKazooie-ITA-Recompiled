@@ -1,0 +1,10 @@
+type: Dialog
+bottom:
+  - { cmd: 0x83, string: "ANDIAMO, AMMASSO DI PIUME... PUOI DARGLI UNA MANO!" }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x83, string: "SALTATE, POI PREMETE A ANCORA IN ARIA PER UN DOPPIO SALTO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x81, string: "PERCHÉ? SARÒ RIDICOLA, ME LO SENTO!" }
+  - { cmd: 0x04, string: "" }

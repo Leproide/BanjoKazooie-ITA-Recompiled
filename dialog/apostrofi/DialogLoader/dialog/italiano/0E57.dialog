@@ -1,0 +1,11 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "DINGPOT, DINGPOT DELLE MIE BRAME," }
+  - { cmd: 0xB5, string: "CHI E' LA PIU' BELLA TRA TUTTO IL CIARPAME?" }
+  - { cmd: 0xD8, string: "E' GRUNTY, LA PIU' BELLA DEL CREATO," }
+  - { cmd: 0xD8, string: "MI LASCIA SEMPRE SENZA FIATO... COFF!" }
+  - { cmd: 0xB5, string: "SI', HAI RAGIONE, SONO ABBASTANZA ORGOGLIOSA," }
+  - { cmd: 0xB5, string: "IL MIO ASPETTO MI FA SENTIR MERAVIGLIOSA!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

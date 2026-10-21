@@ -1,0 +1,7 @@
+type: Dialog
+bottom:
+  - { cmd: 0xB5, string: "IL MIO COLPO DI FUOCO HAI APPENA ASSAGGIATO," }
+  - { cmd: 0xB5, string: "GLI INCANTESIMI DI GRUNTY SU DI TE HO SPRECATO!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

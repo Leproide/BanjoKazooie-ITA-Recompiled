@@ -1,0 +1,11 @@
+type: Dialog
+bottom:
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x84, string: "NO, UCCELLO MALEDUCATO CON MUMBO, NON PARLARE!" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x81, string: "MUMBO CARO, DICCI A COSA SERVONO LE UOVA E LA CHIAVE, PER FAVORE..." }
+  - { cmd: 0x06, string: "" }
+  - { cmd: 0x80, string: "MI CHIEDO COSA CI POSSA ESSERE LÌ..." }
+  - { cmd: 0x81, string: "UH, È UN ALTRO STUPIDO UOVO..." }
+  - { cmd: 0x04, string: "" }

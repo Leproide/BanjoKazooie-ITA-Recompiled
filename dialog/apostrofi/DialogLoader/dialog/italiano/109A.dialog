@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "QUANDO ERA PICCOLA, GRUNTY AVEVA ~ COME ANIMALE DOMESTICO!" }
+  - { cmd: 0x08, string: "UN CUCCIOLO DI DRAGO" }
+  - { cmd: 0x08, string: "UN FACOCERO OBESO" }
+  - { cmd: 0x08, string: "UN AVVOLTOIO SQUILIBRATO" }
+  - { cmd: 0x02, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

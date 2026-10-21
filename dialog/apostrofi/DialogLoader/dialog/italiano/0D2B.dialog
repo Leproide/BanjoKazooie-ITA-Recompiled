@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x89, string: "BZZZ... IO SONO CLANKER, TRITARIFIUTI DELLA STREGA. A CLANKER NON PIACE ACQUA SPORCA, VOLERE ARIA FRESCA." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

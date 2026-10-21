@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0x89, string: "MAL DI DENTI IN QUESTO FIANCO PASSATO, CLANKER INGHIOTTITO RICOMPENSA." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

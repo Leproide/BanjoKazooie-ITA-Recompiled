@@ -1,0 +1,19 @@
+type: Dialog
+bottom:
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x80, string: "" }
+  - { cmd: 0x07, string: "" }
+  - { cmd: 0x80, string: "QUALE PREMIO DOVREMMO SCEGLIERE, KAZOOIE?" }
+  - { cmd: 0x07, string: "" }
+  - { cmd: 0xB6, string: "IO! IO! IO! IO!" }
+  - { cmd: 0x07, string: "" }
+  - { cmd: 0x81, string: "UHM... CHE NE DICI DI QUELL'ORRENDA BAMBOLA?" }
+  - { cmd: 0x80, string: "PENSO CHE DOVREMMO PRENDERE TOOTY..." }
+  - { cmd: 0x81, string: "È QUELLO A CUI MI RIFERIVO!" }
+  - { cmd: 0x80, string: "KAZOOIE!!!" }
+  - { cmd: 0x07, string: "" }
+  - { cmd: 0xB6, string: "PER FAVORE, BANJO, ORA POSSIAMO ANDARE A CASA? NE HO ABBASTANZA DI AVVENTURE PER OGGI!" }
+  - { cmd: 0x07, string: "" }
+  - { cmd: 0x80, string: "CERTO, ANDIAMO VIA DA QUESTA DISCARICA!" }
+  - { cmd: 0x04, string: "" }

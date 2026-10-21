@@ -1,0 +1,9 @@
+type: Dialog
+bottom:
+  - { cmd: 0xCB, string: "GRUNTY SI LAVA I SUOI DENTI MARCI CON DEL DENTIFRICIO AL GUSTO DI ~!" }
+  - { cmd: 0x08, string: "GELATO AL POMODORO" }
+  - { cmd: 0x08, string: "LUMACA SALATA" }
+  - { cmd: 0x08, string: "FORMAGGIO AMMUFFITO" }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }

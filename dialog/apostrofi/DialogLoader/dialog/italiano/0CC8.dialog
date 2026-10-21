@@ -1,0 +1,6 @@
+type: Dialog
+bottom:
+  - { cmd: 0xC4, string: "CHOMP... CHEW... A NABNUT PIACCIONO LE GHIANDE! NE MANGIERO' ANCORA UN PO'..." }
+  - { cmd: 0x04, string: "" }
+top:
+  - { cmd: 0x04, string: "" }
